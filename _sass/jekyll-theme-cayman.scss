@@ -29,7 +29,7 @@ body {
   padding: 0;
   margin: 0;
   font-family: "Cardo", Georgia, serif;
-  font-size: 16px;
+  font-size: 24px;
   line-height: 1.5;
   color: $body-text-color;
 }
@@ -207,6 +207,7 @@ a {
   h4,
   h5,
   h6 {
+    font-family: "IBM Plex Sans", Helvetica, Arial, sans-serif;
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-weight: normal;
