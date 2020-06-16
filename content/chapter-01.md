@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+permalink: /chapter-1
+section: 'Chapter 01.'
+title: 'Designing Hope'
 ---
 
 Every designer contends with a certain restlessness. Something beckons from within, whispering that the world around us could be better. It’s a type of idealism that feels attainable. And so, as designers, this restlessness fuels us to take a closer look and ask, “Is a better way possible?”
@@ -9,6 +10,7 @@ Every designer contends with a certain restlessness. Something beckons from with
 This question can feel rhetorical, but we usually have an internal answer—something that sounds something like, “There’s got to be a better way to do this.” And there’s a confidence in this refrain. Rather than pure perfectionism, it’s the drive to keep improving. No one with a designer’s intent sets out to make something more difficult, complex, or convoluted, though these attributes can become unintended byproducts when pursuing improvement.
 
 We must learn to channel this restlessness into betterment because it is also true that constant critique and analysis can become fertile ground for cynicism. This drive for better is beautiful. It can lead to innovation and reinvention. When we lean in a little closer we realize this drive is hope.
+
 
 
 ## Answering fear
@@ -20,21 +22,23 @@ What I didn’t expect was for anxiety and depression to follow me into my adult
 Hope became more than just a nice strategy emblazoned upon a motivational poster. It became my medicine. I quickly realized that true hope had an answer for fear in it’s expectant confidence. Hope is a muscle that requires constant exercise. Often I’ve found that hope presents itself as a choice. Hope is always present, it just requires the right eyes to see it. It often appears very blurry just upon the horizon taking time to come into focus. What is encouraging is that anyone can learn to see it. However, it will require us to redefine some terms that have lost their power in our lexicon.
 
 
+
 ## Changing our definition
 
 Hope is a word that creeps its way casually into my daily conversations. I hope it won’t rain today, just as I hope the coffee pot isn’t empty. It’s a word we’ve given a new, social meaning. It’s an expectation that can have even the most mundane requests. However, my favorite definition of the word is often listed right below our casual definition in the dictionary. This definition is powerful in describing a feeling of trust, a confident expectation.
 
 Webster himself wrestled with its definitions in his 1828 Dictionary.
 
-Hope: A desire of some good, accompanied with at least a slight expectation of obtaining it, or a belief that it is obtainable. hope differs from wish and desire in this, that it implies some expectation of obtaining the good desired, or the possibility of possessing it. hope therefore always gives pleasure or joy; whereas wish and desire may produce or be accompanied with pain and anxiety.
+> Hope: A desire of some good, accompanied with at least a slight expectation of obtaining it, or a belief that it is obtainable. hope differs from wish and desire in this, that it implies some expectation of obtaining the good desired, or the possibility of possessing it. hope therefore always gives pleasure or joy; whereas wish and desire may produce or be accompanied with pain and anxiety.
 
 This first definition plants the seed of possibility. It seeks not only to define what hope is but also to reaffirm what it isn’t. It even ends with a veiled warning that, “Wish and desire may produce or be accompanied with pain and anxiety.” This distinction is crucial in my work. His second definition gets closer to the hope I’ve grown to know and love.
 
-Hope: Confidence in a future event; the highest degree of well founded expectation of good.
+> Hope: Confidence in a future event; the highest degree of well founded expectation of good.
 
 I don’t think hope is simply an antidote to the restlessness I spoke of earlier, I think it goes much deeper. Webster arrives at it in defining, “The highest degree of well founded expectation of good.” Hope comes when we are searching for the good, beautiful, and true. It’s not about convenience, comfort, or efficiency. It’s about what is good for others. 
 
 Hope requires morality; it requires a point of view, an answer to this question. Hopefulness can be jarring for people not used to encountering its authenticity. When we peel away the lifeless exoskeleton of our modern definition, we find true hope rooted in humility. And real hope can get you in a lot of trouble, so proceed with caution.
+
 
 
 ## Hoping for others
@@ -52,6 +56,7 @@ I have a strong hypothesis that a lot of the negative feedback that creates desi
 We have a propensity to use language in design that inherently creates inanimate entities. Words like “brand,” “product,” and “application” begin to feel sterile when they become too commonplace in our vocabulary. And they become completely lifeless when divorced from the real people that they are serving. These final products are only as powerful and organic as the real-life interactions they foster.
 
 
+
 ## Providing light
 
 It’s our job to generate hope not only in our processes, but also on behalf of those whom we are serving. Just as hopelessness can spread like wildfire, so too can hopefulness. Sometimes it takes a while for our clients to rekindle hope in their mission, brand, or product, but that simple spark left smoldering can generate a flame. The larger the organization, the longer these effects can take to spread out to the edges.
@@ -63,6 +68,7 @@ To our clients, hope often doesn’t feel anything like a confident expectation;
 We have to remember that hope can be taught. It’s our responsibility — better yet our privilege — to redirect our client’s expectation toward an attainable future.
 
 
+
 ## More than blind optimism
 
 The truth is that hope will take hard work. True confidence doesn’t come without the proper amount of elbow grease. Blissful ignorance can be quite good at perpetuating blind optimism.
@@ -70,6 +76,7 @@ The truth is that hope will take hard work. True confidence doesn’t come witho
 However hope doesn’t come without belief in an outcome. Hopefulness is a form of optimism that looks for the true and beautiful rather than endlessly searching for the imperfections around us. Paying closer attention to the systems around us reveals their troubled nature. Offsetting this harsh reality with blind-folded positivity isn’t hope at all but rather something else.
 
 Maybe the confidence aspect of hope is informed by experience. Maybe it comes from trusting the discipline. Regardless of its source, we know that it comes from an intimacy with the problems we’re solving. You cannot solve what you do not know. We have to hear from real people and live among their words. Only then can we have the confidence to begin removing their barriers.
+
 
 
 ## Advocating through design
@@ -87,7 +94,8 @@ We navigate this taut line between our clients and their users like a high-wire 
 This approach also affirms our pivot to hope being a confident expectation. When I begin to encounter challenges I can confidently ask, “Did I listen well enough?” Stories often illuminate the pathways. Remember the solution is often right in front of us living in the stories of both our clients and our users.
 
 
-What hope requires
+
+## What hope requires
 
 In our daily work, hopelessness can cause us to respond cynically with phrases like, “It’s just not my job to _____________.” (I’ll let you fill in the blank.) Encouraging our clients is often out of scope, inefficient, and doesn’t always impact our profit margins, but I believe it’s our job and the source of a wealth of hope.
 
