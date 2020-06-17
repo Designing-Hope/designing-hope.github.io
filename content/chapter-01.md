@@ -106,7 +106,7 @@ In our daily work, hopelessness can cause us to respond cynically with phrases l
 True hope calls us to have courage and endurance. It will take time to foster within ourselves and even more time to foster within the organizations we’re serving. We must remember that though a spark can cause a wildfire of hopelessness, so too can it shed the right amount of light to foster hopefulness. However, the time required shouldn’t deter us from seeking hope as our end.
 
 
-• • •
+###### • • •
 
 
 ### Practice:
