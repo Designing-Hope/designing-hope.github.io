@@ -30,12 +30,12 @@ Hope is a word that creeps its way casually into my daily conversations. I hope 
 Webster himself wrestled with its definitions in his 1828 Dictionary.
 
 >
-*Hope:* A desire of some good, accompanied with at least a slight expectation of obtaining it, or a belief that it is obtainable. hope differs from wish and desire in this, that it implies some expectation of obtaining the good desired, or the possibility of possessing it. hope therefore always gives pleasure or joy; whereas wish and desire may produce or be accompanied with pain and anxiety.
+**Hope:** A desire of some good, accompanied with at least a slight expectation of obtaining it, or a belief that it is obtainable. hope differs from wish and desire in this, that it implies some expectation of obtaining the good desired, or the possibility of possessing it. hope therefore always gives pleasure or joy; whereas wish and desire may produce or be accompanied with pain and anxiety.
 
 This first definition plants the seed of possibility. It seeks not only to define what hope is but also to reaffirm what it isn’t. It even ends with a veiled warning that, “Wish and desire may produce or be accompanied with pain and anxiety.” This distinction is crucial in my work. His second definition gets closer to the hope I’ve grown to know and love.
 
 >
-*Hope:* Confidence in a future event; the highest degree of well founded expectation of good.
+**Hope:** Confidence in a future event; the highest degree of well founded expectation of good.
 
 I don’t think hope is simply an antidote to the restlessness I spoke of earlier, I think it goes much deeper. Webster arrives at it in defining, “The highest degree of well founded expectation of good.” Hope comes when we are searching for the good, beautiful, and true. It’s not about convenience, comfort, or efficiency. It’s about what is good for others. 
 
@@ -110,7 +110,7 @@ True hope calls us to have courage and endurance. It will take time to foster wi
 ### Practice:
 
 ## 01. Talk about hope. 
-#####There are topics that we neglect because we feel like they should be assumed. Hope is the foundation, so it’s well worth mentioning. It’s ok to tell those you’re serving that hope is your goal. Speak it into existence.
+##### There are topics that we neglect because we feel like they should be assumed. Hope is the foundation, so it’s well worth mentioning. It’s ok to tell those you’re serving that hope is your goal. Speak it into existence.
 
 
 [back](./)
