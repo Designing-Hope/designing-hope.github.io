@@ -5,6 +5,8 @@ section: 'Chapter 01.'
 title: 'Designing Hope'
 ---
 
+
+
 ***
 
 #### Every designer contends with a certain restlessness. Something beckons from within, whispering that the world around us could be better. It’s a type of idealism that feels attainable. And so, as designers, this restlessness fuels us to take a closer look and ask, “Is a better way possible?”
@@ -115,4 +117,3 @@ True hope calls us to have courage and endurance. It will take time to foster wi
 ##### There are topics that we neglect because we feel like they should be assumed. Hope is the foundation, so it’s well worth mentioning. It’s ok to tell those you’re serving that hope is your goal. Speak it into existence.
 
 
-[back](./)
