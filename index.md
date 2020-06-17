@@ -5,9 +5,9 @@ title: Table of Contents
 
 
 <div class="toc">
-    <h4>Chapter 1</h4>
-    <h4>Chapter 1</h4>
-    <h4>Chapter 1</h4>
+    <h4>Foreword</h4>
+    <h4>Preface</h4>
+    <h4>Introduction</h4>
   <a href="/chapter-1" class="">
     <h2>Chapter 1</h2>
   </a>
@@ -18,6 +18,8 @@ title: Table of Contents
     <h2>Chapter 6</h2>
     <h2>Chapter 7</h2>
     <h2>Chapter 8</h2>
+    <h4>Epilogue</h4>
+    <h4>Acknowledgments</h4>
 </div>
 
 
