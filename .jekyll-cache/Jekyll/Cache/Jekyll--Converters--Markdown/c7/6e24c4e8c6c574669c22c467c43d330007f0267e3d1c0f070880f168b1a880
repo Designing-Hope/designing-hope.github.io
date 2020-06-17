@@ -1,29 +1,7 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-
-    
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-
-    <title>Table of Contents â€” Designing Hope</title>
-
-    <link rel="stylesheet" href="/assets/css/style.css?v=">
-  </head>
-  <body>
-    <header class="page-header" role="banner">
-      
-      <h1 class="project-name">Table of Contents</h1>
-    </header>
-
-    
-    <main id="content" class="main-content" role="main">
-      <div class="toc">
-    <h4>Chapter 1</h4>
-    <h4>Chapter 1</h4>
-    <h4>Chapter 1</h4>
+I"Š<div class="toc">
+    <h3>Chapter 1</h3>
+    <h3>Chapter 1</h3>
+    <h3>Chapter 1</h3>
   <a href="/chapter-1" class="">
     <h2>Chapter 1</h2>
   </a>
@@ -201,10 +179,4 @@
 
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>The final element.
 </code></pre></div></div>
-
-
-      <footer class="site-footer">
-      </footer>
-    </main>
-  </body>
-</html>
+:ET

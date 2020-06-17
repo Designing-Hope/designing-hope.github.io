@@ -5,18 +5,19 @@ title: Table of Contents
 
 
 <div class="toc">
+    <h4>Chapter 1</h4>
+    <h4>Chapter 1</h4>
+    <h4>Chapter 1</h4>
   <a href="/chapter-1" class="">
     <h2>Chapter 1</h2>
-    <p>description</p>
   </a>
-  <a href="/chapter-1" class="">
-    <h2>Chapter 1</h2>
-    <p>description</p>
-  </a>
-  <a href="/chapter-1" class="">
-    <h2>Chapter 1</h2>
-    <p>description</p>
-  </a>
+    <h2>Chapter 2</h2>
+    <h2>Chapter 3</h2>
+    <h2>Chapter 4</h2>
+    <h2>Chapter 5</h2>
+    <h2>Chapter 6</h2>
+    <h2>Chapter 7</h2>
+    <h2>Chapter 8</h2>
 </div>
 
 
