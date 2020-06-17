@@ -109,7 +109,7 @@ True hope calls us to have courage and endurance. It will take time to foster wi
 
 ### Practice:
 
-## 01. Talk about hope.
+## 01. Talk about hope.<br/>
 ##### There are topics that we neglect because we feel like they should be assumed. Hope is the foundation, so it’s well worth mentioning. It’s ok to tell those you’re serving that hope is your goal. Speak it into existence.
 
 
