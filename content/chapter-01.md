@@ -5,7 +5,7 @@ section: 'Chapter 01.'
 title: 'Designing Hope'
 ---
 
-Every designer contends with a certain restlessness. Something beckons from within, whispering that the world around us could be better. It’s a type of idealism that feels attainable. And so, as designers, this restlessness fuels us to take a closer look and ask, “Is a better way possible?”
+#### Every designer contends with a certain restlessness. Something beckons from within, whispering that the world around us could be better. It’s a type of idealism that feels attainable. And so, as designers, this restlessness fuels us to take a closer look and ask, “Is a better way possible?”
 
 This question can feel rhetorical, but we usually have an internal answer—something that sounds something like, “There’s got to be a better way to do this.” And there’s a confidence in this refrain. Rather than pure perfectionism, it’s the drive to keep improving. No one with a designer’s intent sets out to make something more difficult, complex, or convoluted, though these attributes can become unintended byproducts when pursuing improvement.
 
