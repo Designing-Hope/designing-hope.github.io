@@ -22,6 +22,8 @@
   </head>
   <body>
     <header class="page-header" role="banner">
+      <br/><br/>
+      <a href="/">Back</a><br/><br/>
       {% if page.section %}
       <h3>{{ page.section }}</h3>
     {% endif %}
@@ -30,9 +32,11 @@
 
     
     <main id="content" class="main-content" role="main">
+      <div class="main-copy">
       {{ content }}
-
+      </div>
       <footer class="site-footer">
+        <em>Designing Hope</em> was written &amp; produced by Jeremy D. Cherry.    LICENSE — CC BY-NC-ND
       </footer>
     </main>
   </body>

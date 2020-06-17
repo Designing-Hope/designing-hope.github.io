@@ -1,0 +1,21 @@
+I"\<div class="row">
+  <div class="column"></div>
+  <div class="column"></div>
+</div>
+
+<div class="toc">
+    <a href="/foreword" class=""><h4>Foreword</h4></a>
+    <a href="/preface" class=""><h4>Preface</h4></a>
+    <a href="/introduction" class=""><h4>Introduction</h4></a>
+    <a href="/chapter-1" class=""><h2>Chapter 1</h2></a>
+    <a href="/chapter-2" class=""><h2>Chapter 2</h2></a>
+    <a href="/chapter-3" class=""><h2>Chapter 3</h2></a>
+    <a href="/chapter-4" class=""><h2>Chapter 4</h2></a>
+    <a href="/chapter-5" class=""><h2>Chapter 5</h2></a>
+    <a href="/chapter-6" class=""><h2>Chapter 6</h2></a>
+    <a href="/chapter-7" class=""><h2>Chapter 7</h2></a>
+    <a href="/chapter-8" class=""><h2>Chapter 8</h2></a>
+    <a href="/epilogue" class=""><h4>Epilogue</h4></a>
+    <a href="/acknowledgments" class=""><h4>Acknowledgments</h4></a>
+</div>
+:ET

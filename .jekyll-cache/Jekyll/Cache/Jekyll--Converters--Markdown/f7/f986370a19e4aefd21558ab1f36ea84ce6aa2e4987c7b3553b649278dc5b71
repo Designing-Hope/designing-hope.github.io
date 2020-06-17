@@ -1,0 +1,22 @@
+I"ü<div class="row">
+  <div class="column left"><img src="images/book-cover.png" /></div>
+  <div class="column right">
+    <div class="toc">
+    <h4><a href="/foreword" class="">Foreword</a></h4>
+    <h4><a href="/preface" class="">Preface</a></h4>
+    <h4><a href="/introduction" class="">Introduction</a></h4>
+    <h2>01. <a href="/chapter-1" class="">Designing Hope</a></h2>
+    <h2>02. <a href="/chapter-2" class="">Refining Intent</a></h2>
+    <h2>03. <a href="/chapter-3" class="">Impacting Humanity</a></h2>
+    <h2>04. <a href="/chapter-4" class="">Tooling Curiosity</a></h2>
+    <h2>05. <a href="/chapter-5" class="">Translating Integrity</a></h2>
+    <h2>06. <a href="/chapter-6" class="">Honoring Engagement</a></h2>
+    <h2>07. <a href="/chapter-7" class="">Navigating Complexity</a></h2>
+    <h2>08. <a href="/chapter-8" class="">Building Community</a></h2>
+    <a href="/epilogue" class=""><h4>Epilogue</h4></a>
+    <a href="/acknowledgments" class=""><h4>Acknowledgments</h4></a>
+    </div>
+  </div>
+</div>
+
+:ET
