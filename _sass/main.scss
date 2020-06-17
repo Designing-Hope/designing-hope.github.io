@@ -43,7 +43,7 @@ h1{
   letter-spacing: -0.03em;
   line-height: 1;
   display: block;
-  margin-block-start: .5em;
+  margin-block-start: .1em;
   margin-block-end: .5em;
   margin-inline-start: 0px;
   margin-inline-end: 0px;
@@ -56,6 +56,10 @@ h2 {
   font-size: 28px;
   font-weight: 500;
   line-height: 1;
+  margin-block-start: .5em;
+  margin-block-end: .25em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
