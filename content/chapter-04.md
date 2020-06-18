@@ -1,9 +1,12 @@
 ---
-layout: default
+layout: chapter-4
 permalink: /chapter-4
 section: 'Chapter 04.'
 title: 'Tooling Curiosity'
 ---
+
+### Chapter 04.
+# Tooling Curiosity
 
 ***
 

@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: preface
 permalink: /preface
 title: 'Preface'
 ---
+
+# Preface
 
 ***
 

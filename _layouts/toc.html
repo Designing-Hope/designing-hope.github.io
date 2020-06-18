@@ -22,16 +22,37 @@
   </head>
   <body>
     <header class="page-header" role="banner">
+      <div class="row">
+        <div class="column left"><a href="/" class="home"><img src="images/icon.svg" class="icon"></a></div>
+        <div class="column right">
+          <div class="about"><a href="/about">&bull;&nbsp;&nbsp;About</a></div>
+        </div>  
+      </div>      
     </header>
 
     <main id="content" class="main-content" role="main">
       <div class="main-toc">
       {{ content }}
       </div>
+      <div class="cta">
+        <div class="row">
+          <div class="column left">
+            <div class="cta-copy">  
+            <h2>This is your book.</h2>
+            Simply put, this book lives wherever you live. It’s free, and you can start reading it any time you’d like. It’s created to humbly evolve alongside the community it was written for.
+            </div>
+          </div>
+          <div class="column right">
+            <a href="/subscribe"><button>Subscribe</button></a>&nbsp;
+            <a href="/download"><button href="/download">Download</button></a>&nbsp;
+            <a href="/listen"><button href="/listen">Listen</button></a>
+          </div>
+        </div>
+      </div>
       <footer class="site-footer">
-        <em>Designing Hope</em> was written &amp; produced by <a href="">Jeremy D. Cherry</a>.
+        <em>Designing Hope</em> was written &amp; produced by <a href="https://jeremydcherry.com">Jeremy D. Cherry</a>.
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        LICENSE — <a href="">CC BY-NC-ND</a>
+        LICENSE — <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND</a>
       </footer>
     </main>
   </body>

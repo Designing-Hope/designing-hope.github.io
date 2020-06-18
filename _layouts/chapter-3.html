@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+
+    {% if site.google_analytics %}
+      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', '{{ site.google_analytics }}');
+      </script>
+    {% endif %}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <title>{{ page.title }}{% if page.title %} — {% endif %}{{ site.title }}</title>
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <header class="chapter-header" role="banner">
+      <div class="row">
+        <div class="column left"><a href="/" class="home"><img src="images/logo.svg" class="logo"></a></div>
+        <div class="column right">
+          <div class="about"><a href="/about">&bull;&nbsp;&nbsp;About</a></div>
+        </div>  
+      </div>
+      <div class"art">
+      <img src="images/04.png" class="illustration">
+    </div>
+    </header>
+
+    
+    <main id="content" class="main-content" role="main">
+      <div class="main-copy">
+      {{ content }}
+      </div>
+     <footer class="site-footer">
+        <em>Designing Hope</em> was written &amp; produced by <a href="https://jeremydcherry.com">Jeremy D. Cherry</a>.
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        LICENSE — <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND</a>
+      </footer>
+    </main>
+  </body>
+</html>

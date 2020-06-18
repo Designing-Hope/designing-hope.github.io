@@ -9,7 +9,6 @@
 
 .column {
   float: left;
-  padding: 10px;
 }
 
 .left {
@@ -59,27 +58,68 @@ b, strong {
   font-weight: 500;
 }
 
+.icon{
+  margin-left: 50px;
+  width: 36px;
+}
+
+.logo{
+  margin-left: 50px;
+  width: 130px;
+}
+
+a.home{
+  transition: .5s;
+}
+
+a.home:hover{
+  opacity: .5;
+}
+
+.about{
+  margin-right: 50px;
+  text-align: right;
+  color: #000;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: -0.03em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.about a{
+  color: #000;
+  text-decoration: none;
+  transition: .5s;
+}
+
+.about a:hover{
+  color: #ff0048;
+  text-decoration: none;
+}
+
 .main-content {
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
 }
 
 .page-header {
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 60ch;
+    margin: 1em auto;
+}
+
+.chapter-header {
+  background-color: #F4F4F3;
+  padding: 1em 0;
 }
 
 .main-copy{
-  margin-left: auto;
-  margin-right: auto;
+  margin: 3em auto 1em;
   max-width: 60ch;
 }
 
 .main-toc{
-  margin-top: 3em;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 1em auto;
   max-width: 70%;
 }
 
@@ -136,6 +176,29 @@ img.book-cover:hover{
   -webkit-box-shadow: 20px 20px 20px 0px rgba(187,187,187,1);
   -moz-box-shadow: 20px 20px 20px 0px rgba(187,187,187,1);
   box-shadow: 20px 20px 20px 0px rgba(187,187,187,1);
+}
+
+img.illustration{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2em;
+  width: 700px;
+}
+
+.page-title h1{
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 70px;
+  font-weight: 500;
+  letter-spacing: -0.03em;
+  line-height: 1;
+  display: block;
+  margin-block-start: .1em;
+  margin-block-end: .5em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 h1{
@@ -222,6 +285,52 @@ blockquote {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.cta{
+  background-color: #222;
+  color: #fff;
+  margin-top: 6em;
+  padding: 3em 10em;
+}
+
+.cta .cta-copy {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 18px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  padding-right: 4em;
+}
+
+.cta .cta-copy h2 {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 1;
+  margin-block-start: .25em;
+  margin-block-end: .5em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+button{
+  color: #fff;
+  background-color: #ff0048;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 15px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  border: 0;
+  border-radius: 50px;
+  padding: 10px 50px;
+  transition: .5s;
+}
+
+button:hover{
+  background-color: #000;
+  color: #fff;
+}
+
 footer{
   background-color: #111;
   color: #999;
@@ -231,7 +340,6 @@ footer{
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   padding: 2em 0;
-  margin: 10em 0 0;
 }
 
 footer a{

@@ -4,6 +4,9 @@ permalink: /foreword
 title: 'Foreword'
 ---
 
+# Foreword
+#### by Z. Bryant
+
 ***
 
 #### Lede

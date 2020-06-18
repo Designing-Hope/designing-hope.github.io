@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: introduction
 permalink: /introduction
 title: 'Introduction'
 ---
+
+# Introduction
 
 ***
 

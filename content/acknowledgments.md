@@ -4,6 +4,8 @@ permalink: /acknowledgments
 title: 'Acknowledgments'
 ---
 
+# Acknowledgments
+
 ***
 
 #### Lede

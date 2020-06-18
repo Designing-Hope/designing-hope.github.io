@@ -1,9 +1,12 @@
 ---
-layout: default
+layout: chapter-1
 permalink: /chapter-1
 section: 'Chapter 01.'
 title: 'Designing Hope'
 ---
+
+### Chapter 01.
+# Designing Hope
 
 ***
 
