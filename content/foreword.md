@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: foreword
 permalink: /foreword
 title: 'Foreword'
 ---
