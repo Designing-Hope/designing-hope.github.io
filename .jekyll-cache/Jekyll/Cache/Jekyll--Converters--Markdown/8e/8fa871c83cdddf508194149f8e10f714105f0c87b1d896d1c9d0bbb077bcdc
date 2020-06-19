@@ -1,10 +1,5 @@
----
-layout: toc
-title: Table of Contents
----
-
-<div class="row">
-  <div class="column left"><a href="/foreword"><img src="images/book-cover.png" class="book-cover"></a></div>
+I"á<div class="row">
+  <div class="column left"><a href="/foreword"><img src="images/book-cover.png" class="book-cover" /></a></div>
   <div class="column right">
     <div class="toc">
     <h4><a href="/foreword">Foreword</a></h4>
@@ -24,3 +19,4 @@ title: Table of Contents
     </div>
   </div>
 </div>
+:ET

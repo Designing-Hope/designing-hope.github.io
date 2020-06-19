@@ -46,6 +46,7 @@ body {
   font-family: "Cardo", serif;
   font-size: 24px;
   font-weight: 400;
+  letter-spacing: -0.01em;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -82,6 +83,7 @@ a.home:hover{
 }
 
 .about{
+  padding-top: 10px;
   margin-right: 50px;
   text-align: right;
   color: #000;
@@ -228,6 +230,7 @@ h2 {
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 28px;
   font-weight: 500;
+  letter-spacing: -0.02em;
   line-height: 1;
   margin-block-start: 2em;
   margin-block-end: .25em;
@@ -258,15 +261,17 @@ h4 {
     font-family: "IBM Plex Sans", sans-serif;
     font-size: 28px;
     font-weight: 300;
+    letter-spacing: -0.02em;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
 
 h5 {
     font-family: "IBM Plex Sans", sans-serif;
-    font-size: 20px;
+    font-size: 22px;
     font-weight: 400;
-     margin-block-start: .25em;
+    letter-spacing: -0.02em;
+    margin-block-start: .25em;
     margin-block-end: .25em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
@@ -289,6 +294,7 @@ blockquote {
     font-size: 20px;
     border-left: #eee 5px solid;
     padding: 0 0 0 40px;
+    letter-spacing: -0.03em;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
@@ -297,10 +303,16 @@ blockquote {
   background-color: #222;
   color: #fff;
   margin-top: 6em;
-  padding: 3em 10em;
+  padding: 3em 0;
 }
 
-.cta .cta-copy {
+.cta-inner{
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 80%;
+}
+
+.cta-copy {
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 18px;
   -webkit-font-smoothing: antialiased;
@@ -308,7 +320,7 @@ blockquote {
   padding-right: 4em;
 }
 
-.cta .cta-copy h2 {
+.cta-copy h2 {
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 32px;
   font-weight: 500;
@@ -345,17 +357,19 @@ button:hover{
 
 .next a{
   background-color: #f4f4f3;
-  padding: 1.5em 0;
+  padding: 2em 0;
   text-align: center;
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 48px;
   font-weight: 500;
+  letter-spacing: -.03em;
+  line-height: 1;
   display: block;
   color: #000;
   text-decoration: none;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  transition: 1s;
+  transition: .5s;
 }
 
 .next a:hover{

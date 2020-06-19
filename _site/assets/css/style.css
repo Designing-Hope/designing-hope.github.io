@@ -144,7 +144,7 @@ td, th { padding: 0; }
 
 @media screen and (max-width: 600px) { .column { width: 100%; } .cta { background-color: #666; color: #fff; margin-top: 6em; padding: 3em 2em; } }
 
-body { font-family: "Cardo", serif; font-size: 24px; font-weight: 400; line-height: 1.5; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+body { font-family: "Cardo", serif; font-size: 24px; font-weight: 400; letter-spacing: -0.01em; line-height: 1.5; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 p { display: block; margin-block-start: 1.35em; margin-block-end: 1.35em; margin-inline-start: 0px; margin-inline-end: 0px; }
 
@@ -158,7 +158,7 @@ a.home { transition: .5s; }
 
 a.home:hover { opacity: .5; }
 
-.about { margin-right: 50px; text-align: right; color: #000; font-family: "IBM Plex Sans", sans-serif; font-size: 16px; font-weight: 500; line-height: 1; letter-spacing: -0.03em; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+.about { padding-top: 10px; margin-right: 50px; text-align: right; color: #000; font-family: "IBM Plex Sans", sans-serif; font-size: 16px; font-weight: 500; line-height: 1; letter-spacing: -0.03em; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 .about a { color: #000; text-decoration: none; transition: .5s; }
 
@@ -192,23 +192,25 @@ img.illustration { display: block; margin-left: auto; margin-right: auto; margin
 
 h1 { font-family: "IBM Plex Sans", sans-serif; font-size: 90px; font-weight: 500; letter-spacing: -0.03em; line-height: 1; display: block; margin-block-start: .1em; margin-block-end: .5em; margin-inline-start: 0px; margin-inline-end: 0px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
-h2 { font-family: "IBM Plex Sans", sans-serif; font-size: 28px; font-weight: 500; line-height: 1; margin-block-start: 2em; margin-block-end: .25em; margin-inline-start: 0px; margin-inline-end: 0px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+h2 { font-family: "IBM Plex Sans", sans-serif; font-size: 28px; font-weight: 500; letter-spacing: -0.02em; line-height: 1; margin-block-start: 2em; margin-block-end: .25em; margin-inline-start: 0px; margin-inline-end: 0px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 h3 { font-family: "IBM Plex Sans", sans-serif; font-weight: 400; font-style: normal; font-size: 16px; text-transform: uppercase; letter-spacing: 1px; line-height: 1; display: block; margin-block-start: .5em; margin-block-end: .5em; margin-inline-start: 0px; margin-inline-end: 0px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
-h4 { font-family: "IBM Plex Sans", sans-serif; font-size: 28px; font-weight: 300; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+h4 { font-family: "IBM Plex Sans", sans-serif; font-size: 28px; font-weight: 300; letter-spacing: -0.02em; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
-h5 { font-family: "IBM Plex Sans", sans-serif; font-size: 20px; font-weight: 400; margin-block-start: .25em; margin-block-end: .25em; margin-inline-start: 0px; margin-inline-end: 0px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+h5 { font-family: "IBM Plex Sans", sans-serif; font-size: 22px; font-weight: 400; letter-spacing: -0.02em; margin-block-start: .25em; margin-block-end: .25em; margin-inline-start: 0px; margin-inline-end: 0px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 h6 { color: #ccc; font-family: "IBM Plex Sans", sans-serif; font-size: 20px; font-weight: 400; text-align: center; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
-blockquote { font-family: "IBM Plex Sans", sans-serif; font-size: 20px; border-left: #eee 5px solid; padding: 0 0 0 40px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+blockquote { font-family: "IBM Plex Sans", sans-serif; font-size: 20px; border-left: #eee 5px solid; padding: 0 0 0 40px; letter-spacing: -0.03em; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
-.cta { background-color: #222; color: #fff; margin-top: 6em; padding: 3em 10em; }
+.cta { background-color: #222; color: #fff; margin-top: 6em; padding: 3em 0; }
 
-.cta .cta-copy { font-family: "IBM Plex Sans", sans-serif; font-size: 18px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; padding-right: 4em; }
+.cta-inner { margin-left: auto; margin-right: auto; max-width: 80%; }
 
-.cta .cta-copy h2 { font-family: "IBM Plex Sans", sans-serif; font-size: 32px; font-weight: 500; line-height: 1; margin-block-start: .25em; margin-block-end: .5em; margin-inline-start: 0px; margin-inline-end: 0px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+.cta-copy { font-family: "IBM Plex Sans", sans-serif; font-size: 18px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; padding-right: 4em; }
+
+.cta-copy h2 { font-family: "IBM Plex Sans", sans-serif; font-size: 32px; font-weight: 500; line-height: 1; margin-block-start: .25em; margin-block-end: .5em; margin-inline-start: 0px; margin-inline-end: 0px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 button { color: #fff; background-color: #ff0048; font-family: "IBM Plex Sans", sans-serif; font-size: 15px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; border: 0; border-radius: 50px; padding: 10px 50px; transition: .5s; }
 
@@ -216,7 +218,7 @@ button:hover { background-color: #000; color: #fff; }
 
 .next { margin-top: 6em; }
 
-.next a { background-color: #f4f4f3; padding: 1.5em 0; text-align: center; font-family: "IBM Plex Sans", sans-serif; font-size: 48px; font-weight: 500; display: block; color: #000; text-decoration: none; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; transition: 1s; }
+.next a { background-color: #f4f4f3; padding: 2em 0; text-align: center; font-family: "IBM Plex Sans", sans-serif; font-size: 48px; font-weight: 500; letter-spacing: -.03em; line-height: 1; display: block; color: #000; text-decoration: none; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; transition: .5s; }
 
 .next a:hover { background-color: #ff0048; color: #fff; text-decoration: none; }
 
