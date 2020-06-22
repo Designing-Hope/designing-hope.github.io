@@ -184,7 +184,7 @@ a.home:hover{
   font-size: 48px;
   font-weight: 500;
   line-height: 1;
-  letter-spacing: -0.03em;
+  letter-spacing: -0.05em;
   margin-block-start: .25em;
   margin-block-end: .25em;
   margin-inline-start: 0px;
@@ -196,7 +196,7 @@ a.home:hover{
 .landing h2 {
   color: #999;
   font-family: "IBM Plex Sans", sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 500;
   line-height: 1;
   letter-spacing: -0.03em;
@@ -225,16 +225,33 @@ a.home:hover{
   -moz-osx-font-smoothing: grayscale;
 }
 
-.landing a{
+.landing a.resource-link{
+  font-weight: 500;
+  color: #000;
+  border-bottom: 1px #ccc solid;
+  text-decoration: none;
+  transition: .5s;
+}
+
+.landing a.resource-link:hover{
+  color: #ff0048;
+  text-decoration: none;
+}
+
+.landing a.author-link{
+  font-weight: 500;
   color: #000;
   text-decoration: none;
   transition: .5s;
 }
 
-.landing a:hover{
-  background-color: #ff0048;
-  color: #fff;
+.landing a.author-link:hover{
+  color: #ff0048;
   text-decoration: none;
+}
+
+.landing button{
+  font-weight: 400;
 }
 
 
@@ -729,16 +746,25 @@ footer a:hover{
   -moz-osx-font-smoothing: grayscale;
 }
 
-.about-page a{
+.about-page button{
+  font-weight: 400;
+}
+
+.about-page button:hover{
+  background-color: #000;
+  color: #fff;
+}
+
+.about-page a.resource-link{
   color: #000;
   font-weight: 500;
   text-decoration: none;
   transition: .5s;
+  border-bottom: 1px #ccc solid;
 }
 
 .about-page a:hover{
-  background-color: #ff0048;
-  color: #fff;
+  color: #ff0048;
  } 
 
 .about-page h1{
