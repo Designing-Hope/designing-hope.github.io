@@ -1,24 +1,16 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="en-US">
   <head>
 
-    {% if site.google_analytics %}
-      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', '{{ site.google_analytics }}');
-      </script>
-    {% endif %}
+    
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
-    <title>{{ page.title }}{% if page.title %} — {% endif %}{{ site.title }}</title>
+    <title>Table of Contents — Designing Hope</title>
 
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="/assets/css/style.css?v=">
   </head>
   <body>
     <header class="page-header" role="banner">
@@ -32,7 +24,28 @@
 
     <main id="content" class="main-content" role="main">
       <div class="main-toc">
-      {{ content }}
+      <div class="row">
+  <div class="column left"><a href="/foreword"><img src="images/book-cover.png" class="book-cover" /></a></div>
+  <div class="column right">
+    <div class="toc">
+    <h4><a href="/foreword">Foreword</a></h4>
+    <h4><a href="/preface">Preface</a></h4>
+    <h4><a href="/introduction">Introduction</a></h4>
+    <h2>01. <a href="/chapter-1">Designing Hope</a></h2>
+    <h2>02. <a href="/chapter-2">Refining Intent</a></h2>
+    <h2>03. <a href="/chapter-3">Impacting Humanity</a></h2>
+    <h2>04. <a href="/chapter-4">Tooling Curiosity</a></h2>
+    <h2>05. <a href="/chapter-5">Translating Integrity</a></h2>
+    <h2>06. <a href="/chapter-6">Honoring Engagement</a></h2>
+    <h2>07. <a href="/chapter-7">Navigating Complexity</a></h2>
+    <h2>08. <a href="/chapter-8">Building Community</a></h2>
+    <h4><a href="/epilogue">Epilogue</a></h4>
+    <h4><a href="/framework">Framework</a></h4>
+    <h4><a href="/acknowledgments">Acknowledgments</a></h4>
+    </div>
+  </div>
+</div>
+
       </div>
       <div class="cta">
         <div class="cta-inner">
