@@ -4,7 +4,7 @@ title: Designing Hope
 ---
 
 <div class="row">
-  <div class="column left"><a href="/foreword"><img src="images/book-cover.png" class="book-cover"></a></div>
+  <div class="column left"><a href="/toc"><img src="images/book-cover.png" class="book-cover"></a></div>
   <div class="column right">
     <div class="landing">
         <h1>Designing Hope</h1>
