@@ -13,12 +13,3 @@ title: 'Preface'
 Text
 
 ## Subhead
-
-###### • • •
-
-### Practice:
-
-## Practice<br/>
-##### Text
-
-

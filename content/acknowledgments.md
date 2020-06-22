@@ -13,12 +13,3 @@ title: 'Acknowledgments'
 Text
 
 ## Subhead
-
-###### • • •
-
-### Practice:
-
-## Practice<br/>
-##### Text
-
-

@@ -14,12 +14,3 @@ title: 'Foreword'
 Text
 
 ## Subhead
-
-###### • • •
-
-### Practice:
-
-## Practice<br/>
-##### Text
-
-

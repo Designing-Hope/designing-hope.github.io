@@ -14,11 +14,3 @@ Text
 
 ## Subhead
 
-###### • • •
-
-### Practice:
-
-## Practice<br/>
-##### Text
-
-
