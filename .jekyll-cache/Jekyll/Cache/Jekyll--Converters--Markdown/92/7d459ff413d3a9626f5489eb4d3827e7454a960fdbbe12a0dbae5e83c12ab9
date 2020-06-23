@@ -1,7 +1,5 @@
-I"å<div class="row">
-  <div class="column left"><a href="/foreword"><img src="images/book-cover.png" class="book-cover" /></a>
-
-  </div>
+I"¤<div class="row">
+  <div class="column left"><a href="/foreword"><img src="images/book-cover.png" class="book-cover" /></a></div>
   <div class="column right">
     <div class="toc">
     <h4><a href="/foreword">Foreword</a></h4>
@@ -20,5 +18,9 @@
     <h4><a href="/acknowledgments">Acknowledgments</a></h4>
     </div>
   </div>
+  <hr />
+  <div class="tox">
+    <h6>Or if you'd prefer <a href="/download" class="resource-link">download</a> it or give it a <a href="/listen" class="resource-link">listen</a>.</h6>
+  </div>  
 </div>
 :ET
