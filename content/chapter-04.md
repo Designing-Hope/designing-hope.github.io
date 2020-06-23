@@ -8,7 +8,7 @@ title: 'Tooling Curiosity'
 ### Chapter 04.
 # Tooling Curiosity
 
-***
+<div class="divider">&nbsp;</div>
 
 #### Lede
 

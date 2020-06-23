@@ -8,7 +8,7 @@ title: 'Honoring Engagement'
 ### Chapter 06.
 # Honoring Engagement
 
-***
+<div class="divider">&nbsp;</div>
 
 #### Lede
 

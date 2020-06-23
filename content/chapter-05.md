@@ -8,7 +8,7 @@ title: 'Translating Integrity'
 ### Chapter 05.
 # Translating Integrity
 
-***
+<div class="divider">&nbsp;</div>
 
 #### Lede
 

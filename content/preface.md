@@ -6,7 +6,7 @@ title: 'Preface'
 
 # Preface
 
-***
+<div class="divider">&nbsp;</div>
 
 #### Lede
 

@@ -8,7 +8,7 @@ title: 'Navigating Complexity'
 ### Chapter 07.
 # Navigating Complexity
 
-***
+<div class="divider">&nbsp;</div>
 
 #### Lede
 

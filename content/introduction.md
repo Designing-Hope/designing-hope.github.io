@@ -6,19 +6,11 @@ title: 'Introduction'
 
 # Introduction
 
-***
+<div class="divider">&nbsp;</div>
 
 #### Lede
 
 Text
 
 ## Subhead
-
-###### • • •
-
-### Practice:
-
-## Practice<br/>
-##### Text
-
 

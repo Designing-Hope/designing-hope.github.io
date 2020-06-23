@@ -8,7 +8,7 @@ title: 'Impacting Humanity'
 ### Chapter 03.
 # Impacting Humanity
 
-***
+<div class="divider">&nbsp;</div>
 
 #### Lede
 

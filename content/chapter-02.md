@@ -8,7 +8,7 @@ title: 'Refining Intent'
 ### Chapter 02.
 # Refining Intent
 
-***
+<div class="divider">&nbsp;</div>
 
 #### Lede
 

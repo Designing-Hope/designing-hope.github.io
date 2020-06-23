@@ -8,7 +8,7 @@ title: 'Building Community'
 ### Chapter 08.
 # Building Community
 
-***
+<div class="divider">&nbsp;</div>s
 
 #### Lede
 

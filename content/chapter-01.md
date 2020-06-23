@@ -8,7 +8,7 @@ title: 'Designing Hope'
 ### Chapter 01.
 # Designing Hope
 
-***
+<div class="divider">&nbsp;</div>
 
 #### Every designer contends with a certain restlessness. Something beckons from within, whispering that the world around us could be better. It’s a type of idealism that feels attainable. And so, as designers, this restlessness fuels us to take a closer look and ask, “Is a better way possible?”
 
