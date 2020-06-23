@@ -11,7 +11,7 @@ title: Designing Hope
         <h2>by <a href="https://jeremydcherry.com" class="author-link">Jeremy D. Cherry</a></h2>
         <em>Designing Hope</em> is a book that explores creating compassionate work for other humans. It defines a framework that creates hope by practicing in an ecosystem, honoring that community with its solutions and sharing in the responsibility of its outcomes. It’s equal parts manifesto and practical guide. It lives wherever you live, it’s free, and you can start reading it any time you’d like.  In short, if you create things for others <em>(you do)</em>, this book is for you.<br/>
         <a href="/toc"><button>Start Reading</button></a><br/>
-        <h6>If you'd prefer, <a href="/download" class="resource-link">download</a> the ebook or <a href="/listen" class="resource-link">listen</a> to the audiobook.</h6>
+        <h6><a href="/download" class="resource-link">&bull;&nbsp;&nbsp;Download</a> ebook&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/listen" class="resource-link">&bull;&nbsp;&nbsp;Listen</a> to audiobook</h6>
     </div>
   </div>
 </div>
