@@ -231,7 +231,7 @@ a.home:hover{
 }
 
 .landing a.resource-link{
-  color: #000;
+  color: #ff0048;
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 14px;
   font-weight: 500;
@@ -240,13 +240,12 @@ a.home:hover{
   text-align: center;
   text-decoration: none;
   transition: .5s;
-  padding-right: 40px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 .landing a.resource-link:hover{
-  color: #ff0048;
+  color: #000;
   text-decoration: none;
 }
 
@@ -333,7 +332,7 @@ img.book-cover:hover{
 }
 
 .downloads a{
-  color: #000;
+  color: #ff0048;
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 15px;
   font-weight: 500;
@@ -342,13 +341,36 @@ img.book-cover:hover{
   text-align: center;
   text-decoration: none;
   transition: .5s;
-  padding-right: 50px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 .downloads a:hover{
+  color: #000;
+}
+
+.download-left{
+  padding-right: 40px;
+}
+
+a.download-link{
   color: #ff0048;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: -0.03em;
+  line-height: 1;
+  text-align: center;
+  text-decoration: none;
+  transition: .5s;
+  padding-right: 40px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a.download-link:hover{
+  color: #000;
+  text-decoration: none;
 }
 
 img.illustration{
@@ -794,7 +816,7 @@ footer a:hover{
 }
 
 .about-page a.resource-link{
-  color: #000;
+  color: #ff0048;
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 14px;
   font-weight: 500;
@@ -803,13 +825,12 @@ footer a:hover{
   text-align: center;
   text-decoration: none;
   transition: .5s;
-  padding-right: 40px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 .about-page a:hover{
-  color: #ff0048;
+  color: #000;
  } 
 
 .about-page h1{
@@ -891,7 +912,7 @@ footer a:hover{
 
 .resource-icon{
  position: relative;
- top: 2px;
+ top: 3px;
 }
 
 .book-image{

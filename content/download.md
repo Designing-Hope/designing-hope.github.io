@@ -12,13 +12,9 @@ title: 'Download'
   <div class="column right">
     <div class="download-copy">
   	 <h2>Let be honest, reading offline is better for so many reasons.</h2>
-      If you'd prefer downloading <em>Designing Hope</em>, printing it out, marking it up, or reading it offline, go crazy.<br/>
-      <ul>
-        <li><a href="">Download .epub</a></li>
-        <li><a href="">Download .mobi</a></li>
-        <li><a href="">Download .pdf</a></li>
-        <li><a href="">Download .zip</a></li>
-      </ul>  
+      If you'd prefer downloading <em>Designing Hope</em>, printing it out, marking it up, or reading it offline, go crazy.<br/><br/>
+      <a href="" class="download-link"><img src="/images/file.svg" class="resource-icon">&nbsp;&nbsp;&nbsp;PDF Files</a><br/>
+      <a href="" class="download-link"><img src="/images/book.svg" class="resource-icon">&nbsp;&nbsp;&nbsp;eBook Files</a><br/>
     </div>
 </div>
 </div>

@@ -12,11 +12,9 @@ title: 'Listen'
   <div class="column right">
     <div class="download-copy">
   	 <h2>Because sometimes you’d just rather listen, I feel you.</h2>
-  	 Download the <em>Designing Hope</em> audiobook read by yours truly. I'm sorry I couldn't afford David Attenborough.<br/>
-      <ul>
-        <li><a href="">Download .mp3</a></li>
-        <li><a href="">Stream online</a></li>
-      </ul>
+  	 Download the <em>Designing Hope</em> audiobook read by yours truly. I'm sorry I couldn't afford David Attenborough.<br/><br/>
+      <a href="" class="download-link"><img src="/images/headphones.svg" class="resource-icon">&nbsp;&nbsp;&nbsp;Audio Files</a><br/>
+      <a href="" class="download-link"><img src="/images/sound.svg" class="resource-icon">&nbsp;&nbsp;&nbsp;Stream on SoundCloud</a><br/>
      </div> 
 </div>
 </div>
