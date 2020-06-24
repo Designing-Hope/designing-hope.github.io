@@ -2,6 +2,8 @@
 @import "variables";
 @import url('https://fonts.googleapis.com/css2?family=Cardo:ital@0;1&family=IBM+Plex+Sans:ital,wght@0,300;0,400;0,500;1,400&display=swap');
 
+// !-- Large Screens //
+
 * {
   box-sizing: border-box;
 }
@@ -58,7 +60,6 @@
   width: 50%;
 }
 
-/* Clear floats after the columns */
 .row:after {
   content: "";
   display: table;
@@ -160,18 +161,18 @@ a.home:hover{
 }
 
 .main-toc{
-  margin: 1em auto;
-  max-width: 70%;
+  margin: .5em auto 1em;
+  max-width: 1200px;
 }
 
 .main-landing{
   margin: 1em auto 4em;
-  max-width: 70%;
+  max-width: 1200px;
 }
 
 .main-page{
   margin: 1em auto 6em;
-  max-width: 70%;
+  max-width: 1200px;
 }
 
 .main-framework{
@@ -179,8 +180,8 @@ a.home:hover{
 }
 
 .landing{
-  padding: 60px 50px 0 0;
-  font-size: 19px;
+  padding: 6em 4em 0 0;
+  font-size: 16px;
 }
 
 .landing h1 {
@@ -309,9 +310,8 @@ a.home:hover{
 
 img.book-cover{
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 70%;
+  margin: 20px auto 30px;
+  max-width: 65%;
   -webkit-box-shadow: 10px 10px 0px 0px rgba(221,221,221,1);
   -moz-box-shadow: 10px 10px 0px 0px rgba(221,221,221,1);
   box-shadow: 10px 10px 0px 0px rgba(221,221,221,1);
@@ -911,8 +911,8 @@ footer a:hover{
 }
 
 .resource-icon{
- position: relative;
- top: 3px;
+  position: relative;
+  top: 3px;
 }
 
 .book-image{
@@ -938,8 +938,18 @@ footer a:hover{
   color: #000;
 }
 
+// !-- Medium Screens //
 
-// !-- Mobile Styles //
+@media screen and (max-width: 1000px) {
+.landing{padding: 20px 40px 0 0;}
+}
+
+@media screen and (max-width: 800px) {
+.landing{padding: 0 40px 0 0;}
+}
+
+
+// !-- Small Screens //
 
 @media screen and (max-width: 600px) {
   body{font-size: 21px;}
