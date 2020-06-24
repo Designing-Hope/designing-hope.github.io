@@ -187,7 +187,7 @@ a.home:hover { opacity: .5; }
 
 .main-copy { margin: 3em auto 1em; max-width: 60ch; }
 
-.main-toc { margin: .5em auto 1em; max-width: 1200px; }
+.main-toc { margin: 0 auto 1em; max-width: 1200px; }
 
 .main-landing { margin: 1em auto 4em; max-width: 1200px; }
 
