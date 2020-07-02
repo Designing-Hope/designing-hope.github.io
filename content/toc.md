@@ -5,7 +5,7 @@ title: Table of Contents
 ---
 
 <div class="row">
-  <div class="column left"><a href="/foreword"><img src="images/book-cover.png" class="book-cover"></a></div>
+  <div class="column left"><img src="images/book-cover.png" class="book-cover"></div>
   <div class="column right">
     <div class="toc">
     <h4><a href="/foreword">Foreword</a> by Z. Bryant</h4>
