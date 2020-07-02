@@ -169,10 +169,6 @@ hr { border-width: 0.01em; border-color: rgba(0, 0, 0, 0.25); border-style: soli
 
 .logo { margin-left: 50px; width: 130px; }
 
-a.home { transition: .5s; }
-
-a.home:hover { opacity: .5; }
-
 .about { padding-top: 10px; margin-right: 50px; text-align: right; color: #000; font-family: "IBM Plex Sans", sans-serif; font-size: 16px; font-weight: 500; line-height: 1; letter-spacing: -0.03em; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 .about a { color: #000; text-decoration: none; transition: .5s; }
