@@ -217,7 +217,7 @@ hr { border-width: 0.01em; border-color: rgba(0, 0, 0, 0.25); border-style: soli
 
 .toc a:hover { background-color: #ff0048; color: #fff; text-decoration: none; }
 
-img.book-cover { display: block; margin: 20px auto 30px; max-width: 65%; -webkit-box-shadow: 10px 10px 0px 0px #dddddd; -moz-box-shadow: 10px 10px 0px 0px #dddddd; box-shadow: 10px 10px 0px 0px #dddddd; transition: 1s; }
+img.book-cover { display: block; margin: 20px auto 30px; max-width: 65%; -webkit-box-shadow: 10px 10px 0px 0px #dddddd; -moz-box-shadow: 10px 10px 0px 0px #dddddd; box-shadow: 10px 10px 0px 0px #dddddd; }
 
 .downloads { background-color: #f4f4f3; text-align: center; margin-top: 4em; padding: 1em 0; }
 
