@@ -53,7 +53,7 @@ title: 'Framework'
   <div class="column-half col-half-2">
   <div class="principles-copy">
   	<h2>Be humble.</h2>
-    <h5>Share responsibility, admit failure and adapt well.</h5>
+    <h5>Admit failure, adapt, and share in the responsibility.</h5>
   </div>	
   </div>
 </div>
