@@ -126,7 +126,6 @@ hr {
 .about a{
   color: #000;
   text-decoration: none;
-  transition: .5s;
 }
 
 .about a:hover{
@@ -232,7 +231,6 @@ hr {
   line-height: 1;
   text-align: center;
   text-decoration: none;
-  transition: .5s;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -246,7 +244,6 @@ hr {
   font-weight: 500;
   color: #000;
   text-decoration: none;
-  transition: .5s;
 }
 
 .landing a.author-link:hover{
@@ -292,7 +289,6 @@ hr {
 .toc a{
   color: #000;
   text-decoration: none;
-  transition: .5s;
 }
 
 .toc a:hover{
@@ -332,7 +328,6 @@ img.book-cover{
   line-height: 1;
   text-align: center;
   text-decoration: none;
-  transition: .5s;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -354,7 +349,6 @@ a.download-link{
   line-height: 1;
   text-align: center;
   text-decoration: none;
-  transition: .5s;
   padding-right: 40px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -523,7 +517,6 @@ button{
   border-radius: 50px;
   padding: 10px 50px;
   margin: 20px 10px 20px 0;
-  transition: .5s;
 }
 
 button:hover{
@@ -542,28 +535,9 @@ button.cta{
   border-radius: 50px;
   padding: 10px 50px;
   margin: 0 0 20px;
-  transition: .5s;
 }
 
 button.cta:hover{
-  background-color: #000;
-  color: #fff;
-}
-
-button.small{
-  color: #fff;
-  background-color: #ff0048;
-  font-family: "IBM Plex Sans", sans-serif;
-  font-size: 12px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  border: 0;
-  border-radius: 50px;
-  padding: 8px 30px;
-  transition: .5s;
-}
-
-button.small:hover{
   background-color: #000;
   color: #fff;
 }
@@ -619,7 +593,6 @@ footer{
 footer a{
   color: #fff;
   text-decoration: none;
-  transition: .5s;
 }
 
 footer a:hover{
@@ -816,7 +789,6 @@ footer a:hover{
   line-height: 1;
   text-align: center;
   text-decoration: none;
-  transition: .5s;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -923,7 +895,6 @@ footer a:hover{
   font-weight: 500;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  transition: .5s;
 }
 
 .download-copy a:hover{
