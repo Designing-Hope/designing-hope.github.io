@@ -147,7 +147,7 @@ hr {
 }
 
 .main-copy{
-  margin: 3em auto 1em;
+  margin: 3em auto 6em;
   max-width: 60ch;
 }
 
@@ -543,7 +543,7 @@ button.cta:hover{
 }
 
 .next{
-  margin-top: 6em;
+  margin-top: 0;
 }
 
 .next a{
@@ -920,7 +920,7 @@ footer a:hover{
   .column {width: 100%;}
   .main-toc {margin: 1em auto; max-width: 85%;}
   .main-landing {margin: 1em auto; max-width: 85%;}
-  .main-copy {margin: 2em auto 1em; max-width: 85%;}
+  .main-copy {margin: 2em auto 4em; max-width: 85%;}
   .main-framework{max-width: 100%; padding:0;}
   .main-page {margin: 1em auto; max-width: 85%;}
   .about{margin-right: 25px;}
@@ -944,7 +944,6 @@ footer a:hover{
   h4{font-size: 25px;}
   h5{font-size: 20px;}
   blockquote{font-size: 19px; border-left: #eee 5px solid; padding: 0 0 0 20px; margin-inline-start: 0px; margin-inline-end: 0px;}
-  .next{margin-top: 4em;}
   .next a{font-size: 36px;}
   .about-page{font-size: 17px; margin-bottom: 4em;}
   .about-page h1 {font-size: 48px; margin-bottom: 0.5em;}
