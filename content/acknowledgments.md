@@ -6,7 +6,7 @@ title: 'Acknowledgments'
 
 # Acknowledgments
 
-***
+<div class="divider">&nbsp;</div>
 
 #### Lede
 
