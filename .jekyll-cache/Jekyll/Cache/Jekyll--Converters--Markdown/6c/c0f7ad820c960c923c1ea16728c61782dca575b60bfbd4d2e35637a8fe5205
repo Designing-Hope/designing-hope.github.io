@@ -1,26 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-
-    
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-
-    <title>About — Designing Hope</title>
-
-    <link rel="stylesheet" href="/assets/css/style.css?v=">
-    <link rel="shortcut icon" type="image/png" href="/favicon.png">
-  </head>
-  <body style="background-color: #F4F4F3;">
-    <header class="page-header" role="banner">
-      <a href="/toc" class="home"><img src="images/logo.svg" class="logo"></a></div>    
-    </header>
-
-    <main id="content" class="main-content" role="main">
-      <div class="main-page">
-      <div class="about-page">
+I".<div class="about-page">
 <div class="row">
   <div class="column left">
   	<div><h1>About</h1></div>
@@ -43,11 +21,4 @@
 </div>
 </div>
 
-
-      </div>
-      <footer class="site-footer">
-        By <a href="https://jeremydcherry.com">Jeremy D. Cherry</a>&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;License — <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND</a>
-      </footer>
-    </main>
-  </body>
-</html>
+:ET
