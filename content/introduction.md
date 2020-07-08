@@ -8,7 +8,7 @@ title: 'Introduction'
 
 <div class="divider">&nbsp;</div>
 
-#### Design is so much more than creating pretty things. It challenges the status quo and creates change: change that can solve some of the world’s toughest problems simply by advocating for the humans impacted by them. Design is not passive, self-serving, abusive, dishonest, or greedy. Design is hopeful.
+#### Design is so much more than creating pretty things. It challenges the status quo and creates change: change that can solve some of the world’s toughest problems simply by advocating for the humans impacted by them. Design is not passive, self-serving, abusive, dishonest, or greedy. Design is *hopeful*.
 
 I became enamored with design at an early age. At that time, I don’t even know if I considered this fascination “design” at all. It looked more like trying to make sense of my surroundings by searching for a better way to accomplish things. This early belief that a better way is possible has fueled my career.
 
@@ -20,40 +20,38 @@ Questions are a part of life. They form our conversations, and they inform our w
 
 For several years, I have become enamored with one particular question: 
 
-## How do we design with hope?
+>
+**How do we design with hope?**
 
 It’s not an overstatement to say that asking this question changed the trajectory of my career and my practice as a designer. Asking this question made everything feel more consequential, more meaningful. Not only that, asking this felt so timely. In an age where we can barely rationalize the progress and innovation being made, considering this has made me pause and think more clearly. What I came to realize is that hope once felt elusive, unfashionable, and naive; however, now it felt like the only way to create meaningful work that effects lasting change.
 
 So, after several years of endless thought and a lot of red ink, I decided to formulate a definition to this framework of hopeful design.
 
 >
-## Hopeful Design
-A design framework that creates hope by practicing in an ecosystem, honoring that community with its solutions, and sharing in the responsibility of its outcomes.
+**Hopeful Design:** A design framework that creates hope by practicing in an ecosystem, honoring that community with its solutions, and sharing in the responsibility of its outcomes.
 
 Though it feels really complex, I assure you that it’s beautiful in its simplicity. Easy? No. But simple? Yes. 
 
 Simplified, hopeful design can be broken down into three main principles:
 
 >
-## Be curious.
-Learn your surroundings from within an ecosystem.
+**Be curious:** Learn your surroundings from within an ecosystem.
 
 >
-## Be compassionate.
-Form solutions from experiential learning.
+**Be compassionate:** Form solutions from experiential learning.
 
 >
-## Be humble.
-Admit failure, adapt, and share in the responsibility.
+**Be humble:** Admit failure, adapt, and share in the responsibility.
 
 You can view this entire book as an exploration using these very principles to answer the question I’ve been wrestling with all these years. Each chapter seeks to fill in the blank,
 
-## “Hopeful design __________________________.”
+>
+**Hopeful design <span style="letter-spacing: -2px;">_____________________________</span>.**
 
 Each chapter also ends with a practice, seeking to move the abstract into praxis. These methods are meant to form meaningful habits and rituals in our design processes. To change the way we design, first we must change the way we think.
 
 Hopeful design teaches us that there are real people in real places behind every sketch that could cover a whiteboard. It provides us with an entirely new vantage point if we let it. I’ll begin with a warning: allowing hope to creep into your work will change everything. So if you are interested in the status quo, this framework may not be for you.
 
-May we design with purpose.
+## May we design with purpose.
 
 

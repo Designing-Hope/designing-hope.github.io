@@ -5,12 +5,11 @@ title: 'Foreword'
 ---
 
 # Foreword
-#### by Z. Bryant
-
-<div class="divider">&nbsp;</div>
 
 #### “Where there is no hope, it is incumbent on us to invent it.”
 ### ― Albert Camus
+
+<div class="divider">&nbsp;</div>
 
 Hopelessness has become quite fashionable, I’m afraid. People who act as if they are excited about the way things are going are not merely uncool. It’s worse than that: they’re naive. As the slogan goes, *if you aren’t angry, you aren’t paying attention*. A generally hopeful disposition, then, becomes a sign of willful ignorance—or, at the very least, of having the wrong priorities. And so we resign our own hopes to a box in the attic with other juvenilia—the stuff of childhood.
 
@@ -40,3 +39,6 @@ We are designing the future we will inhabit, and it is in no way fixed. We must 
 If you’re able, I would encourage you to read this book the same way it was written: with plenty of room to breathe. Sit down and read a chapter and then stop. Let the ideas ride with you for a while. Try not to overanalyze it. Then, come back and read the next chapter. You’ll find that the ideas themselves spiral out from the ones that came before. Echoing and revisiting. It is not a treatise so much as a lyric, and like all things that are true, it will convince you if you let it.
  
 Hope is a bird with a sprig of something green when you’ve been at sea for forty days. But it is also a forbidden bar mitzvah in a concentration camp. It is a wedding proposal in a cancer ward. Mandela, who knew a thing or two about suffering, said this: “May your choices reflect your hopes and not your fears.” I believe this book, for Jeremy and those of us working alongside him, is just such a reflection, however silly it may sound, and whatever the data might say. However dark a given night, may this book remind us that we always have just enough light for *Designing Hope*.
+
+
+#### ― Z. Bryant

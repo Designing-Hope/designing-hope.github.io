@@ -39,7 +39,7 @@ Often the projects will start at this surface level. It’s not difficult to cre
 
 ## Overemphasis on mechanisms
 
-As an Eagle Scout, I was raised to appreciate tools. I was also trained during those adolescent adventures to relish the scenarios in which I had limited tools—like the reality show fantasties we have about being helicoptered into an undisclosed location, with only a Swiss Army knife in hand. Maybe not everyone has these fantasties. However, only when we’re without the instruments or systems we need can we fully appreciate their value.
+As an Eagle Scout, I was raised to appreciate tools. I was also trained during those adolescent adventures to relish the scenarios in which I had limited tools—like the reality show fantasties we have about being helicoptered into an undisclosed location, with only a Swiss Army knife in hand. Maybe not *everyone* has these fantasties. However, only when we’re without the instruments or systems we need can we fully appreciate their value.
 
 I fear that design communities overemphasize the role and importance of tools. Design literature is often aimed at developing newer, more efficient ways to use tools or hacks to make life easier. Competition has reached a fever pitch in this sector as well. Every day I see another essay written to persuade me to jump ship to a rival design tool, each option promising a brighter path forward.
 

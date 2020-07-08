@@ -1,0 +1,22 @@
+I"�<div class="about-page">
+<div class="row">
+  <div class="column left">
+  	<div><h1>About</h1></div>
+  </div>
+  <div class="column right">
+  	<img src="/images/book-image.jpg" class="book-image" />
+  	<h2>A better way is possible.</h2>
+  	<em>Designing Hope</em> is a book that explores creating compassionate work for humans. It defines a framework that creates hope by practicing in an ecosystem, honoring that community with its solutions, and sharing in the responsibility of its outcomes. It’s equal parts manifesto and practical guide. It strives to rise above technical theory, seeking out the central truth that design should be compassionate. In short, if you create things for others <em>(you do)</em>, this book is for you.<br />
+  	<a href="/foreword"><button>Start Reading</button></a><br />
+  	<a href="/download" class="resource-link download-left"><img src="/images/download.svg" class="resource-icon" />&nbsp;&nbsp;Download eBook</a>
+    <a href="/listen" class="resource-link"><img src="/images/headphones.svg" class="resource-icon" />&nbsp;&nbsp;Listen to Audiobook</a><br /><br />
+  	<div class="divider">&nbsp;</div>
+  	<br /><br />
+  	<h4>Jeremy D. Cherry</h4>
+    Relentlessly optimistic about the power of design, Jeremy lives by the words “A better way is possible.”  With over a decade of experience telling stories through brands and screens, he has worked with clients from a wide variety of industries based all over the globe. He got his start in the nonprofit sector, later cutting his teeth in the agency world of Nashville, TN. He currently leads the digital design practice at Journey Group in Charlottesville, VA. Whether it is a local medical clinic, multinational nonprofit, or centuries-old university, he offers a wide range of skills and clear vision to every project.  He writes and speaks about the intersection of digital design and ethics, seeking to add hope back to the conversation. His work has been featured by Charlottesville Design Week, Creative Mornings, Framer, Humane by Design, Modus, UX Collective, Sidebar, Smashing Magazine, Story Matters, Tom Tom Festival, edUI Conference, and Web Designer News.<br /><br />
+    <a href="https://jeremydcherry.com" class="resource-link">jeremydcherry.com</a>
+  </div>
+</div>
+</div>
+
+:ET

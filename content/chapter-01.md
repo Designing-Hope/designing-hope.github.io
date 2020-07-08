@@ -30,7 +30,7 @@ Hope became more than just a nice strategy emblazoned upon a motivational poster
 
 Hope is a word that creeps its way casually into my daily conversations. I hope it won’t rain today, just as I hope the coffee pot isn’t empty. It’s a word we’ve given a new, social meaning. It’s an expectation that can have even the most mundane requests. However, my favorite definition of the word is often listed right below our casual definition in the dictionary. This definition is powerful in describing a feeling of trust, a confident expectation.
 
-Webster himself wrestled with its definitions in his 1828 Dictionary.
+Webster himself wrestled with its definitions in his *1828 Dictionary*.
 
 >
 **Hope:** A desire of some good, accompanied with at least a slight expectation of obtaining it, or a belief that it is obtainable. hope differs from wish and desire in this, that it implies some expectation of obtaining the good desired, or the possibility of possessing it. Hope therefore always gives pleasure or joy; whereas wish and desire may produce or be accompanied with pain and anxiety.
@@ -40,9 +40,9 @@ This first definition plants the seed of possibility. It seeks not only to defin
 >
 **Hope:** Confidence in a future event; the highest degree of well founded expectation of good.
 
-I don’t think hope is simply an antidote to the restlessness I spoke of earlier; I think it goes much deeper. Webster arrives at it in defining “the highest degree of well founded expectation of good.” Hope comes when we are searching for the good, beautiful, and true. It’s not about convenience, comfort, or efficiency. It’s about what is good for others. 
+I don’t think hope is simply an antidote to the restlessness I spoke of earlier; I think it goes much deeper. Webster arrives at it in defining “the highest degree of well founded expectation of good.” Hope comes when we are searching for the good, beautiful, and true. It’s not about convenience, comfort, or efficiency. It’s about what is *good* for others. 
 
-Hope requires morality; it requires a point of view, an answer to this question. Hopefulness can be jarring for people not used to encountering its authenticity. When we peel away the lifeless exoskeleton of our modern definition, we find true hope rooted in humility. And real hope can get you in a lot of trouble, so proceed with caution.
+Hope requires morality; it requires a point of view, an answer to this question. Hopefulness can be jarring for people not used to encountering its authenticity. When we peel away the lifeless exoskeleton of our modern definition, we find true hope rooted in humility. And *real* hope can get you in a lot of trouble, so proceed with caution.
 
 
 ## Hoping for others
@@ -82,7 +82,7 @@ Maybe the confidence aspect of hope is informed by experience. Maybe it comes fr
 
 ## Advocating through design
 
-My biggest fear upon the technological horizon is that we’ll lose our humanity in the quantification of our lives. Data is now so easy to capture and analyze. We can use it to mold minds creating persuasive traps for users to fall into. Our confidence can stop being informed by hopefulness and can start to be informed by manipulation.
+My biggest fear upon the technological horizon is that we’ll lose our humanity in the quantification of our lives. Data is now so easy to capture and analyze. We can use it to mold minds creating persuasive traps for users to fall into. Our confidence can stop being informed by *hopefulness* and can start to be informed by *manipulation*.
 
 There’s such sadness in seeing this play out in our society. Faces are transformed into numbers, and numbers are quite easy to manipulate. This manipulation may start upstream of our audience interacting with our design, but it creates a vicious cycle that sends our processes into a tailspin. Visions of success appear like a mirage in the desert when we’re seduced by dehumanized data. We learned this in kindergarten: The game is much easier if you cheat. Allowing hope to power our practice is much harder to do than create a cheap spike in analytics.
 
@@ -99,7 +99,7 @@ This approach also affirms our pivot to hope being a confident expectation. When
 
 In our daily work, hopelessness can cause us to respond cynically with phrases like, “It’s just not my job to _____________.” (I’ll let you fill in the blank.) Encouraging our clients is often out of scope, inefficient, and doesn’t always favorably impact our profit margins, but I believe it’s our job and the source of a wealth of hope.
 
-True hope calls us to have courage and endurance. It will take time to foster within ourselves and even more time to foster within the organizations we’re serving. We must remember that though a spark can cause a wildfire of hopelessness, so too can it shed the right amount of light to foster hopefulness. The time required shouldn’t deter us from seeking hope as our end.
+True hope calls us to have courage and endurance. It will take time to foster within ourselves and even more time to foster within the organizations we’re serving. We must remember that though a spark can cause a wildfire of *hopelessness*, so too can it shed the right amount of light to foster *hopefulness*. The time required shouldn’t deter us from seeking hope as our end.
 
 ###### • • •
 

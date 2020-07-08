@@ -10,7 +10,7 @@ title: 'Building Community'
 
 <div class="divider">&nbsp;</div>
 
-#### A wise counselor once reminded me that you never really see your own face. Sure, you can see its reflection, but you never really see yourself. The mirror is an approximation. To truly see yourself requires the eyes of another.
+#### A wise counselor once reminded me that you never really see your own face. Sure, you can see its reflection, but you never *really* see yourself. The mirror is an approximation. To *truly* see yourself requires the eyes of another.
 
 Humans were created for community.
 
@@ -27,7 +27,7 @@ Many designers shy away from these relationships because they become complicated
 
 ## Embracing community
 
-The word community comes from the Latin word communis, which means “shared.” This definition points to the foundation of community: our shared humanity, existence, and experience. Astronauts speak about the overview effect, in which seeing the fragile globe from space creates a complete cognitive shift in their awareness. From that altitude, borders disappear, war seems irresponsible, and all of life feels connected. Though seeing the human race through this lens can be passed off as oversimplified globalization, its truth remains. As long as we’re all submitting to Earth’s gravity, we form a community.
+The word *community* comes from the Latin word *communis*, which means “shared.” This definition points to the foundation of community: our shared humanity, existence, and experience. Astronauts speak about the overview effect, in which seeing the fragile globe from space creates a complete cognitive shift in their awareness. From that altitude, borders disappear, war seems irresponsible, and all of life feels connected. Though seeing the human race through this lens can be passed off as oversimplified globalization, its truth remains. As long as we’re all submitting to Earth’s gravity, we form a community.
 
 Community is risky. It requires vulnerability and allowing others into the places of our psyche that we’d rather keep locked away. The heart of community is no different in design. We were never meant to design as siloed individuals.
 
@@ -35,7 +35,7 @@ We fight against this idea of interdependence in individualistic cultures. We’
 
 The type of community that designers really need is broader than other design practitioners. While living in a design bubble can be comfortable, we need a diversity of feedback to the work we’re creating. That includes feedback from those who may not operate out of the same design principles we do.
 
-Our community extends to both the people we’re serving and to the people they’re serving. It includes all those impacted by our work. And their perspectives matter deeply. They refine our design. 
+Our community extends to both the people *we’re* serving and to the people *they’re* serving. It includes all those impacted by our work. And their perspectives matter deeply. They refine our design. 
 
 
 ## Inches away, miles apart
