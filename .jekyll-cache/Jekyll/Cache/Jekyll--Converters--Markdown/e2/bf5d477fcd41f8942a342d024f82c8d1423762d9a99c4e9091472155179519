@@ -1,37 +1,11 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-
-    
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-
-    <title>Foreword — Designing Hope</title>
-
-    <link rel="stylesheet" href="/assets/css/style.css?v=">
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
-  </head>
-  <body>
-    <header class="page-header" role="banner">
-     <div class="row">
-        <div class="nav-column nav-left"><a href="/toc" class="home"><img src="images/logo.svg" class="logo"></a></div>
-        <div class="nav-column nav-right">
-          <div class="about"><a href="/about">&bull;&nbsp;&nbsp;About</a></div>
-        </div>  
-    </header>
-
-    
-    <main id="content" class="main-content" role="main">
-      <div class="main-copy">
-      <h1 id="foreword">Foreword</h1>
+I"s<h1 id="foreword">Foreword</h1>
 
 <h4 id="where-there-is-no-hope-it-is-incumbent-on-us-to-invent-it">“Where there is no hope, it is incumbent on us to invent it.”</h4>
 <h3 id="-albert-camus">― Albert Camus</h3>
+
 <div class="divider">&nbsp;</div>
-<p><br />
-<span class="firstcharacter">H</span>opelessness has become quite fashionable, I’m afraid. People who act as if they are excited about the way things are going are not merely uncool. It’s worse than that: they’re naive. As the slogan goes, <em>if you aren’t angry, you aren’t paying attention</em>. A generally hopeful disposition, then, becomes a sign of willful ignorance—or, at the very least, of having the wrong priorities. And so we resign our own hopes to a box in the attic with other juvenilia—the stuff of childhood.</p>
+
+<p><span class="firstcharacter">H</span>opelessness has become quite fashionable, I’m afraid. People who act as if they are excited about the way things are going are not merely uncool. It’s worse than that: they’re naive. As the slogan goes, <em>if you aren’t angry, you aren’t paying attention</em>. A generally hopeful disposition, then, becomes a sign of willful ignorance—or, at the very least, of having the wrong priorities. And so we resign our own hopes to a box in the attic with other juvenilia—the stuff of childhood.</p>
 
 <p>To hope, it seems, is <em>unserious</em>.</p>
 
@@ -61,14 +35,4 @@
 <p>Hope is a bird with a sprig of something green when you’ve been at sea for forty days. But it is also a forbidden bar mitzvah in a concentration camp. It is a wedding proposal in a cancer ward. Mandela, who knew a thing or two about suffering, said this: “May your choices reflect your hopes and not your fears.” I believe this book, for Jeremy and those of us working alongside him, is just such a reflection, however silly it may sound, and whatever the data might say. However dark a given night, may this book remind us that we always have just enough light for <em>Designing Hope</em>.</p>
 
 <h4 id="-z-bryant">― Z. Bryant</h4>
-
-      </div>
-      <div class="next">
-        <a href="/preface">Preface</a>
-      </div> 
-      <footer class="site-footer">
-        By <a href="https://jeremydcherry.com">Jeremy D. Cherry</a>&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;License <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND</a>
-      </footer>
-    </main>
-  </body>
-</html>
+:ET

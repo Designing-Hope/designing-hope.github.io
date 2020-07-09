@@ -8,7 +8,7 @@ title: 'Introduction'
 
 <div class="divider">&nbsp;</div>
 
-#### Design is so much more than creating pretty things. It challenges the status quo and creates change: change that can solve some of the world’s toughest problems simply by advocating for the humans impacted by them. Design is not passive, self-serving, abusive, dishonest, or greedy. Design is *hopeful*.
+<span class="firstcharacter">D</span>esign is so much more than creating pretty things. It challenges the status quo and creates change: change that can solve some of the world’s toughest problems simply by advocating for the humans impacted by them. Design is not passive, self-serving, abusive, dishonest, or greedy. Design is *hopeful*.
 
 I became enamored with design at an early age. At that time, I don’t even know if I considered this fascination “design” at all. It looked more like trying to make sense of my surroundings by searching for a better way to accomplish things. This early belief that a better way is possible has fueled my career.
 
