@@ -163,6 +163,8 @@ b, strong { font-weight: 500; }
 
 hr { border-width: 0.01em; border-color: rgba(0, 0, 0, 0.25); border-style: solid; }
 
+li { font-family: "IBM Plex Sans", sans-serif; font-weight: 300; font-size: 19px; }
+
 .divider { border-bottom: 4px #ddd solid; width: 50px; }
 
 .icon { margin-left: 50px; width: 36px; }
