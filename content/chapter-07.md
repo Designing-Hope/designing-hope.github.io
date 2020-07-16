@@ -86,5 +86,5 @@ Creating simplicity from chaos is toilsome work. However, through its challenges
 
 ### Practice
 
-## 08. Iterate & repeat.
+## 07. Iterate & repeat.
 ##### Exercise humility. Continually come back to the reality that you may not get it right the first time. Rather than allowing this truth to defeat you, use it to empower your design.

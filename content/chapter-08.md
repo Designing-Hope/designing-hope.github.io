@@ -71,5 +71,5 @@ It’s an undeniable axiom that experiences have more meaning when they are shar
 
 ### Practice
 
-## 09. Share responsibility.
+## 08. Share responsibility.
 ##### Don’t shy away from responsibility. It’s only in this shared experience that meaningful trust will form between you, your clients, and your users. It’s a commitment to refinement rather than arrogance.
