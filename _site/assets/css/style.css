@@ -173,11 +173,13 @@ li { font-family: "IBM Plex Sans", sans-serif; font-weight: 300; font-size: 19px
 
 .firstcharacter { color: #111; float: left; font-family: "IBM Plex Sans", sans-serif; font-size: 75px; font-weight: 500; line-height: 60px; padding-top: 4px; padding-right: 8px; padding-left: 3px; }
 
-.about { padding-top: 10px; margin-right: 50px; text-align: right; color: #000; font-family: "IBM Plex Sans", sans-serif; font-size: 16px; font-weight: 500; line-height: 1; letter-spacing: -0.03em; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+.about { padding-top: 10px; margin-right: 50px; text-align: right; color: #000; font-family: "IBM Plex Sans", sans-serif; font-size: 15px; font-weight: 500; line-height: 1; letter-spacing: -0.03em; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
-.about a { color: #000; text-decoration: none; }
+.about a { color: #000; font-weight: 500; text-decoration: none; padding-left: 50px; }
 
 .about a:hover { color: #ff0048; text-decoration: none; }
+
+.about .active { color: #999; font-weight: 500; text-decoration: none; padding-left: 50px; }
 
 .main-content { margin: 0 auto; }
 
