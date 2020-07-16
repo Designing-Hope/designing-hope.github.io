@@ -175,7 +175,7 @@ li { font-family: "IBM Plex Sans", sans-serif; font-weight: 300; font-size: 19px
 
 .about { padding-top: 10px; margin-right: 50px; text-align: right; color: #000; font-family: "IBM Plex Sans", sans-serif; font-size: 15px; font-weight: 500; line-height: 1; letter-spacing: -0.03em; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
-.about a { color: #000; font-weight: 500; text-decoration: none; padding-left: 50px; }
+.about a { color: #000; font-weight: 400; text-decoration: none; padding-left: 50px; }
 
 .about a:hover { color: #ff0048; text-decoration: none; }
 
