@@ -364,7 +364,7 @@ img.book-cover{
 }
 
 .download-left{
-  padding-right: 40px;
+  padding-right: 30px;
 }
 
 a.download-link{
@@ -950,7 +950,11 @@ footer a:hover{
   .main-copy {margin: 2em auto 4em; max-width: 85%;}
   .main-framework{max-width: 100%; padding:0;}
   .main-page {margin: 1em auto; max-width: 85%;}
+  .nav-left {width: 25%;}
+  .nav-right {width: 75%;}
   .about{margin-right: 25px;}
+  .about a{padding-left: 30px;}
+  .about .active{padding-left: 30px;}
   .icon{margin-left: 25px;}
   .logo{margin-left: 25px;}
   .landing{padding: 0; font-size:17px;}
@@ -963,7 +967,7 @@ footer a:hover{
   footer{font-size: 12px;}
   .credit {text-align: center; margin: 0 0 10px 0;}
   .license {text-align: center; margin: 0;}
-  img.illustration{width:100%;}
+  img.illustration{width:100%; margin-top: 1em;}
   img.book-image{width:100%; margin-bottom: 0.5em}
   h1{font-size:60px; letter-spacing: -0.05em;}
   h2{font-size: 25px;}
@@ -976,6 +980,9 @@ footer a:hover{
   .about-page h1 {font-size: 48px; margin-bottom: 0.5em;}
   .about-page h2 {font-size: 26px;}
   .about-page h6 {font-size: 15px; text-align: center;}
+  .download-left{padding-right: 30px;}
+  .landing a.resource-link{font-size: 12px;}
+  .about a.resource-link{font-size: 12px;}
   .download-copy{padding-right: 0;}
   .column-third{width: 100%; text-align: center;}
   .column-half{width: 100%; text-align: center;}
