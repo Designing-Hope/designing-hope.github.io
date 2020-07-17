@@ -299,7 +299,7 @@ footer a:hover { background-color: #ff0048; color: #fff; }
 
 .principles-copy { max-width: 60ch; }
 
-.principles h1 { color: #fff; font-family: "IBM Plex Sans", sans-serif; font-size: 120px; font-weight: 300; letter-spacing: -0.03em; line-height: 1; display: block; text-align: right; padding-right: 50px; margin-block-start: 0px; margin-block-end: 0px; margin-inline-start: 0px; margin-inline-end: 0px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+.principles h1 { color: #fff; font-family: "IBM Plex Sans", sans-serif; font-size: 120px; font-weight: 300; letter-spacing: -0.03em; line-height: .75; display: block; text-align: right; padding-right: 50px; margin-block-start: 0px; margin-block-end: 0px; margin-inline-start: 0px; margin-inline-end: 0px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 .principles h2 { color: #fff; font-family: "IBM Plex Sans", sans-serif; font-size: 32px; font-weight: 500; letter-spacing: -0.02em; line-height: 1; margin-block-start: 0px; margin-block-end: 0px; margin-inline-start: 0px; margin-inline-end: 0px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
