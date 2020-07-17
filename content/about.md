@@ -16,7 +16,7 @@ title: 'About'
   	<a href="/foreword"><button>Start Reading</button></a><br/>
   	<a href="/download" class="resource-link download-left"><img src="/images/download.svg" class="resource-icon">&nbsp;&nbsp;Download</a>
     <a href="/listen" class="resource-link download-left"><img src="/images/headphones.svg" class="resource-icon">&nbsp;&nbsp;Listen</a>
-    <a href="/print" class="resource-link"><img src="/images/book.svg" class="resource-icon">&nbsp;&nbsp;Print</a><br/>
+    <a href="/print" class="resource-link"><img src="/images/book.svg" class="resource-icon">&nbsp;&nbsp;Print</a><br/><br/>
   	<div class="divider">&nbsp;</div>
   	<br/><br/>
   	<h2>Jeremy D. Cherry</h2>
