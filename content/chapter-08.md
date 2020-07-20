@@ -12,9 +12,9 @@ title: '08. Building Community'
 
 #### A wise counselor once reminded me that you never really see your own face. Sure, you can see its reflection, but you never *really* see yourself. The mirror is an approximation. To *truly* see yourself requires the eyes of another.
 
-Humans were created for community.
-
 We’re a social species. And though we pride ourselves on our superior intelligence amongst the animal kingdom, we can’t escape this truth. We need each other. It sounds cliche, but its implications are life altering.
+
+Humans were created for community.
 
 Today, we feel more connected to one another than ever before in history. But it’s just that: a feeling. Are we truly connected to each other, or are we settling for an abstraction of authentic community? True community is messy. It builds slowly, with great sacrifice, and lacks in selfish ambition.
 
