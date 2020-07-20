@@ -197,7 +197,7 @@ li { font-family: "IBM Plex Sans", sans-serif; font-weight: 300; font-size: 19px
 
 .main-framework { margin: 0 auto; }
 
-.landing { padding: 5em 3em 0 0; font-size: 20px; }
+.landing { padding: 5em 4em 0 0; font-size: 19px; }
 
 .landing h1 { color: #000; font-family: "IBM Plex Sans", sans-serif; font-size: 48px; font-weight: 500; line-height: 1; letter-spacing: -0.05em; margin-block-start: .25em; margin-block-end: .25em; margin-inline-start: 0px; margin-inline-end: 0px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
@@ -325,7 +325,7 @@ footer a:hover { background-color: #ff0048; color: #fff; }
 
 .practices h5 { font-size: 18px; }
 
-.about-page { color: #000; font-size: 18px; font-weight: 400; letter-spacing: -0.01em; line-height: 1.5; margin-block-start: 0px; margin-block-end: 0px; margin-inline-start: 0px; margin-inline-end: 0px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+.about-page { color: #000; font-size: 19px; font-weight: 400; letter-spacing: -0.01em; line-height: 1.5; margin-block-start: 0px; margin-block-end: 0px; margin-inline-start: 0px; margin-inline-end: 0px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 .about-page button { font-weight: 400; }
 

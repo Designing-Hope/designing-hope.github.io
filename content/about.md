@@ -13,10 +13,7 @@ title: 'About'
   	<img src="/images/book-image.jpg" class="book-image">
   	<h2>A better way is possible.</h2>
   	<em>Designing Hope</em> is a book that explores creating compassionate work for humans. It defines a design framework that creates hope by practicing in an ecosystem, honoring that community with its solutions, and sharing in the responsibility of its outcomes. It’s equal parts manifesto and practical guide. It strives to rise above technical theory, seeking out practical compassion. In short, if you create things for others <em>(you do)</em>, this book is for you.<br/>
-  	<a href="/foreword"><button>Start Reading</button></a><br/>
-  	<a href="/download" class="resource-link download-left"><img src="/images/download.svg" class="resource-icon">&nbsp;&nbsp;Download</a>
-    <a href="/listen" class="resource-link download-left"><img src="/images/headphones.svg" class="resource-icon">&nbsp;&nbsp;Listen</a>
-    <a href="/print" class="resource-link"><img src="/images/book.svg" class="resource-icon">&nbsp;&nbsp;Print</a><br/><br/>
+  	<a href="/toc"><button>Start Reading</button></a>
   	<div class="divider">&nbsp;</div>
   	<br/><br/>
   	<h2>Jeremy D. Cherry</h2>
