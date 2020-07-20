@@ -2,7 +2,7 @@
 layout: chapter-4
 permalink: /chapter-4
 section: 'Chapter 04.'
-title: 'Tooling Curiosity'
+title: '04. Tooling Curiosity'
 ---
 
 ### Chapter 04.

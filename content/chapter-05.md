@@ -2,7 +2,7 @@
 layout: chapter-5
 permalink: /chapter-5
 section: 'Chapter 05.'
-title: 'Translating Integrity'
+title: '05. Translating Integrity'
 ---
 
 ### Chapter 05.

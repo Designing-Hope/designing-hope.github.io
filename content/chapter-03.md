@@ -2,7 +2,7 @@
 layout: chapter-3
 permalink: /chapter-3
 section: 'Chapter 03.'
-title: 'Impacting Humanity'
+title: '03. Impacting Humanity'
 ---
 
 ### Chapter 03.

@@ -2,7 +2,7 @@
 layout: chapter-2
 permalink: /chapter-2
 section: 'Chapter 02.'
-title: 'Refining Intent'
+title: '02. Refining Intent'
 ---
 
 ### Chapter 02.

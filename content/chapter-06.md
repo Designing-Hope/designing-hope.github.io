@@ -2,7 +2,7 @@
 layout: chapter-6
 permalink: /chapter-6
 section: 'Chapter 06.'
-title: 'Honoring Engagement'
+title: '05. Honoring Engagement'
 ---
 
 ### Chapter 06.

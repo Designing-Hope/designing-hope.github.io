@@ -2,7 +2,7 @@
 layout: chapter-8
 permalink: /chapter-8
 section: 'Chapter 08.'
-title: 'Building Community'
+title: '08. Building Community'
 ---
 
 ### Chapter 08.

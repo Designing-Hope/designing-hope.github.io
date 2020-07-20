@@ -2,7 +2,7 @@
 layout: chapter-7
 permalink: /chapter-7
 section: 'Chapter 07.'
-title: 'Navigating Complexity'
+title: '07. Navigating Complexity'
 ---
 
 ### Chapter 07.
