@@ -358,10 +358,12 @@ li{
   color: #fff;
 }
 
-li.note-highlight{
+a.note-highlight{
   background-color: #fdffd2;
   color: #000;
+  font-weight: 500;
   padding: 2px;
+  text-decoration: none;
 }
 
 img.book-cover{
@@ -965,6 +967,8 @@ footer a:hover{
 .download-copy a:hover{
   color: #000;
 }
+
+
 
 // !-- Medium Screens //
 

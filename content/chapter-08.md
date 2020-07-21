@@ -27,7 +27,7 @@ Many designers shy away from these relationships because they become complicated
 
 ## Embracing community
 
-The word *community* comes from the Latin word *communis*, which means “shared.” This definition points to the foundation of community: our shared humanity, existence, and experience. Astronauts speak about the overview effect, in which seeing the fragile globe from space creates a complete cognitive shift in their awareness. From that altitude, borders disappear, war seems irresponsible, and all of life feels connected. Though seeing the human race through this lens can be passed off as oversimplified globalization, its truth remains. As long as we’re all submitting to Earth’s gravity, we form a community.
+The word *community* comes from the Latin word *communis*, which means “common.” This definition points to the foundation of community: our shared humanity, existence, and experience. Astronauts speak about the overview effect, in which seeing the fragile globe from space creates a complete cognitive shift in their awareness. From that altitude, borders disappear, war seems irresponsible, and all of life feels connected. Though seeing the human race through this lens can be passed off as oversimplified globalization, its truth remains. As long as we’re all submitting to Earth’s gravity, we form a community.
 
 Community is risky. It requires vulnerability and allowing others into the places of our psyche that we’d rather keep locked away. The heart of community is no different in design. We were never meant to design as siloed individuals.
 
