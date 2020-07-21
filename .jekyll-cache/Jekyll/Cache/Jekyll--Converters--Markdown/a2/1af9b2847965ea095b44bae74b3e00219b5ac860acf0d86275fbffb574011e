@@ -1,11 +1,5 @@
----
-layout: toc
-permalink: /toc
-title: Table of Contents
----
-
-<div class="row">
-  <div class="column left"><img src="images/book-cover.svg" class="book-cover"></div>
+I"<div class="row">
+  <div class="column left"><img src="images/book-cover.svg" class="book-cover" /></div>
   <div class="column right">
     <div class="toc">
     <h4><a href="/foreword">Foreword</a> by Z. Bryant</h4>
@@ -21,7 +15,9 @@ title: Table of Contents
     <h2>08. <a href="/chapter-8">Building Community</a></h2>
     <h4><a href="/epilogue">Epilogue</a></h4>
     <h4><a href="/acknowledgments">Acknowledgments</a></h4>
-    <h3><a href="/notes" class="note"> Notes</a></h3>
+    <div class="small-divider">&nbsp;</div>
+    <h4><a href="/marginalia">Marginalia</a></h4>
     </div>
   </div>
 </div>
+:ET

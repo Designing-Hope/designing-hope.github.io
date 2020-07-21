@@ -167,6 +167,8 @@ li { font-family: "IBM Plex Sans", sans-serif; font-weight: 300; font-size: 19px
 
 .divider { border-bottom: 4px #ddd solid; width: 50px; }
 
+.small-divider { border-bottom: 1px #ddd solid; width: 50px; height: 20px; }
+
 .icon { margin-left: 50px; width: 36px; }
 
 .logo { margin-left: 50px; width: 130px; }
@@ -219,9 +221,17 @@ li { font-family: "IBM Plex Sans", sans-serif; font-weight: 300; font-size: 19px
 
 .toc h4 { color: #999; font-family: "IBM Plex Sans", sans-serif; font-size: 19px; font-weight: 400; line-height: 1; letter-spacing: -0.03em; margin-block-start: 1.25em; margin-block-end: 1.25em; margin-inline-start: 0px; margin-inline-end: 0px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
+.toc h3 { font-family: "IBM Plex Sans", sans-serif; font-weight: 400; font-style: normal; font-size: 14px; text-transform: uppercase; letter-spacing: 1px; line-height: 1; display: block; margin-block-start: .5em; margin-block-end: .5em; margin-inline-start: 0px; margin-inline-end: 0px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+
 .toc a { color: #000; text-decoration: none; }
 
 .toc a:hover { background-color: #ff0048; color: #fff; text-decoration: none; }
+
+.toc a.note { background-color: #fdffd2; color: #000; padding: 2px; }
+
+.toc a.note:hover { background-color: #ff0048; color: #fff; }
+
+li.note-highlight { background-color: #fdffd2; color: #000; padding: 2px; }
 
 img.book-cover { display: block; margin: 20px auto 30px; max-width: 65%; box-shadow: 0 0 10px 0 rgba(40, 42, 47, 0.1), -10px 10px 24px 10px rgba(40, 42, 47, 0.05), -30px 40px 30px 0 rgba(40, 42, 47, 0.1), -10px 10px 10px -5px rgba(40, 42, 47, 0.1); }
 
