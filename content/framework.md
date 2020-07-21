@@ -10,7 +10,7 @@ title: 'Framework'
 	<h1>Hopeful<br/> Design</h1>
 	<h4>A design framework that creates hope by practicing in an ecosystem, honoring that community with its solutions, and sharing in the responsibility of its outcomes</h4>
 	<br/>
-	<a href="/"><button>Read the Book</button></a>
+	<a href="/"><button>Start Reading</button></a>
 </div>
 </div>	
 
@@ -53,7 +53,7 @@ title: 'Framework'
   <div class="column-half col-half-2">
   <div class="principles-copy">
   	<h2>Be humble.</h2>
-    <h5>Admit failure, adapt, and share in the responsibility.</h5>
+    <h5>Share responsibility no matter the outcome.</h5>
   </div>	
   </div>
 </div>

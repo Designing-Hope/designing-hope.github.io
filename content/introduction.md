@@ -41,7 +41,7 @@ Simplified, hopeful design can be broken down into three main principles:
 **Be compassionate:** Form solutions from experiential learning.
 
 >
-**Be humble:** Admit failure, adapt, and share in the responsibility.
+**Be humble:** Share responsibility no matter the outcome.
 
 You can view this entire book as an exploration using these very principles to answer the question I’ve been wrestling with all these years. Each chapter seeks to fill in the blank,
 
