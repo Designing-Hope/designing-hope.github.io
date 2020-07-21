@@ -21,7 +21,7 @@ title: Table of Contents
     <h2>08. <a href="/chapter-8">Building Community</a></h2>
     <h4><a href="/epilogue">Epilogue</a></h4>
     <h4><a href="/acknowledgments">Acknowledgments</a></h4>
-    <h3><a href="/notes" class="note"> Notes</a></h3>
+    <h4><a href="/notes"> Notes</a></h4>
     </div>
   </div>
 </div>
