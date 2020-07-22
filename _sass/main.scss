@@ -347,23 +347,16 @@ li{
   text-decoration: none;
 }
 
-.toc a.note{
-  background-color: #fdffd2;
-  color: #000;
-  padding: 2px;
-}
-
-.toc a.note:hover{
-  background-color: #ff0048;
-  color: #fff;
-}
-
 a.note-highlight{
-  background-color: #fdffd2;
+  background-color: #FDFFDC;
   color: #000;
-  font-weight: 500;
+  font-weight: 400;
   padding: 2px;
   text-decoration: none;
+}
+
+a.note-highlight:hover{
+  background-color: #F8FF64;
 }
 
 img.book-cover{

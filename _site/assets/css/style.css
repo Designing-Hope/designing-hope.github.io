@@ -227,11 +227,9 @@ li { font-family: "IBM Plex Sans", sans-serif; font-weight: 300; font-size: 19px
 
 .toc a:hover { background-color: #ff0048; color: #fff; text-decoration: none; }
 
-.toc a.note { background-color: #fdffd2; color: #000; padding: 2px; }
+a.note-highlight { background-color: #FDFFDC; color: #000; font-weight: 400; padding: 2px; text-decoration: none; }
 
-.toc a.note:hover { background-color: #ff0048; color: #fff; }
-
-a.note-highlight { background-color: #fdffd2; color: #000; font-weight: 500; padding: 2px; text-decoration: none; }
+a.note-highlight:hover { background-color: #F8FF64; }
 
 img.book-cover { display: block; margin: 20px auto 30px; max-width: 65%; box-shadow: 0 0 10px 0 rgba(40, 42, 47, 0.1), -10px 10px 24px 10px rgba(40, 42, 47, 0.05), -30px 40px 30px 0 rgba(40, 42, 47, 0.1), -10px 10px 10px -5px rgba(40, 42, 47, 0.1); }
 
