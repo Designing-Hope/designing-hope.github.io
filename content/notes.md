@@ -8,36 +8,36 @@ title: 'Notes'
 
 ## Introduction
 
-- *"...as Michelangelo put it, what’s already living within the marble."* is based on 2 quotes from Michelangelo Buonarroti:
+- *"...as Michelangelo put it, what’s already living within the marble."* is based on 2 quotes from <a href="https://en.wikipedia.org/wiki/Michelangelo" class="note-highlight">Michelangelo Buonarroti</a>:
 
-	- “The sculpture is already complete within the marble block, before I start my work. It is already there, I just have to chisel away the superfluous material.”
+	- *“The sculpture is already complete within the marble block, before I start my work. It is already there, I just have to chisel away the superfluous material.”*
 
-	- “I saw the angel in the marble and carved until I set him free.”
+	- *“I saw the angel in the marble and carved until I set him free.”*
 
 ## 01. Designing Hope
 
-- If you're looking for more resources on *Generalized Anxiety Disorder* (GAD) visit Anxiety and Depression Association of America at <a href="https://www.adaa.org" class="note-highlight">adaa.org</a>.
+- If you're looking for more resources on *Generalized Anxiety Disorder* (GAD) visit <a href="https://www.adaa.org" class="note-highlight">Anxiety and Depression Association of America</a>.
 
-- Both definitions of "Hope" are sourced from *Webster's Dictionary 1828* which lives online at <a href="https://www.webstersdictionary1828.com" class="note-highlight">webstersdictionary1828.com</a>.
+- Both definitions of "Hope" are sourced from <a href="https://www.webstersdictionary1828.com" class="note-highlight">Webster's Dictionary 1828</a>.
 
 ## 03. Impacting Humanity
 
-- *"I immediately think of one of the most famous maps of all time, Maximo Vignelli’s New York City subway map..."* referenced Maximo Vignelli's renowned design for the NYC subway map, learn more about this in this <a href="https://www.nytimes.com/2012/08/06/arts/design/the-subway-map-that-rattled-new-yorkers.html" class="note-highlight">great New York Times article</a>.
+- *"I immediately think of one of the most famous maps of all time, Maximo Vignelli’s New York City subway map..."* <a href="https://en.wikipedia.org/wiki/Massimo_Vignelli" class="note-highlight">learn more</a>.
 
-- *"The word “design” derives from designation..."* learn more about the etymology <a href="https://www.merriam-webster.com/dictionary/design" class="note-highlight">here</a>.
+- *"The word “design” derives from designation..."* <a href="https://www.merriam-webster.com/dictionary/design" class="note-highlight">etymology</a>.
 
-- *"I recall John Proctor’s famous line from Arthur Miller’s The Crucible..."* watch Daniel Day Lewis as John Proctor deliver this line in a way only he can in Nicholas Hytner's 1996 film adapation of the Crucible.
+- *"I recall John Proctor’s famous line from Arthur Miller’s The Crucible..."* <a href="https://www.youtube.com/watch?v=K19FtgBlz2A" class="note-highlight">watch</a> Daniel Day Lewis as John Proctor deliver this line in a way only he can in Nicholas Hytner's 1996 <a href="https://www.imdb.com/title/tt0115988/" class="note-highlight">film adapation</a> of Arthur Miller's <a href="https://en.wikipedia.org/wiki/The_Crucible" class="note-highlight">*The Crucible*</a>.
 
 ## 04. Tooling Curiosity
 
-- *"I can hear Dieter Rams in the back of my mind repeating..."* learn more about the design icon <a href="https://en.wikipedia.org/wiki/Dieter_Rams" class="note-highlight">here</a>.
+- *"I can hear Dieter Rams in the back of my mind repeating..."* <a href="https://en.wikipedia.org/wiki/Dieter_Rams" class="note-highlight">learn more</a>.
 
 ## 06. Honoring Engagement
 
-- *"Howard Rheingold said it best in his book Virtual Community..."* his book lives online <a href="http://rheingold.com/vc/book/intro.html" class="note-highlight">here</a>.
+- *"Howard Rheingold said it best in his book Virtual Community..."* <a href="http://rheingold.com/vc/book/intro.html" class="note-highlight">read online</a>.
 
 ## 08. Building Community
 
-- *"I often treat my role as designer like that of Atlas..."* learn more about this myth <a href="https://en.wikipedia.org/wiki/Atlas_(mythology)" class="note-highlight">here</a>.
+- *"I often treat my role as designer like that of Atlas..."* <a href="https://en.wikipedia.org/wiki/Atlas_(mythology)" class="note-highlight">mythology</a>.
 
-- *The word community comes from the Latin word communis..."* learn more about the etymology <a href="https://www.merriam-webster.com/dictionary/community" class="note-highlight">here</a>.
+- *The word community comes from the Latin word communis..."* <a href="https://www.merriam-webster.com/dictionary/community" class="note-highlight">etymology</a>.
