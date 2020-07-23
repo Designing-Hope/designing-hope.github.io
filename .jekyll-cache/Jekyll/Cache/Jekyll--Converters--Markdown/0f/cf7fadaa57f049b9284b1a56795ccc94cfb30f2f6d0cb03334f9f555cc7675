@@ -1,36 +1,6 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
+I"U<h3 id="notes">Notes</h3>
 
-    
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-
-    <title>Notes — Designing Hope</title>
-
-    <link rel="stylesheet" href="/assets/css/style.css?v=">
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
-  </head>
-  <body>
-    <header class="page-header" role="banner">
-      <div class="row">
-        <div class="nav-column nav-left"><a href="/toc" class="home"><img src="images/logo.svg" class="logo"></a></div>
-        <div class="nav-column nav-right">
-          <div class="about"><a href="/framework">Framework</a><a href="/about">About</a></div>
-        </div>  
-      </div>
-    </header>
-
-    
-    <main id="content" class="main-content" role="main">
-      <div class="main-copy">
-      <h3 id="notes">Notes</h3>
-
-<div class="divider-full">&nbsp;</div>
-
-<h2 id="introduction"><a href="/introduction" class="note-chapter">Introduction</a></h2>
+<h2 id="introduction">Introduction</h2>
 
 <ul>
   <li>
@@ -47,9 +17,9 @@
   </li>
 </ul>
 
-<div class="divider-full">&nbsp;</div>
+<div class="divider">&nbsp;</div>
 
-<h2 id="01-designing-hope"><a href="/chapter-1" class="note-chapter">01. Designing Hope</a></h2>
+<h2 id="01-designing-hope">01. Designing Hope</h2>
 
 <ul>
   <li>
@@ -60,9 +30,7 @@
   </li>
 </ul>
 
-<div class="divider-full">&nbsp;</div>
-
-<h2 id="03-impacting-humanity"><a href="/chapter-3" class="note-chapter">03. Impacting Humanity</a></h2>
+<h2 id="03-impacting-humanity">03. Impacting Humanity</h2>
 
 <ul>
   <li>
@@ -76,25 +44,19 @@
   </li>
 </ul>
 
-<div class="divider-full">&nbsp;</div>
-
-<h2 id="04-tooling-curiosity"><a href="/chapter-4" class="note-chapter">04. Tooling Curiosity</a></h2>
+<h2 id="04-tooling-curiosity">04. Tooling Curiosity</h2>
 
 <ul>
   <li><em>“I can hear Dieter Rams in the back of my mind repeating…”</em> <a href="https://en.wikipedia.org/wiki/Dieter_Rams" class="note-highlight">learn more</a>.</li>
 </ul>
 
-<div class="divider-full">&nbsp;</div>
-
-<h2 id="06-honoring-engagement"><a href="/chapter-6" class="note-chapter">06. Honoring Engagement</a></h2>
+<h2 id="06-honoring-engagement">06. Honoring Engagement</h2>
 
 <ul>
   <li><em>“Howard Rheingold said it best in his book Virtual Community…”</em> <a href="http://rheingold.com/vc/book/intro.html" class="note-highlight">read online</a>.</li>
 </ul>
 
-<div class="divider-full">&nbsp;</div>
-
-<h2 id="08-building-community"><a href="/chapter-8" class="note-chapter">08. Building Community</a></h2>
+<h2 id="08-building-community">08. Building Community</h2>
 
 <ul>
   <li>
@@ -104,11 +66,4 @@
     <p><em>The word community comes from the Latin word communis…”</em> <a href="https://www.merriam-webster.com/dictionary/community" class="note-highlight">etymology</a>.</p>
   </li>
 </ul>
-
-      </div>
-      <footer class="site-footer">
-        By <a href="https://jeremydcherry.com">Jeremy D. Cherry</a>&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;License <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND</a>
-      </footer>
-    </main>
-  </body>
-</html>
+:ET

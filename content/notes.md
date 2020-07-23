@@ -6,7 +6,9 @@ title: 'Notes'
 
 ### Notes
 
-## Introduction
+<div class="divider-full">&nbsp;</div>
+
+## <a href="/introduction" class="note-chapter">Introduction</a>
 
 - *"...as Michelangelo put it, what’s already living within the marble."* is based on 2 quotes from <a href="https://en.wikipedia.org/wiki/Michelangelo" class="note-highlight">Michelangelo Buonarroti</a>:
 
@@ -14,13 +16,17 @@ title: 'Notes'
 
 	- *“I saw the angel in the marble and carved until I set him free.”*
 
-## 01. Designing Hope
+<div class="divider-full">&nbsp;</div>
+
+## <a href="/chapter-1" class="note-chapter">01. Designing Hope</a>
 
 - If you're looking for more resources on *Generalized Anxiety Disorder* (GAD) visit <a href="https://www.adaa.org" class="note-highlight">Anxiety and Depression Association of America</a>.
 
 - Both definitions of "Hope" are sourced from <a href="http://www.webstersdictionary1828.com/" class="note-highlight">Webster's Dictionary 1828</a>.
 
-## 03. Impacting Humanity
+<div class="divider-full">&nbsp;</div>
+
+## <a href="/chapter-3" class="note-chapter">03. Impacting Humanity</a>
 
 - *"I immediately think of one of the most famous maps of all time, Maximo Vignelli’s New York City subway map..."* <a href="https://en.wikipedia.org/wiki/Massimo_Vignelli" class="note-highlight">learn more</a>.
 
@@ -28,15 +34,21 @@ title: 'Notes'
 
 - *"I recall John Proctor’s famous line from Arthur Miller’s The Crucible..."* <a href="https://www.youtube.com/watch?v=K19FtgBlz2A" class="note-highlight">watch</a> Daniel Day Lewis as John Proctor deliver this line in a way only he can in Nicholas Hytner's 1996 <a href="https://www.imdb.com/title/tt0115988/" class="note-highlight">film adapation</a> of Arthur Miller's <a href="https://en.wikipedia.org/wiki/The_Crucible" class="note-highlight">*The Crucible*</a>.
 
-## 04. Tooling Curiosity
+<div class="divider-full">&nbsp;</div>
+
+## <a href="/chapter-4" class="note-chapter">04. Tooling Curiosity</a>
 
 - *"I can hear Dieter Rams in the back of my mind repeating..."* <a href="https://en.wikipedia.org/wiki/Dieter_Rams" class="note-highlight">learn more</a>.
 
-## 06. Honoring Engagement
+<div class="divider-full">&nbsp;</div>
+
+## <a href="/chapter-6" class="note-chapter">06. Honoring Engagement</a>
 
 - *"Howard Rheingold said it best in his book Virtual Community..."* <a href="http://rheingold.com/vc/book/intro.html" class="note-highlight">read online</a>.
 
-## 08. Building Community
+<div class="divider-full">&nbsp;</div>
+
+## <a href="/chapter-8" class="note-chapter">08. Building Community</a>
 
 - *"I often treat my role as designer like that of Atlas..."* <a href="https://en.wikipedia.org/wiki/Atlas_(mythology)" class="note-highlight">mythology</a>.
 
