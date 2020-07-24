@@ -10,7 +10,6 @@ title: 'Framework'
 <div class="definition-copy">	
 	<h1>Hopeful<br/> Design</h1>
 	<h4>A design framework that creates hope by practicing in an ecosystem, honoring that community with its solutions, and sharing in the responsibility of its outcomes</h4>
-	<br/>
 	<a href="/toc"><button>Start Reading</button></a>
 </div>
 </div>

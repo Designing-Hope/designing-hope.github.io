@@ -8,7 +8,7 @@ title: Table of Contents
   <div class="column left"><img src="images/book-cover.svg" class="book-cover"></div>
   <div class="column right">
     <div class="toc">
-    <h4><a href="/foreword">Foreword</a> by Z. Bryant</h4>
+    <h4 class="first-chapter"><a href="/foreword">Foreword</a> by Z. Bryant</h4>
     <h4><a href="/preface">Preface</a></h4>
     <h4><a href="/introduction">Introduction</a></h4>
     <h2>01. <a href="/chapter-1">Designing Hope</a></h2>
