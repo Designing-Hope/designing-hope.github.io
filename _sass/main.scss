@@ -672,13 +672,17 @@ footer a:hover{
 
 .definition{
   background-color: #fff;
-  margin: 4em 6em 5em;
+}
+
+.definition-inner{
+  max-width: 1200px;
+  padding: 2em 0 6em;
+  margin: 0 auto;
 }
 
 .definition-copy{
   max-width: 82ch;
 }
-
 
 .definition h1{
   color: #000;
@@ -714,7 +718,12 @@ footer a:hover{
 
 .principles{
   background-color: #000;
-  padding: 4em 6em;
+}
+
+.principles-inner{
+  max-width: 1200px;
+  padding: 4em 0;
+  margin: 0 auto;
 }
 
 .principles-copy{
@@ -760,7 +769,7 @@ footer a:hover{
 
 .principles h5 {
   color: #fff;
-  font-size: 18px;
+  font-size: 20px;
 }
 
 .glyph-1{
@@ -779,12 +788,17 @@ footer a:hover{
 }
 
 .practices-copy{
-  max-width: 40ch;
+  max-width: 60ch;
 }
 
 .practices{
   background-color: #fff;
-  padding: 4em 6em;
+}
+
+.practices-inner{
+  max-width: 1200px;
+  padding: 4em 0;
+  margin: 0 auto;
 }
 
 .practices h1{
@@ -824,7 +838,7 @@ footer a:hover{
 }
 
 .practices h5 {
-  font-size: 18px;
+  font-size: 20px;
 }
 
 .about-page{

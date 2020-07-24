@@ -6,17 +6,20 @@ title: 'Framework'
 
 <!-- Definition -->
 <div class="definition">
+<div class="definition-inner">
 <div class="definition-copy">	
 	<h1>Hopeful<br/> Design</h1>
 	<h4>A design framework that creates hope by practicing in an ecosystem, honoring that community with its solutions, and sharing in the responsibility of its outcomes</h4>
 	<br/>
 	<a href="/toc"><button>Start Reading</button></a>
 </div>
-</div>	
+</div>
+</div>
 
 <!-- Principles -->
 <!-- 01. -->
-<div class="principles">	
+<div class="principles">
+<div class="principles-inner">	
 <div class="row">
   <div class="column-third col-third-1">
 	<h3>Principles</h3>
@@ -58,11 +61,13 @@ title: 'Framework'
   </div>
 </div>
 </div>
+</div>
 
 <!-- Practices -->
 <!-- 01. -->
 
 <div class="practices">
+<div class="practices-inner">
 <div class="row">
   <div class="column-third col-third-1">
 	<h3>Practices</h3>
@@ -77,7 +82,7 @@ title: 'Framework'
   </div>
   </div>
 </div>
-<br/><br/>
+<br/><br/><br/>
 <!-- 02. -->
 <div class="row">
   <div class="column-half col-half-1">
@@ -90,7 +95,7 @@ title: 'Framework'
   </div>	
   </div>
 </div>
-<br/><br/>
+<br/><br/><br/>
 <!-- 03. -->
 <div class="row">
   <div class="column-half col-half-1">
@@ -103,7 +108,7 @@ title: 'Framework'
   </div>	
   </div>
 </div>
-<br/><br/>
+<br/><br/><br/>
 <!-- 04. -->
 <div class="row">
   <div class="column-half col-half-1">
@@ -116,7 +121,7 @@ title: 'Framework'
   </div>	
   </div>
 </div>
-<br/><br/>
+<br/><br/><br/>
 <!-- 05. -->
 <div class="row">
   <div class="column-half col-half-1">
@@ -129,7 +134,7 @@ title: 'Framework'
   </div>	
   </div>
 </div>
-<br/><br/>
+<br/><br/><br/>
 <!-- 06. -->
 <div class="row">
   <div class="column-half col-half-1">
@@ -142,7 +147,7 @@ title: 'Framework'
   </div>	
   </div>
 </div>
-<br/><br/>
+<br/><br/><br/>
 <!-- 07. -->
 <div class="row">
   <div class="column-half col-half-1">
@@ -155,7 +160,7 @@ title: 'Framework'
   </div>	
   </div>
 </div>
-<br/><br/>
+<br/><br/><br/>
 <!-- 08. -->
 <div class="row">
   <div class="column-half col-half-1">
@@ -167,6 +172,7 @@ title: 'Framework'
   	<h5>Don’t shy away from responsibility. It’s only in this shared experience that meaningful trust will form between you, your clients, and your users. It’s a commitment to refinement rather than arrogance.</h5>
   </div>	
   </div>
+</div>
 </div>
 </div>
 

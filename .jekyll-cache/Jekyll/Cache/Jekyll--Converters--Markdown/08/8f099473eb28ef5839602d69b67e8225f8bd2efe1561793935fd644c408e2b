@@ -1,31 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-
-    
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-
-    <title>Framework — Designing Hope</title>
-
-    <link rel="stylesheet" href="/assets/css/style.css?v=">
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
-  </head>
-  <body>
-    <header class="page-header" role="banner">
-      <div class="row">
-        <div class="nav-column nav-left"><a href="/toc" class="home"><img src="images/icon.svg" class="icon"></a></div>
-        <div class="nav-column nav-right">
-          <div class="about"><span class="active">Framework</span><a href="/about">About</a></div>
-        </div>  
-      </div>      
-    </header>
-
-    <main id="content" class="main-content" role="main">
-      <div class="main-framework">
-      <!-- Definition -->
+I"4<!-- Definition -->
 <div class="definition">
 <div class="definition-inner">
 <div class="definition-copy">	
@@ -34,8 +7,8 @@
 	<br />
 	<a href="/toc"><button>Start Reading</button></a>
 </div>
-</div>
-</div>
+&lt;/div
+</div>	
 
 <!-- Principles -->
 <!-- 01. -->
@@ -116,7 +89,7 @@
   </div>	
   </div>
 </div>
-<br /><br /><br />
+<br /><br />
 <!-- 03. -->
 <div class="row">
   <div class="column-half col-half-1">
@@ -129,7 +102,7 @@
   </div>	
   </div>
 </div>
-<br /><br /><br />
+<br /><br />
 <!-- 04. -->
 <div class="row">
   <div class="column-half col-half-1">
@@ -142,7 +115,7 @@
   </div>	
   </div>
 </div>
-<br /><br /><br />
+<br /><br />
 <!-- 05. -->
 <div class="row">
   <div class="column-half col-half-1">
@@ -155,7 +128,7 @@
   </div>	
   </div>
 </div>
-<br /><br /><br />
+<br /><br />
 <!-- 06. -->
 <div class="row">
   <div class="column-half col-half-1">
@@ -168,7 +141,7 @@
   </div>	
   </div>
 </div>
-<br /><br /><br />
+<br /><br />
 <!-- 07. -->
 <div class="row">
   <div class="column-half col-half-1">
@@ -181,7 +154,7 @@
   </div>	
   </div>
 </div>
-<br /><br /><br />
+<br /><br />
 <!-- 08. -->
 <div class="row">
   <div class="column-half col-half-1">
@@ -197,14 +170,5 @@
 </div>
 </div>
 
-
-      </div>
-      <div class="next">
-        <a href="/toc">Start Reading</em></a>
-      </div>  
-      <footer class="site-footer">
-        By <a href="https://jeremydcherry.com">Jeremy D. Cherry</a>&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;License <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND</a>
-      </footer>
-    </main>
-  </body>
-</html>
+</div>
+:ET
