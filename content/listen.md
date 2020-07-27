@@ -11,7 +11,7 @@ title: 'Listen'
   </div>
   <div class="column right">
     <div class="download-copy">
-  	 <h2>Because sometimes you’d just rather listen, I feel you.</h2>
+  	 <h2>Let's be honest, sometimes you’d just rather listen.</h2>
   	 If you'd prefer listening to <em>Designing Hope</em>, check out the audiobook below. It’s read by yours truly, sorry I couldn't afford David Attenborough.<br/>
       <a href=""><button>Download Audiobook</button></a>
      </div> 
