@@ -859,6 +859,10 @@ footer a:hover{
   -moz-osx-font-smoothing: grayscale;
 }
 
+.about-content{
+  padding: 0 2em 0 0;
+}
+
 .about-page button{
   font-weight: 400;
 }
@@ -1053,6 +1057,7 @@ footer a:hover{
   blockquote{font-size: 19px; border-left: #eee 5px solid; padding: 0 0 0 20px; margin-inline-start: 0px; margin-inline-end: 0px;}
   .next a{font-size: 36px;}
   .about-page{font-size: 18px; margin-bottom: 4em;}
+  .about-content{padding: 0;}
   .about-page h1{font-size: 48px; margin-bottom: 0.5em;}
   .about-page h2{font-size: 26px;}
   .about-page h6{font-size: 15px; text-align: center;}
