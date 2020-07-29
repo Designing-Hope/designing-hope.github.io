@@ -16,6 +16,8 @@ title: 'Acknowledgments'
 
 - **Greg Breeding** for blazing this trail before me.
 
+- **Josh Bryant** for helping make this book accessible online.
+
 - **Journey Group** for championing this book.
 
 - **My beautiful family** for supporting this lifelong venture.
