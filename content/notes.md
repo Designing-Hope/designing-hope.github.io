@@ -22,7 +22,7 @@ title: 'Notes'
 
 - If you're looking for more resources on Generalized Anxiety Disorder (GAD) visit <a href="https://www.adaa.org" class="note-highlight">Anxiety and Depression Association of America</a>.
 
-- Both definitions of "Hope" are sourced from <a href="http://www.webstersdictionary1828.com/" class="note-highlight">Webster's Dictionary 1828</a>.
+- Both definitions of "Hope" are sourced from Webster's Dictionary 1828>.
 
 <div class="divider-full">&nbsp;</div>
 
@@ -39,12 +39,6 @@ title: 'Notes'
 ## 04. Tooling Curiosity
 
 - *"I can hear Dieter Rams in the back of my mind repeating..."* <a href="https://en.wikipedia.org/wiki/Dieter_Rams" class="note-highlight">learn more</a>.
-
-<div class="divider-full">&nbsp;</div>
-
-## 06. Honoring Engagement
-
-- *"Howard Rheingold said it best in his book Virtual Community..."* <a href="http://rheingold.com/vc/book/intro.html" class="note-highlight">read online</a>.
 
 <div class="divider-full">&nbsp;</div>
 
