@@ -22,7 +22,7 @@ title: 'Notes'
 
 - If you're looking for more resources on Generalized Anxiety Disorder (GAD) visit <a href="https://www.adaa.org" class="note-highlight">Anxiety and Depression Association of America</a>.
 
-- Both definitions of "Hope" are sourced from Webster's Dictionary 1828>.
+- Both definitions of "Hope" are sourced from Webster's Dictionary 1828.
 
 <div class="divider-full">&nbsp;</div>
 
