@@ -177,6 +177,8 @@ li { font-family: "IBM Plex Sans", sans-serif; font-weight: 300; font-size: 19px
 
 .firstcharacter { color: #111; float: left; font-family: "IBM Plex Sans", sans-serif; font-size: 75px; font-weight: 500; line-height: 60px; padding-top: 4px; padding-right: 8px; padding-left: 3px; }
 
+.error { text-align: center; margin: 3em auto 6em; max-width: 60ch; }
+
 .about { padding-top: 10px; margin-right: 50px; text-align: right; color: #000; font-family: "IBM Plex Sans", sans-serif; font-size: 14px; font-weight: 500; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 .about a { color: #000; font-weight: 400; text-decoration: none; padding-left: 50px; }
