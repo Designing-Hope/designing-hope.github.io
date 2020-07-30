@@ -56,7 +56,7 @@ Most tools are simple to learn. While we face some growing pains when we embrace
 
 But designers need fewer tools. 
 
-I can hear Dieter Rams in the back of my mind repeating, “Less but better.” Tools can often get in the way of our work. Many times I’ve forced an idea into reality using the flashiest technology when I just needed to make it work on paper. Calling for a lighter toolbelt doesn’t diminish tools’ importance but rather pushes for them to be conscious and deliberate.q
+I can hear Dieter Rams in the back of my mind repeating, “Less but better.” Tools can often get in the way of our work. Many times I’ve forced an idea into reality using the flashiest technology when I just needed to make it work on paper. Calling for a lighter toolbelt doesn’t diminish tools’ importance but rather pushes for them to be conscious and deliberate.
 
 
 ## A curious way forward

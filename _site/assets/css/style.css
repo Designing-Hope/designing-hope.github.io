@@ -297,7 +297,7 @@ button.cta:hover { background-color: #000; color: #fff; }
 
 .license { text-align: right; margin-right: 50px; }
 
-footer { background-color: #111; color: #999; font-family: "IBM Plex Sans", sans-serif; font-size: 13px; text-align: center; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; padding: 2em 0; }
+footer { background-color: #111; color: #999; font-family: "IBM Plex Sans", sans-serif; font-size: 13px; padding: 2em 0; text-align: center; height: 70px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 footer a { color: #fff; text-decoration: none; }
 

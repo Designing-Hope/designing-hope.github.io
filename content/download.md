@@ -12,8 +12,8 @@ title: 'Download'
   <div class="column right">
     <div class="download-copy">
   	 <h2>Let’s be honest, reading offline is better for so many reasons.</h2>
-      If you’d prefer downloading <em>Designing Hope</em>, printing it out, marking it up, or reading it offline, go crazy.<br/><br/>
-      <h5>Coming Soon...</h5>
+      If you’d prefer downloading <em>Designing Hope</em>, printing it out, marking it up, or reading it offline, go crazy.<br/>
+      <a href="/downloads/designinghope-ebook.zip"><button>Download eBooks</button></a>
     </div>
 </div>
 </div>
