@@ -64,7 +64,6 @@ title: 'Framework'
 
 <!-- Practices -->
 <!-- 01. -->
-
 <div class="practices">
 <div class="practices-inner">
 <div class="row">
@@ -172,6 +171,50 @@ title: 'Framework'
   </div>	
   </div>
 </div>
+</div>
+</div>
+
+<!-- Resources -->
+<div class="resources">
+<div class="resources-inner">
+  <div class="row">
+    <div class="column-half col-half-1">
+    <h3>Resources</h3>
+    </div>
+    <div class="column-half col-half-2">
+    <div class="resources-copy">  
+      <h2>Read the book.</h2>
+      <h5>Changing the way you think requires context. <em>Designing Hope</em> seeks to do just that. It’s equal parts manifesto and practical guide. It strives to rise above technical theory, seeking out practical compassion.</h5>
+      <a href="/toc"><button>Start Reading</button></a><br/>
+    </div>  
+    </div>
+  </div>
+  <br/><br/>
+  <div class="row">
+    <div class="column-half col-half-1">
+    &nbsp;
+    </div>
+    <div class="column-half col-half-2">
+    <div class="resources-copy">  
+      <h2>Print it out.</h2>
+      <h5>Frameworks take time to inform and mold our work. If you’re anything like me it helps to read and re-read the priciples and practices. Download a one-pager that helps you do just that.</h5>
+      <a href="/downloads/hopefuldesign.pdf"><button>Download PDF</button></a><br/>
+    </div>  
+    </div>
+  </div>
+  <br/><br/>
+  <div class="row">
+    <div class="column-half col-half-1">
+    &nbsp;
+    </div>
+    <div class="column-half col-half-2">
+    <div class="resources-copy">  
+      <h2>Hang it up.</h2>
+      <h5>Habits take time to form in our work. If you’re anything like me it helps to read and re-read the priciples and practices. Download  printable 8.5x11 posters that help you do just that.</h5>
+      <a href="/downloads/hopefuldesign-posters.zip"><button>Download Posters</button></a><br/>
+    </div>  
+    </div>
+  </div>
 </div>
 </div>
 
