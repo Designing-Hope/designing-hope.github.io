@@ -184,7 +184,7 @@ title: 'Framework'
       <div class="resources-copy">
         <img src="/images/book-2.svg" class="resource-glyph"><br/>
         <h2>Read the book.</h2>
-        <h5>Changing the way you think requires context. <em>Designing Hope</em> seeks to do just that. It’s equal parts manifesto and practical guide. It strives to rise above technical theory, seeking out practical compassion.</h5>
+        <h5><em>Designing Hope</em> explores creating compassionate work for humans. It’s equal parts manifesto and practical guide. It strives to rise above technical theory, seeking out practical compassion.</h5>
         <a href="/toc"><button>Start Reading</button></a><br/><br/>
      </div>
     </div>
