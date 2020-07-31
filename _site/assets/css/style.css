@@ -343,7 +343,7 @@ footer a:hover { background-color: #ff0048; color: #fff; }
 
 .glyph-2 { float: right; margin-right: 70px; }
 
-.resource-glyph { background-color: #fff; padding: 30px; border-radius: 100px; margin: 0 0 20px; }
+.resource-glyph { margin: 0 0 20px; }
 
 .practices-copy { max-width: 46ch; }
 
