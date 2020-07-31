@@ -1,31 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-
-    
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-
-    <title>Framework — Designing Hope</title>
-
-    <link rel="stylesheet" href="/assets/css/style.css?v=">
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
-  </head>
-  <body>
-    <header class="page-header" role="banner">
-      <div class="row">
-        <div class="nav-column nav-left"><a href="/toc" class="home"><img src="images/icon.svg" class="icon"></a></div>
-        <div class="nav-column nav-right">
-          <div class="about"><span class="active">Framework</span><a href="/about">About</a></div>
-        </div>  
-      </div>      
-    </header>
-
-    <main id="content" class="main-content" role="main">
-      <div class="main-framework">
-      <!-- Definition -->
+I"p<!-- Definition -->
 <div class="definition">
 <div class="definition-inner">
 <div class="definition-copy">	
@@ -196,43 +169,51 @@
 </div>
 
 <!-- Resources -->
-
 <div class="resources">
 <div class="resources-inner">
-  <h3>Resources</h3>
   <div class="row">
-    <div class="resource-column-third resource-col-third-1">
-      <div class="resources-copy">
-        <img src="/images/book-2.svg" class="resource-glyph" /><br />
-        <h2>Read the book.</h2>
-        <h5>Changing the way you think requires context. <em>Designing Hope</em> seeks to do just that. It’s equal parts manifesto and practical guide. It strives to rise above technical theory, seeking out practical compassion.</h5>
-        <a href="/toc"><button>Start Reading</button></a><br /><br />
-     </div>
+    <div class="column-third col-third-1">
+      <h3>Principles</h3>
     </div>
-    <div class="resource-column-third resource-col-third-2">
-      <div class="resources-copy">
-      <img src="/images/pdf.svg" class="resource-glyph" /><br />
+    <div class="column-third col-third-2">
+      <img src="/images/1.svg" class="glyph" />
+    </div>
+    <div class="column-third col-third-3">
+      <div class="principles-copy"> 
+       <h2>Read the book.</h2>
+      <h5>Changing the way you think requires context. <em>Designing Hope</em> seeks to do just that. It’s equal parts manifesto and practical guide. It strives to rise above technical theory, seeking out practical compassion.</h5>
+      <a href="/toc"><button>Start Reading</button></a><br />
+    </div>  
+    </div>  
+    </div>
+  </div>
+  <br />
+  <div class="row">
+    <div class="column-half col-half-1">
+    <img src="/images/pdf.svg" class="glyph" />
+    </div>
+    <div class="column-half col-half-2">
+    <div class="resources-copy">  
       <h2>Print it out.</h2>
       <h5>Frameworks take time to inform and mold our work. If you’re anything like me it helps to read and re-read the priciples and practices. Download a one-pager that helps you do just that.</h5>
-      <a href="/downloads/hopefuldesign.pdf"><button>Download PDF</button></a><br /><br />
-    </div> 
+      <a href="/downloads/hopefuldesign.pdf"><button>Download PDF</button></a><br />
+    </div>  
     </div>
-    <div class="resource-column-third resource-col-third-3">
-      <div class="resources-copy">
-      <img src="/images/posters.svg" class="resource-glyph" /><br />
+  </div>
+  <br />
+  <div class="row">
+    <div class="column-half col-half-1">
+    &nbsp;
+    </div>
+    <div class="column-half col-half-2">
+    <div class="resources-copy">  
       <h2>Hang it up.</h2>
       <h5>Habits take time to form in our work. If you’re anything like me it helps to read and re-read the priciples and practices. Download  printable 8.5x11 posters that help you do just that.</h5>
-      <a href="/downloads/hopefuldesign-posters.zip"><button>Download Posters</button></a><br /><br />
-    </div> 
+      <a href="/downloads/hopefuldesign-posters.zip"><button>Download Posters</button></a><br />
+    </div>  
     </div>
   </div>
 </div>
-</div>
+<p>&lt;/div&gt;</p>
 
-      </div> 
-      <footer class="site-footer">
-        By <a href="https://jeremydcherry.com">Jeremy D. Cherry</a>&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;License <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND</a>
-      </footer>
-    </main>
-  </body>
-</html>
+:ET

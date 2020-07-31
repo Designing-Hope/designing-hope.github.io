@@ -66,6 +66,26 @@
   clear: both;
 }
 
+.resource-column-third {
+  float: left;
+}
+
+.resource-col-third-1 {
+  width: 33.3%;
+  padding: 0 40px;
+}
+
+.resource-col-third-2 {
+  width: 33.3%;
+  padding: 0 40px;
+}
+
+.resource-col-third-3 {
+  width: 33.3%;
+  padding: 0 40px;
+}
+
+
 body {
   font-family: "Cardo", serif;
   font-size: 22px;
@@ -800,23 +820,25 @@ footer a:hover{
   font-size: 20px;
 }
 
-.glyph-1{
+.glyph{
   float: right;
   margin-right: 100px;
 }
 
 .glyph-2{
   float: right;
-  margin-right: 100px;
-}
-
-.glyph-3{
-  float: right;
   margin-right: 70px;
 }
 
+.resource-glyph{
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 100px;
+  margin: 0 0 20px;
+}
+
 .practices-copy{
-  max-width: 60ch;
+  max-width: 46ch;
 }
 
 .practices{
@@ -869,46 +891,25 @@ footer a:hover{
   font-size: 20px;
 }
 
-.resources-copy{
-  max-width: 60ch;
-}
-
 .resources{
+  text-align: center;
   background-color: #f4f4f3;
 }
 
 .resources-inner{
   max-width: 1200px;
-  padding: 4em 0 6em;
+  padding: 3em 0 4em;
   margin: 0 auto;
-}
-
-.resources h1{
-  color: #999;
-  font-family: "IBM Plex Sans", sans-serif;
-  font-size: 120px;
-  font-weight: 300;
-  letter-spacing: -0.03em;
-  line-height: .75;
-  display: block;
-  text-align: right;
-  padding-right: 50px;
-  margin-block-start: 0px;
-  margin-block-end: 0px;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
 .resources h2 {
   font-family: "IBM Plex Sans", sans-serif;
-  font-size: 32px;
+  font-size: 22px;
   font-weight: 500;
   letter-spacing: -0.02em;
   line-height: 1;
   margin-block-start: 0px;
-  margin-block-end: 0px;
+  margin-block-end: 10px;
   margin-inline-start: 0px;
   margin-inline-end: 0px;
   -webkit-font-smoothing: antialiased;
@@ -917,10 +918,16 @@ footer a:hover{
 
 .resources h3 {
   color: #999;
+  padding: 0 0 50px;
 }
 
 .resources h5 {
-  font-size: 20px;
+  font-size: 14px;
+}
+
+.resources button{
+  padding: 10px 40px;
+  font-size: 13px;
 }
 
 .about-page{
@@ -937,7 +944,6 @@ footer a:hover{
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
 
 .about-page button{
   font-weight: 400;
@@ -1103,6 +1109,10 @@ footer a:hover{
   .main-toc{margin: 1em auto; max-width: 85%;}
   .main-landing{margin: 1em auto; max-width: 85%;}
   .main-copy{margin: 2em auto 4em; max-width: 85%;}
+  .error{margin: 2em auto 4em; max-width: 85%;}
+  .error h1{font-size:90px;}
+  .error h2{font-size:20px;}
+  .error h5{font-size:16px;}
   .main-framework{max-width: 100%; padding:0;}
   .main-page{margin: 1em auto; max-width: 85%;}
   .nav-left{width: 25%;}
@@ -1143,24 +1153,30 @@ footer a:hover{
   .download-copy{padding-right: 0;}
   .column-third{width: 100%; text-align: center;}
   .column-half{width: 100%; text-align: center;}
+  .resource-column-third{width: 100%; text-align: center;}
   .definition{padding:0 25px; margin:0;}
   .definition-inner{max-width:100%; padding:0 0 2em;}
-  .principles{padding:0 25px 50px;}
-  .principles-inner{max-width:100%; padding:0 0 2em;}
-  .practices{padding:0 25px;}
-  .practices-inner{max-width:100%; padding:0 0 2em;}
   .definition h1{font-size:72px;}
   .definition h4{font-size:23px; line-height: 1.35;}
+  .principles{padding:0 25px 50px;}
+  .principles-inner{max-width:100%; padding:0 0 2em;}
+  .principles h2{font-size: 28px; padding-bottom: 10px;}
+  .principles h3{margin-block-start:4em; margin-block-end: 4em;}
+  .principles h5{font-size: 18px;}
   .glyph-1{float:none; margin-right:0; padding-bottom: 20px;}
   .glyph-2{float:none; margin-right:0; padding-bottom: 20px;}
   .glyph-3{float:none; margin-right:0; padding-bottom: 20px;}
+  .practices{padding:0 25px;}
+  .practices-inner{max-width:100%; padding:0 0 2em;}
   .practices h1{text-align: center; padding: 0 0 20px 0;}
-  .principles h2{font-size: 28px; padding-bottom: 10px;}
-  .principles h5{font-size: 18px;}
   .practices h2{font-size: 28px; padding-bottom: 10px;}
-  .practices h5{font-size: 18px;}
-  .principles h3{margin-block-start:4em; margin-block-end: 4em;}
   .practices h3{margin-block-start:4em; margin-block-end: 4em;}
+  .practices h5{font-size: 18px;}
+  .resources{padding:0 25px;}
+  .resources-inner{max-width:100%; padding:0 0 2em;}
+  .resources h2{font-size: 22px;}
+  .resources h3{padding: 50px 0}
+  .resources h5{font-size: 14px;}
 }
 
 

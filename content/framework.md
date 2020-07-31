@@ -24,7 +24,7 @@ title: 'Framework'
 	<h3>Principles</h3>
   </div>
   <div class="column-third col-third-2">
-	<img src="/images/1.svg" class="glyph-1">
+	<img src="/images/1.svg" class="glyph">
   </div>
   <div class="column-third col-third-3">
   <div class="principles-copy">	
@@ -37,7 +37,7 @@ title: 'Framework'
 <!-- 02. -->
 <div class="row">
   <div class="column-half col-half-1">
-	<img src="/images/2.svg" class="glyph-2">
+	<img src="/images/2.svg" class="glyph">
   </div>
   <div class="column-half col-half-2">
   <div class="principles-copy">	
@@ -50,7 +50,7 @@ title: 'Framework'
 <!-- 03. -->
 <div class="row">
   <div class="column-half col-half-1">
-	<img src="/images/3.svg" class="glyph-3">
+	<img src="/images/3.svg" class="glyph-2">
   </div>
   <div class="column-half col-half-2">
   <div class="principles-copy">
@@ -175,46 +175,35 @@ title: 'Framework'
 </div>
 
 <!-- Resources -->
+
 <div class="resources">
 <div class="resources-inner">
+  <h3>Resources</h3>
   <div class="row">
-    <div class="column-half col-half-1">
-    <h3>Resources</h3>
+    <div class="resource-column-third resource-col-third-1">
+      <div class="resources-copy">
+        <img src="/images/book-2.svg" class="resource-glyph"><br/>
+        <h2>Read the book.</h2>
+        <h5>Changing the way you think requires context. <em>Designing Hope</em> seeks to do just that. It’s equal parts manifesto and practical guide. It strives to rise above technical theory, seeking out practical compassion.</h5>
+        <a href="/toc"><button>Start Reading</button></a><br/><br/>
+     </div>
     </div>
-    <div class="column-half col-half-2">
-    <div class="resources-copy">  
-      <h2>Read the book.</h2>
-      <h5>Changing the way you think requires context. <em>Designing Hope</em> seeks to do just that. It’s equal parts manifesto and practical guide. It strives to rise above technical theory, seeking out practical compassion.</h5>
-      <a href="/toc"><button>Start Reading</button></a><br/>
-    </div>  
-    </div>
-  </div>
-  <br/><br/>
-  <div class="row">
-    <div class="column-half col-half-1">
-    &nbsp;
-    </div>
-    <div class="column-half col-half-2">
-    <div class="resources-copy">  
+    <div class="resource-column-third resource-col-third-2">
+      <div class="resources-copy">
+      <img src="/images/pdf.svg" class="resource-glyph"><br/>
       <h2>Print it out.</h2>
       <h5>Frameworks take time to inform and mold our work. If you’re anything like me it helps to read and re-read the priciples and practices. Download a one-pager that helps you do just that.</h5>
-      <a href="/downloads/hopefuldesign.pdf"><button>Download PDF</button></a><br/>
-    </div>  
+      <a href="/downloads/hopefuldesign.pdf"><button>Download PDF</button></a><br/><br/>
+    </div> 
     </div>
-  </div>
-  <br/><br/>
-  <div class="row">
-    <div class="column-half col-half-1">
-    &nbsp;
-    </div>
-    <div class="column-half col-half-2">
-    <div class="resources-copy">  
+    <div class="resource-column-third resource-col-third-3">
+      <div class="resources-copy">
+      <img src="/images/posters.svg" class="resource-glyph"><br/>
       <h2>Hang it up.</h2>
       <h5>Habits take time to form in our work. If you’re anything like me it helps to read and re-read the priciples and practices. Download  printable 8.5x11 posters that help you do just that.</h5>
-      <a href="/downloads/hopefuldesign-posters.zip"><button>Download Posters</button></a><br/>
-    </div>  
+      <a href="/downloads/hopefuldesign-posters.zip"><button>Download Posters</button></a><br/><br/>
+    </div> 
     </div>
   </div>
 </div>
 </div>
-
