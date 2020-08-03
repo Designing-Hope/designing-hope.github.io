@@ -365,7 +365,7 @@ footer a:hover { background-color: #ff0048; color: #fff; }
 
 .resources { text-align: center; background-color: #f4f4f3; }
 
-.resources-inner { max-width: 1200px; padding: 3em 0 4em; margin: 0 auto; }
+.resources-inner { max-width: 1200px; padding: 3em 0 3em; margin: 0 auto; }
 
 .resources h2 { font-family: "IBM Plex Sans", sans-serif; font-size: 22px; font-weight: 500; letter-spacing: -0.02em; line-height: 1; margin-block-start: 0px; margin-block-end: 10px; margin-inline-start: 0px; margin-inline-end: 0px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
