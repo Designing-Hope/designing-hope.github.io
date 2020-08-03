@@ -337,7 +337,7 @@ footer a:hover { background-color: #ff0048; color: #fff; }
 
 .principles h1 { color: #fff; font-family: "IBM Plex Sans", sans-serif; font-size: 120px; font-weight: 300; letter-spacing: -0.03em; line-height: .75; display: block; text-align: right; padding-right: 50px; margin-block-start: 0px; margin-block-end: 0px; margin-inline-start: 0px; margin-inline-end: 0px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
-.principles h2 { color: #fff; font-family: "IBM Plex Sans", sans-serif; font-size: 30px; font-weight: 500; letter-spacing: -0.02em; line-height: 1; margin-block-start: 0px; margin-block-end: 0px; margin-inline-start: 0px; margin-inline-end: 0px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+.principles h2 { color: #fff; font-family: "IBM Plex Sans", sans-serif; font-size: 30px; font-weight: 500; letter-spacing: -0.02em; line-height: 1; margin-block-start: 0px; margin-block-end: 10px; margin-inline-start: 0px; margin-inline-end: 0px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 .principles h3 { color: #999; }
 
@@ -357,7 +357,7 @@ footer a:hover { background-color: #ff0048; color: #fff; }
 
 .practices h1 { color: #999; font-family: "IBM Plex Sans", sans-serif; font-size: 120px; font-weight: 300; letter-spacing: -0.03em; line-height: .75; display: block; text-align: right; padding-right: 50px; margin-block-start: 0px; margin-block-end: 0px; margin-inline-start: 0px; margin-inline-end: 0px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
-.practices h2 { font-family: "IBM Plex Sans", sans-serif; font-size: 30px; font-weight: 500; letter-spacing: -0.02em; line-height: 1; margin-block-start: 0px; margin-block-end: 0px; margin-inline-start: 0px; margin-inline-end: 0px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+.practices h2 { font-family: "IBM Plex Sans", sans-serif; font-size: 30px; font-weight: 500; letter-spacing: -0.02em; line-height: 1; margin-block-start: 0px; margin-block-end: 10px; margin-inline-start: 0px; margin-inline-end: 0px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 .practices h3 { color: #999; }
 
