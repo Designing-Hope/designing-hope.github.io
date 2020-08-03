@@ -80,7 +80,7 @@ title: 'Framework'
   </div>
   </div>
 </div>
-<br/><br/><br/>
+<br/><br/>
 <!-- 02. -->
 <div class="row">
   <div class="column-half col-half-1">
@@ -93,7 +93,7 @@ title: 'Framework'
   </div>	
   </div>
 </div>
-<br/><br/><br/>
+<br/><br/>
 <!-- 03. -->
 <div class="row">
   <div class="column-half col-half-1">
@@ -106,7 +106,7 @@ title: 'Framework'
   </div>	
   </div>
 </div>
-<br/><br/><br/>
+<br/><br/>
 <!-- 04. -->
 <div class="row">
   <div class="column-half col-half-1">
@@ -119,7 +119,7 @@ title: 'Framework'
   </div>	
   </div>
 </div>
-<br/><br/><br/>
+<br/><br/>
 <!-- 05. -->
 <div class="row">
   <div class="column-half col-half-1">
@@ -132,7 +132,7 @@ title: 'Framework'
   </div>	
   </div>
 </div>
-<br/><br/><br/>
+<br/><br/>
 <!-- 06. -->
 <div class="row">
   <div class="column-half col-half-1">
@@ -145,7 +145,7 @@ title: 'Framework'
   </div>	
   </div>
 </div>
-<br/><br/><br/>
+<br/><br/>
 <!-- 07. -->
 <div class="row">
   <div class="column-half col-half-1">
@@ -158,7 +158,7 @@ title: 'Framework'
   </div>	
   </div>
 </div>
-<br/><br/><br/>
+<br/><br/>
 <!-- 08. -->
 <div class="row">
   <div class="column-half col-half-1">
