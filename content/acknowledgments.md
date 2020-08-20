@@ -10,7 +10,7 @@ title: 'Acknowledgments'
 
 - **You** for reading this book.
 
-- **Hannah Jordan** and **Abby Farson Pratt** for making this book better.
+- **Hannah Jordan** and **Abby Farson Pratt** for clarifying this book.
 
 - **Z. Bryant** for his faithfulness to this project.
 
