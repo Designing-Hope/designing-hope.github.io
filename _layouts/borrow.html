@@ -19,9 +19,9 @@
     <title>{{ page.title }}{% if page.title %} — {% endif %}{{ site.title }}</title>
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
   </head>
-  <body>
+  <body style="background-color: #F4F4F3;">
     <header class="page-header" role="banner">
       <div class="row">
         <div class="nav-column nav-left"><a href="/toc" class="home"><img src="images/icon.svg" class="icon"></a></div>
@@ -32,13 +32,8 @@
     </header>
 
     <main id="content" class="main-content" role="main">
-      <div class="main-toc">
+      <div class="main-page">
       {{ content }}
-      </div>
-      <div class="downloads">
-        <a href="/download" class="resource-link download-left"><img src="/images/download.svg" class="resource-icon">&nbsp;&nbsp;Download</a>
-        <a href="/listen" class="resource-link download-left"><img src="/images/headphones.svg" class="resource-icon">&nbsp;&nbsp;Listen</a>
-        <a href="/borrow" class="resource-link"><img src="/images/book.svg" class="resource-icon">&nbsp;&nbsp;Borrow</a>
       </div>
       <footer class="site-footer">
         By <a href="https://jeremydcherry.com">Jeremy D. Cherry</a>&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;License <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND</a>
