@@ -752,7 +752,7 @@ footer a:hover{
 .definition-inner{
   max-width: 1200px;
   padding: 1em 0 6em;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #ccc;
   margin: 0 auto;
 }
 
@@ -799,11 +799,12 @@ footer a:hover{
 .principles-inner{
   max-width: 1200px;
   padding: 6em 0;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #ccc;
   margin: 0 auto;
 }
 
 .principles-copy{
+  padding-top: 15px;
   max-width: 60ch;
 }
 
@@ -848,11 +849,13 @@ footer a:hover{
 
 .glyph{
   float: right;
-  margin-right: 100px;
+  width: 150px;
+  margin-right: 80px;
 }
 
-.glyph-2{
+.glyph-number{
   float: right;
+  width: 150px;
   margin-right: 70px;
 }
 
@@ -872,6 +875,7 @@ footer a:hover{
 .practices-inner{
   max-width: 1200px;
   padding: 6em 0 6em;
+  border-bottom: 1px solid #ddd;
   margin: 0 auto;
 }
 
@@ -917,12 +921,12 @@ footer a:hover{
 
 .resources{
   text-align: center;
-  background-color: #f4f4f3;
+  background-color: #fff;
 }
 
 .resources-inner{
   max-width: 1200px;
-  padding: 3em 0 3em;
+  padding: 4em 0;
   margin: 0 auto;
 }
 
