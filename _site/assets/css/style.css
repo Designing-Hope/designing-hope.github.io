@@ -321,7 +321,7 @@ footer a:hover { background-color: #ff0048; color: #fff; }
 
 .definition { background-color: #fff; }
 
-.definition-inner { max-width: 1200px; padding: 2em 0 6em; margin: 0 auto; }
+.definition-inner { max-width: 1200px; padding: 1em 0 4em; border-bottom: 1px solid #ddd; margin: 0 auto; }
 
 .definition-copy { max-width: 82ch; }
 
@@ -329,19 +329,19 @@ footer a:hover { background-color: #ff0048; color: #fff; }
 
 .definition h4 { color: #000; font-family: "IBM Plex Sans", sans-serif; font-size: 56px; font-weight: 300; line-height: 1.25; letter-spacing: -0.05em; margin-block-start: 0px; margin-block-end: 0px; margin-inline-start: 0px; margin-inline-end: 0px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
-.principles { background-color: #000; }
+.principles { background-color: #fff; }
 
-.principles-inner { max-width: 1200px; padding: 4em 0; margin: 0 auto; }
+.principles-inner { max-width: 1200px; padding: 4em 0; border-bottom: 1px solid #ddd; margin: 0 auto; }
 
 .principles-copy { max-width: 60ch; }
 
-.principles h1 { color: #fff; font-family: "IBM Plex Sans", sans-serif; font-size: 120px; font-weight: 300; letter-spacing: -0.03em; line-height: .75; display: block; text-align: right; padding-right: 50px; margin-block-start: 0px; margin-block-end: 0px; margin-inline-start: 0px; margin-inline-end: 0px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+.principles h1 { font-family: "IBM Plex Sans", sans-serif; font-size: 120px; font-weight: 300; letter-spacing: -0.03em; line-height: .75; display: block; text-align: right; padding-right: 50px; margin-block-start: 0px; margin-block-end: 0px; margin-inline-start: 0px; margin-inline-end: 0px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
-.principles h2 { color: #fff; font-family: "IBM Plex Sans", sans-serif; font-size: 30px; font-weight: 500; letter-spacing: -0.02em; line-height: 1; margin-block-start: 0px; margin-block-end: 10px; margin-inline-start: 0px; margin-inline-end: 0px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+.principles h2 { font-family: "IBM Plex Sans", sans-serif; font-size: 30px; font-weight: 500; letter-spacing: -0.02em; line-height: 1; margin-block-start: 0px; margin-block-end: 10px; margin-inline-start: 0px; margin-inline-end: 0px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 .principles h3 { color: #999; }
 
-.principles h5 { color: #fff; font-size: 20px; }
+.principles h5 { font-size: 20px; }
 
 .glyph { float: right; margin-right: 100px; }
 
@@ -353,7 +353,7 @@ footer a:hover { background-color: #ff0048; color: #fff; }
 
 .practices { background-color: #fff; }
 
-.practices-inner { max-width: 1200px; padding: 4em 0; margin: 0 auto; }
+.practices-inner { max-width: 1200px; padding: 4em 0 6em; margin: 0 auto; }
 
 .practices h1 { color: #ddd; font-family: "IBM Plex Sans", sans-serif; font-size: 120px; font-weight: 300; letter-spacing: -0.03em; line-height: .75; display: block; text-align: right; padding-right: 50px; margin-block-start: 0px; margin-block-end: 0px; margin-inline-start: 0px; margin-inline-end: 0px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 

@@ -751,7 +751,8 @@ footer a:hover{
 
 .definition-inner{
   max-width: 1200px;
-  padding: 2em 0 6em;
+  padding: 1em 0 4em;
+  border-bottom: 1px solid #ddd;
   margin: 0 auto;
 }
 
@@ -792,12 +793,13 @@ footer a:hover{
 }
 
 .principles{
-  background-color: #000;
+  background-color: #fff;
 }
 
 .principles-inner{
   max-width: 1200px;
   padding: 4em 0;
+  border-bottom: 1px solid #ddd;
   margin: 0 auto;
 }
 
@@ -806,7 +808,6 @@ footer a:hover{
 }
 
 .principles h1{
-  color: #fff;
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 120px;
   font-weight: 300;
@@ -824,7 +825,6 @@ footer a:hover{
 }
 
 .principles h2 {
-  color: #fff;
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 30px;
   font-weight: 500;
@@ -843,7 +843,6 @@ footer a:hover{
 }
 
 .principles h5 {
-  color: #fff;
   font-size: 20px;
 }
 
@@ -872,7 +871,7 @@ footer a:hover{
 
 .practices-inner{
   max-width: 1200px;
-  padding: 4em 0;
+  padding: 4em 0 6em;
   margin: 0 auto;
 }
 
