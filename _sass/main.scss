@@ -330,8 +330,8 @@ li{
   -moz-osx-font-smoothing: grayscale;
 }
 
-.landing a.resource-link{
-  color: #ff0048;
+.downloads a.resource-link{
+  color: #000;
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 14px;
   font-weight: 500;
@@ -343,8 +343,8 @@ li{
   -moz-osx-font-smoothing: grayscale;
 }
 
-.landing a.resource-link:hover{
-  color: #000;
+.downloads a.resource-link:hover{
+  color: #ff0048;
   text-decoration: none;
 }
 
@@ -1089,6 +1089,7 @@ footer a:hover{
 }
 
 .resource-icon{
+  width: 16px;
   position: relative;
   top: 3px;
 }
