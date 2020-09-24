@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /epilogue﻿
-title: 'Epilogue﻿'
+permalink: /epilogue
+title: 'Epilogue'
 ---
 
 ### Epilogue

@@ -1,8 +1,11 @@
 ---
-layout: chapter-1
+layout: chapter
 permalink: /chapter-1
 section: 'Chapter 01.'
 title: '01. Designing Hope'
+headerimage: '/images/02.png'
+nextpage: '/chapter-2'
+nexttitle: '02. Refining Intent'
 ---
 
 ### Chapter 01.

@@ -24,24 +24,29 @@
   <body>
     <header class="chapter-header" role="banner">
        <div class="row">
-        <div class="nav-column nav-left"><a href="/toc" class="home"><img src="images/logo.svg" class="logo"></a></div>
+        <div class="nav-column nav-left"><a href="/toc" class="home"><img src="/images/logo.svg" class="logo"></a></div>
         <div class="nav-column nav-right">
           <div class="about"><a href="/framework">Framework</a><a href="/about">About</a></div>
         </div>  
-      </div>  
-      <div class"art">
-      <img src="images/02.png" class="illustration">
       </div>
+      {% if page.headerimage %}
+      <div class="art">
+        <img src="{{ page.headerimage }}" class="illustration">
+      </div>
+      {% endif %}
     </header>
 
-    
     <main id="content" class="main-content" role="main">
       <div class="main-copy">
-      {{ content }}
+        {{ content }}
       </div>
+
+      {% if page.nextpage %}
       <div class="next">
-        <a href="/chapter-2">02. Refining Intent</a>
-      </div>  
+        <a href="{{ page.nextpage }}">{{ page.nexttitle }}</a>
+      </div>
+      {% endif %}
+
       <footer class="site-footer">
         By <a href="https://jeremydcherry.com">Jeremy D. Cherry</a>&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;License <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND</a>
       </footer>
