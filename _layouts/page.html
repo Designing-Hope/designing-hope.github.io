@@ -15,6 +15,12 @@
             <a href="/framework">Framework</a>
             {% endif %}
 
+            {% if page.permalink == "/download" %}
+            <span class="active">Download</span>
+            {% else %}
+            <a href="/download">Download</a>
+            {% endif %}
+
             {% if page.permalink == "/about" %}
             <span class="active">About</span>
             {% else %}

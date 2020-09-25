@@ -150,7 +150,7 @@ li{
   text-align: right;
   color: #000;
   font-family: "IBM Plex Sans", sans-serif;
-  font-size: 14px;
+  font-size: 13px;
   font-weight: 500;
   line-height: 1;
   -webkit-font-smoothing: antialiased;
@@ -161,7 +161,7 @@ li{
   color: #000;
   font-weight: 400;
   text-decoration: none;
-  padding-left: 50px;
+  padding-left: 40px;
 }
 
 .about a:hover{
@@ -173,7 +173,7 @@ li{
   color: #999;
   font-weight: 400;
   text-decoration: none;
-  padding-left: 50px;
+  padding-left: 40px;
 }
 
 .main-content {
@@ -214,6 +214,9 @@ li{
   margin: 0 auto;
 }
 
+.landing-page{
+  padding-bottom: 1em;
+}
 .landing{
   padding: 4em 4em 0 0;
   font-size: 19px;

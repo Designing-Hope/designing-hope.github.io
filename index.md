@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Designing Hope
 pageclass: 'landing-page'
 coverimage: '/images/book-cover.svg'
