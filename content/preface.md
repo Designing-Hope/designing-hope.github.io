@@ -1,12 +1,16 @@
 ---
-layout: preface
+layout: chapter
 permalink: /preface
+section: 'Preface'
 title: 'Preface'
+headerimage: '/images/00.png'
+nextpage: '/introduction'
+nexttitle: 'Introduction'
 ---
 
 # Preface
 
-<div class="divider">&nbsp;</div>
+---
 
 <span class="firstcharacter">M</span>odernity offered me a choice: become a salty, old designer or offer a solution. I could contribute to the noise or search for clarity amongst the chaos.
 

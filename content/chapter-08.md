@@ -1,14 +1,17 @@
 ---
-layout: chapter-8
+layout: chapter
 permalink: /chapter-8
 section: 'Chapter 08.'
-title: '08. Building Community'
+title: '08. Navigating Complexity'
+headerimage: '/images/09.png'
+nextpage: '/epilogue'
+nexttitle: 'Epilogue'
 ---
 
 ### Chapter 08.
 # Building Community
 
-<div class="divider">&nbsp;</div>
+---
 
 #### A wise counselor once reminded me that you never really see your own face. Sure, you can see its reflection, but you never *really* see yourself. The mirror is an approximation. To *truly* see yourself requires the eyes of another.
 

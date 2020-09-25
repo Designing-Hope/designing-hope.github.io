@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: default
 title: Designing Hope
 pageclass: 'landing-page'
 coverimage: '/images/book-cover.svg'
 ---
-
 
 <div class="landing" markdown="1">
 

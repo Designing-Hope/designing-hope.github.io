@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: chapter
 permalink: /acknowledgments
+section: 'Acknowledgments'
 title: 'Acknowledgments'
 ---
 

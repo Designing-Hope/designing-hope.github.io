@@ -1,14 +1,17 @@
 ---
-layout: chapter-4
+layout: chapter
 permalink: /chapter-4
 section: 'Chapter 04.'
 title: '04. Tooling Curiosity'
+headerimage: '/images/05.png'
+nextpage: '/chapter-5'
+nexttitle: '05. Translating Integrity'
 ---
 
 ### Chapter 04.
 # Tooling Curiosity
 
-<div class="divider">&nbsp;</div>
+---
 
 #### Tools are vital. Our days are made exponentially easier than every generation before us because of them. Tools power our lives and our professions, and whether analog or digital, tools are how we work.
 

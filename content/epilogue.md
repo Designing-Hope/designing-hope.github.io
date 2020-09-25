@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: chapter
 permalink: /epilogue
+section: 'Epilogue'
 title: 'Epilogue'
 ---
 

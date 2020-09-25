@@ -1,12 +1,13 @@
 ---
-layout: default
+layout: chapter
 permalink: /notes
+section: 'Notes'
 title: 'Notes'
 ---
 
 ### Notes
 
-<div class="divider-full">&nbsp;</div>
+---
 
 ## Introduction
 
@@ -16,7 +17,7 @@ title: 'Notes'
 
 	- *“I saw the angel in the marble and carved until I set him free.”*
 
-<div class="divider-full">&nbsp;</div>
+---
 
 ## 01. Designing Hope
 
@@ -24,7 +25,7 @@ title: 'Notes'
 
 - Both definitions of "Hope" are sourced from Webster's Dictionary 1828.
 
-<div class="divider-full">&nbsp;</div>
+---
 
 ## 03. Impacting Humanity
 
@@ -34,13 +35,13 @@ title: 'Notes'
 
 - *"I recall John Proctor’s famous line from Arthur Miller’s The Crucible..."* <a href="https://www.youtube.com/watch?v=K19FtgBlz2A" class="note-highlight">watch</a> Daniel Day Lewis as John Proctor deliver this line in a way only he can in Nicholas Hytner's 1996 <a href="https://www.imdb.com/title/tt0115988/" class="note-highlight">film adapation</a> of Arthur Miller's <a href="https://en.wikipedia.org/wiki/The_Crucible" class="note-highlight">*The Crucible*</a>.
 
-<div class="divider-full">&nbsp;</div>
+---
 
 ## 04. Tooling Curiosity
 
 - *"I can hear Dieter Rams in the back of my mind repeating..."* <a href="https://en.wikipedia.org/wiki/Dieter_Rams" class="note-highlight">learn more</a>.
 
-<div class="divider-full">&nbsp;</div>
+---
 
 ## 08. Building Community
 

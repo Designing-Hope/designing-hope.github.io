@@ -1,14 +1,17 @@
 ---
-layout: chapter-3
+layout: chapter
 permalink: /chapter-3
 section: 'Chapter 03.'
 title: '03. Impacting Humanity'
+headerimage: '/images/04.png'
+nextpage: '/chapter-4'
+nexttitle: '04. Tooling Curiosity'
 ---
 
 ### Chapter 03.
 # Impacting Humanity
 
-<div class="divider">&nbsp;</div>
+---
 
 #### Our Earth is complex, our galaxy vast, and our universe an infinite mystery. Coexisting alongside cycles of mystery are laws of nature powering life on our planet. A natural order exists all around us in the created world. 
 

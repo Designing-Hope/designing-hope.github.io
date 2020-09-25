@@ -3,14 +3,17 @@
   <head>
     {% include head.html %}
   </head>
-  <body style="background-color: #F4F4F3;">
+  <body style="background-color: #fff;">
     <header class="page-header" role="banner">
       <div class="row">
         <div class="nav-column nav-left"><a href="/toc" class="home"><img src="/images/icon.svg" class="icon"></a></div>
         <div class="nav-column nav-right">
           <div class="about">
+            {% if page.permalink == "/framework" %}
+            <span class="active">Framework</span>
+            {% else %}
             <a href="/framework">Framework</a>
-
+            {% endif %}
 
             {% if page.permalink == "/about" %}
             <span class="active">About</span>

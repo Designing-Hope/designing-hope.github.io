@@ -1,44 +1,48 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-
-    {% if site.google_analytics %}
-      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', '{{ site.google_analytics }}');
-      </script>
-    {% endif %}
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-
-    <title>{{ page.title }}{% if page.title %} — {% endif %}{{ site.title }}</title>
-
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    {% include head.html %}
   </head>
-  <body>
+  <body style="background-color: #fff;">
     <header class="page-header" role="banner">
       <div class="row">
-        <div class="nav-column nav-left"><a href="/toc" class="home"><img src="images/logo.svg" class="logo"></a></div>
+        <div class="nav-column nav-left"><a href="/toc" class="home"><img src="/images/icon.svg" class="icon"></a></div>
         <div class="nav-column nav-right">
-          <div class="about"><a href="/framework">Framework</a><a href="/about">About</a></div>
-        </div>  
+          <div class="about">
+            {% if page.permalink == "/framework" %}
+            <span class="active">Framework</span>
+            {% else %}
+            <a href="/framework">Framework</a>
+            {% endif %}
+
+            {% if page.permalink == "/about" %}
+            <span class="active">About</span>
+            {% else %}
+            <a href="/about">About</a>
+            {% endif %}
+          </div>
+        </div>
       </div>
     </header>
 
-    
     <main id="content" class="main-content" role="main">
-      <div class="main-copy">
-      {{ content }}
+      <div class="main-page">
+        <div class="{{ page.pageclass }}">
+          <div class="row">
+            <div class="column left">
+              {% if page.coverimage %}
+              <img src="{{ page.coverimage }}" class="book-cover" />
+              {% elsif page.title %}
+              <h1>{{ page.title }}</h1>
+              {% endif %}
+            </div>
+            <div class="column right">
+              {{ content }}
+            </div>
+          </div>
+        </div>
       </div>
-      <footer class="site-footer">
-        By <a href="https://jeremydcherry.com">Jeremy D. Cherry</a>&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;License <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND</a>
-      </footer>
     </main>
+
   </body>
 </html>

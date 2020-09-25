@@ -1,14 +1,17 @@
 ---
-layout: chapter-5
+layout: chapter
 permalink: /chapter-5
 section: 'Chapter 05.'
 title: '05. Translating Integrity'
+headerimage: '/images/06.png'
+nextpage: '/chapter-6'
+nexttitle: '06. Honoring Engagement'
 ---
 
 ### Chapter 05.
 # Translating Integrity
 
-<div class="divider">&nbsp;</div>
+---
 
 #### Integrity is a virtue admired by all and cultivated by few. The harsh reality is that honesty isn’t always rewarded by humans. We have countless success stories that seem to teach us that altering the truth never hurt anyone. We remediate our collective conscience with contagious phrases like, “It’s just business” and “What they don’t know won’t hurt them.”
 

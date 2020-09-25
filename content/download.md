@@ -1,21 +1,12 @@
 ---
-layout: resource
+layout: page
 permalink: /download
 title: 'Download'
+pageclass: 'about-page'
 ---
 
-<div class="about-page">
-<div class="row">
-  <div class="column left">
-  	<div><h1>Download</h1></div>
-  </div>
-  <div class="column right">
-    <div class="download-copy">
-  	 <h2>Let’s be honest, reading offline is better for so many reasons.</h2>
-      If you’d prefer downloading <em>Designing Hope</em>, printing it out, marking it up, or reading it offline, go crazy.<br/>
-      <a href="/downloads/designinghope-ebook.zip"><button>Download eBooks</button></a>
-    </div>
-</div>
-</div>
-</div>
+## Let’s be honest, reading offline is better for so many reasons.
 
+If you’d prefer downloading _Designing Hope_, printing it out, marking it up, or reading it offline, go crazy.
+
+<a class="btn" href="/downloads/designinghope-ebook.zip">Download eBook</a>

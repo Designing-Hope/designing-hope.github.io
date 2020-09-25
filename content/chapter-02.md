@@ -1,14 +1,17 @@
 ---
-layout: chapter-2
+layout: chapter
 permalink: /chapter-2
 section: 'Chapter 02.'
 title: '02. Refining Intent'
+headerimage: '/images/03.png'
+nextpage: '/chapter-3'
+nexttitle: '03. Impacting Humanity'
 ---
 
 ### Chapter 02.
 # Refining Intent
 
-<div class="divider">&nbsp;</div>
+---
 
 #### Refinement is something that all designers do organically. The practice can come so naturally that often the problem isn’t in the iteration itself but in knowing when to stop. For most of us, self-control often looks like knowing when to put down the pen. Many of us can agree that intent is burdensome, yet to think well about intent, we must first think well about  refinement. 
 

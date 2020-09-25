@@ -1,14 +1,17 @@
 ---
-layout: chapter-7
+layout: chapter
 permalink: /chapter-7
 section: 'Chapter 07.'
 title: '07. Navigating Complexity'
+headerimage: '/images/08.png'
+nextpage: '/chapter-8'
+nexttitle: '08. Building Community'
 ---
 
 ### Chapter 07.
 # Navigating Complexity
 
-<div class="divider">&nbsp;</div>
+---
 
 #### Humans long for simplicity. It’s in our DNA to desire our surroundings to be accessible and understandable. And yet often our own complexities get in the way of this noble aspiration. 
 

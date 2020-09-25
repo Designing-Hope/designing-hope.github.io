@@ -1,14 +1,17 @@
 ---
-layout: chapter-6
+layout: chapter
 permalink: /chapter-6
 section: 'Chapter 06.'
-title: '05. Honoring Engagement'
+title: '06. Honoring Engagement'
+headerimage: '/images/07.png'
+nextpage: '/chapter-7'
+nexttitle: '07. Navigating Complexity'
 ---
 
 ### Chapter 06.
 # Honoring Engagement
 
-<div class="divider">&nbsp;</div>
+---
 
 #### Our attention spans have become the backbone of an economy. Our gaze has never been more valuable. The designed world doesn’t stop simply at rewarding our attention; it demands it.
 
