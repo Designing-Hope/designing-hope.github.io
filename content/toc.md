@@ -32,6 +32,8 @@ coverimage: '/images/book-cover.svg'
 
 #### <a href="/epilogue">Epilogue</a>
 
+#### <a href="/framework">Framework</a>
+
 #### <a href="/acknowledgments">Acknowledgments</a>
 
 #### <a href="/notes">Notes</a>

@@ -98,8 +98,8 @@ body {
 
 p {
   display: block;
-  margin-block-start: 1.35em;
-  margin-block-end: 1.35em;
+  margin-block-start: 1.25em;
+  margin-block-end: 1.25em;
   margin-inline-start: 0px;
   margin-inline-end: 0px;
 }
@@ -251,6 +251,7 @@ li{
 .landing-page{
   padding-bottom: 1em;
 }
+
 .landing{
   padding: 4em 4em 0 0;
   font-size: 19px;
@@ -440,13 +441,13 @@ img.book-cover{
 a.download-link{
   color: #ff0048;
   font-family: "IBM Plex Sans", sans-serif;
-  font-size: 14px;
-  font-weight: 500;
+  font-size: 16px;
+  font-weight: 400;
   letter-spacing: -0.03em;
   line-height: 1;
   text-align: center;
   text-decoration: none;
-  padding-right: 40px;
+  border-bottom: 1px solid #ddd;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -874,6 +875,7 @@ footer a:hover{
   margin-inline-end: 0px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  margin-top: 2em;
 }
 
 .about-page button{
@@ -989,6 +991,67 @@ footer a:hover{
   background-color: #ff0048;
   color: #fff;
   text-decoration: none;
+}
+
+.download-page{
+  color: #000;
+  font-size: 19px;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  line-height: 1.5;
+  padding: 0 6em 0 2em;
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin-top: 4em;
+}
+
+.download-page h1{
+  color: #000;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 70px;
+  font-weight: 500;
+  letter-spacing: -0.05em;
+  line-height: 1;
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.download-page h2{
+  color: #000;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+  letter-spacing: -0.03em;
+  line-height: 1.25;
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.download-page h5{
+  color: #666;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: -0.03em;
+  line-height: 1;
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 .resource-icon{
