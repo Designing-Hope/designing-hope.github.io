@@ -18,3 +18,5 @@ May we always choose *hope*.
 Hopeful design teaches us that there are real people in real places existing in real time behind *everything* we create. 
 
 ## May we design with purpose.
+
+<br/><br/>

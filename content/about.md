@@ -22,4 +22,4 @@ Relentlessly optimistic about the power of design, Jeremy lives by the words “
 
 <a href="https://jeremydcherry.com" class="resource-link">jeremydcherry.com</a><br/><br/>
 
-##### Typeset in <a href="https://fonts.google.com/specimen/IBM+Plex+Sans" class="colophon">IBM Plex Sans</a> &amp; <a href="https://fonts.google.com/specimen/Cardo" class="colophon">Cardo</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp; Built on <a href="https://jekyllrb.com/" class="colophon">Jekkyl</a> &amp; <a href="https://pages.github.com/" class="colophon">GitHub</a>
+##### Typeset in <a href="https://fonts.google.com/specimen/IBM+Plex+Sans" class="colophon">IBM Plex Sans</a> &amp; <a href="https://fonts.google.com/specimen/Cardo" class="colophon">Cardo</a>
