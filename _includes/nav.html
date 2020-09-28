@@ -1,0 +1,29 @@
+<div class="row">
+  {% if page.layout == "page" %}
+  <div class="nav-column nav-left"><a href="/toc" class="home"><img src="/images/icon.svg" class="icon"></a></div>
+  {% else %}
+  <div class="nav-column nav-left"><a href="/toc" class="home"><img src="/images/logo.svg" class="logo"></a></div>
+  {% endif %}
+  <div class="nav-column nav-right">
+    <div class="about">
+      {% if page.permalink == "/about" %}
+      <span class="active">About</span>
+      {% else %}
+      <a href="/about">About</a>
+      {% endif %}
+
+       {% if page.permalink == "/download" %}
+      <span class="active-download">Download</span>
+      {% else %}
+      <a href="/download" class="nav-download">Download</a>
+      {% endif %}
+
+    </div>
+  </div>
+</div>
+
+{% if page.headerimage %}
+<div class="art">
+  <img src="{{ page.headerimage }}" class="illustration">
+</div>
+{% endif %}

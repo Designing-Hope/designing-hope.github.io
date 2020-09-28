@@ -1,6 +1,6 @@
 @import "normalize";
 @import "variables";
-@import url('https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&family=IBM+Plex+Sans:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&family=IBM+Plex+Sans:ital,wght@0,100;0,300;0,400;0,500;1,300;1,400;1,500&display=swap');
 
 // !-- Large Screens //
 
@@ -168,7 +168,12 @@ li{
   text-decoration: none;
 }
 
-.about a.nav-link{
+.about a.nav-link_framework{
+  color: #fff;
+}
+
+.about a.nav-link_framework:hover{
+  color: #ff0048;
   padding-left: 35px;
 }
 
@@ -185,7 +190,27 @@ li{
   text-decoration: none;
 
   &:hover {
-    background-color: #000;
+    background-color: #ff0048;
+    border: 1px solid #ff0048;
+    color: #fff;
+  }
+}
+
+.about a.nav-download_framework{
+  color: #fff;
+  font-family: "IBM Plex Sans", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-weight: 400;
+  border: 1px solid #fff;
+  border-radius: 50px;
+  padding: 6px 18px;
+  margin-left: 35px;
+  text-decoration: none;
+
+  &:hover {
+    background-color: #ff0048;
+    border: 1px solid #ff0048;
     color: #fff;
   }
 }
@@ -211,7 +236,7 @@ li{
 }
 
 .main-content {
-  min-height: calc(100vh - 70px - 70px); // header height: 90px, footer height: 70px
+  min-height: calc(100vh - 90px - 70px); // header height: 90px, footer height: 70px
   margin: 0 auto;
 }
 
@@ -240,7 +265,7 @@ li{
 }
 
 .main-page{
-  margin: 1em auto 6em;
+  margin: 0 auto 4em;
   max-width: 1200px;
 }
 
@@ -334,7 +359,7 @@ li{
 }
 
 .toc h2 {
-  color: #999;
+  color: #bbb;
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 36px;
   font-weight: 500;
@@ -570,8 +595,7 @@ blockquote {
     -moz-osx-font-smoothing: grayscale;
 }
 
-.btn,
-button {
+.btn{
   color: #fff;
   background-color: #ff0048;
   font-family: "IBM Plex Sans", sans-serif;
@@ -581,11 +605,28 @@ button {
   border: 0;
   border-radius: 50px;
   padding: 12px 50px;
-  margin: 20px 10px 20px 0;
   text-decoration: none;
 
   &:hover {
     background-color: #000;
+    color: #fff;
+  }
+}
+
+.btn_resource{
+  color: #fff;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 13px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  border: 1px solid #444;
+  border-radius: 50px;
+  padding: 12px 50px;
+  text-decoration: none;
+
+  &:hover {
+    background-color: #ff0048;
+    border: 1px solid #ff0048;
     color: #fff;
   }
 }
@@ -628,11 +669,10 @@ button {
 }
 
 footer{
-  background-color: #f4f4f3;
   color: #888;
   font-family: "IBM Plex Sans", sans-serif;
-  font-size: 13px;
-  padding: 2em 0;
+  font-size: 12px;
+  padding: 25px 0;
   text-align: center;
   height: 70px;
   -webkit-font-smoothing: antialiased;
@@ -649,14 +689,31 @@ footer a:hover{
   color: #fff;
 }
 
-.definition{
-  background-color: #fff;
+footer.framework_footer{
+  color: #888;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 12px;
+  padding: 25px 0;
+  text-align: center;
+  height: 70px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+footer.framework_footer a{
+  color: #fff;
+  text-decoration: none;
+}
+
+footer.framework_footer a:hover{
+  background-color: #ff0048;
+  color: #fff;
 }
 
 .definition-inner{
   max-width: 1200px;
-  padding: 1em 0 6em;
-  border-bottom: 1px solid #ccc;
+  padding: 1em 0 4em;
+  border-bottom: 1px solid #333;
   margin: 0 auto;
 }
 
@@ -665,12 +722,12 @@ footer a:hover{
 }
 
 .definition h1{
-  color: #000;
+  color: #fff;
   font-family: "IBM Plex Sans", sans-serif;
-  font-size: 180px;
+  font-size: 160px;
   font-weight: 500;
-  letter-spacing: -0.075em;
-  line-height: 0.95;
+  letter-spacing: -0.05em;
+  line-height: 0.9;
   display: block;
   padding-right: 50px;
   margin-block-start: 0px;
@@ -682,7 +739,7 @@ footer a:hover{
 }
 
 .definition h4 {
-  color: #000;
+  color: #aaa;
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 56px;
   font-weight: 300;
@@ -696,14 +753,10 @@ footer a:hover{
   -moz-osx-font-smoothing: grayscale;
 }
 
-.principles{
-  background-color: #fff;
-}
-
 .principles-inner{
   max-width: 1200px;
-  padding: 6em 0;
-  border-bottom: 1px solid #ccc;
+  padding: 4em 0;
+  border-bottom: 1px solid #333;
   margin: 0 auto;
 }
 
@@ -713,6 +766,7 @@ footer a:hover{
 }
 
 .principles h1{
+  color: #fff;
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 120px;
   font-weight: 300;
@@ -730,6 +784,7 @@ footer a:hover{
 }
 
 .principles h2 {
+  color: #fff;
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 30px;
   font-weight: 500;
@@ -748,7 +803,9 @@ footer a:hover{
 }
 
 .principles h5 {
-  font-size: 20px;
+  font-weight: 300;
+  color: #eee;
+  font-size: 19px;
 }
 
 .glyph{
@@ -772,27 +829,23 @@ footer a:hover{
   margin-bottom: 15px;
 }
 
-.practices{
-  background-color: #fff;
-}
-
 .practices-inner{
   max-width: 1200px;
-  padding: 6em 0 6em;
-  border-bottom: 1px solid #ddd;
+  padding: 4em 0 4em;
+  border-bottom: 1px solid #333;
   margin: 0 auto;
 }
 
 .practices h1{
-  color: #ddd;
+  color: #555;
   font-family: "IBM Plex Sans", sans-serif;
-  font-size: 120px;
-  font-weight: 300;
+  font-size: 110px;
+  font-weight: 100;
   letter-spacing: -0.03em;
   line-height: .75;
   display: block;
   text-align: right;
-  padding-right: 50px;
+  padding-right: 80px;
   margin-block-start: 0px;
   margin-block-end: 0px;
   margin-inline-start: 0px;
@@ -802,6 +855,7 @@ footer a:hover{
 }
 
 .practices h2 {
+  color: #fff;
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 30px;
   font-weight: 500;
@@ -820,12 +874,13 @@ footer a:hover{
 }
 
 .practices h5 {
-  font-size: 18px;
+  font-weight: 300;
+  color: #eee;
+  font-size: 19px;
 }
 
 .resources{
   text-align: center;
-  background-color: #fff;
 }
 
 .resources-inner{
@@ -835,6 +890,7 @@ footer a:hover{
 }
 
 .resources h2 {
+  color: #fff;
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 22px;
   font-weight: 500;
@@ -854,12 +910,8 @@ footer a:hover{
 }
 
 .resources h5 {
+  color: #ddd;
   font-size: 14px;
-}
-
-.resources button{
-  padding: 10px 40px;
-  font-size: 13px;
 }
 
 .about-page{
@@ -876,15 +928,6 @@ footer a:hover{
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   margin-top: 2em;
-}
-
-.about-page button{
-  font-weight: 400;
-}
-
-.about-page button:hover{
-  background-color: #000;
-  color: #fff;
 }
 
 .about-page a.resource-link{

@@ -70,7 +70,7 @@ title: 'Framework'
 	<h3>Practices</h3>
   </div>
   <div class="column-third col-third-2">
-	<img src="/images/1.svg" class="glyph-number">
+	<h1>01.</h1>
   </div>
   <div class="column-third col-third-3">
   <div class="practices-copy">
@@ -83,7 +83,7 @@ title: 'Framework'
 <!-- 02. -->
 <div class="row">
   <div class="column-half col-half-1">
-	<img src="/images/2.svg" class="glyph-number">
+	<h1>02.</h1>
   </div>
   <div class="column-half col-half-2">
   <div class="practices-copy">	
@@ -96,7 +96,7 @@ title: 'Framework'
 <!-- 03. -->
 <div class="row">
   <div class="column-half col-half-1">
-	<img src="/images/3.svg" class="glyph-number">
+	<h1>03.</h1>
   </div>
   <div class="column-half col-half-2">
   <div class="practices-copy">	
@@ -109,7 +109,7 @@ title: 'Framework'
 <!-- 04. -->
 <div class="row">
   <div class="column-half col-half-1">
-	<img src="/images/4.svg" class="glyph-number">
+	<h1>04.</h1>
   </div>
   <div class="column-half col-half-2">
   <div class="practices-copy">	
@@ -122,7 +122,7 @@ title: 'Framework'
 <!-- 05. -->
 <div class="row">
   <div class="column-half col-half-1">
-	<img src="/images/5.svg" class="glyph-number">
+	<h1>05.</h1>
   </div>
   <div class="column-half col-half-2">
   <div class="practices-copy">
@@ -135,7 +135,7 @@ title: 'Framework'
 <!-- 06. -->
 <div class="row">
   <div class="column-half col-half-1">
-	<img src="/images/6.svg" class="glyph-number">
+	<h1>06.</h1>
   </div>
   <div class="column-half col-half-2">
   <div class="practices-copy">	
@@ -148,7 +148,7 @@ title: 'Framework'
 <!-- 07. -->
 <div class="row">
   <div class="column-half col-half-1">
-	<img src="/images/7.svg" class="glyph-number">
+	<h1>07.</h1>
   </div>
   <div class="column-half col-half-2">
   <div class="practices-copy">	
@@ -161,7 +161,7 @@ title: 'Framework'
 <!-- 08. -->
 <div class="row">
   <div class="column-half col-half-1">
-	<img src="/images/8.svg" class="glyph-number">
+	<h1>08.</h1>
   </div>
   <div class="column-half col-half-2">
   <div class="practices-copy">	
@@ -182,24 +182,24 @@ title: 'Framework'
       <div class="resources-copy">
         <img src="/images/book-2.svg" class="resource-glyph"><br/>
         <h2>Read the book.</h2>
-        <h5><em>Designing Hope</em> explores creating compassionate work for humans. It’s equal parts manifesto and practical guide. It strives to rise above technical theory, seeking out practical compassion.</h5>
-        <a href="/toc"><button>Start Reading</button></a><br/><br/>
+        <h5><em>Designing Hope</em> explores creating compassionate work for humans. It’s equal parts manifesto and practical guide. It strives to rise above technical theory, seeking out practical compassion.</h5><br/>
+        <a href="/toc" class="btn_resource">Start Reading</a><br/><br/>
      </div>
     </div>
     <div class="resource-column-third resource-col-third-2">
       <div class="resources-copy">
       <img src="/images/pdf.svg" class="resource-glyph"><br/>
       <h2>Print the 1-pager.</h2>
-      <h5>Frameworks take time to inform and mold our work. If you’re anything like me it helps to read and re-read the priciples and practices. Download a one-pager that helps you do just that.</h5>
-      <a href="/downloads/hopefuldesign.pdf"><button>Download PDF</button></a><br/><br/>
+      <h5>Frameworks take time to inform and mold our work. If you’re anything like me it helps to read and re-read the priciples and practices. Download a one-pager that helps you do just that.</h5><br/>
+      <a href="/downloads/hopefuldesign.pdf" class="btn_resource">Download PDF</a><br/><br/>
     </div> 
     </div>
     <div class="resource-column-third resource-col-third-3">
       <div class="resources-copy">
       <img src="/images/posters.svg" class="resource-glyph"><br/>
       <h2>Hang up the posters.</h2>
-      <h5>Habits take time to form in our work. If you’re anything like me it helps to read and re-read the priciples and practices. Download  printable 8.5x11 posters that help you do just that.</h5>
-      <a href="/downloads/hopefuldesign-posters.zip"><button>Download Posters</button></a><br/><br/>
+      <h5>Habits take time to form in our work. If you’re anything like me it helps to read and re-read the priciples and practices. Download  printable 8.5x11 posters that help you do just that.</h5><br/>
+      <a href="/downloads/hopefuldesign-posters.zip" class="btn_resource">Download Posters</a><br/><br/>
     </div> 
     </div>
   </div>
