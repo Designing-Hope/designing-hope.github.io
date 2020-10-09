@@ -7,8 +7,6 @@ title: 'Notes'
 
 ### Notes
 
----
-
 ## Introduction
 
 - *"...as Michelangelo put it, what’s already living within the marble."* is based on 2 quotes from <a href="https://en.wikipedia.org/wiki/Michelangelo" class="note-highlight">Michelangelo Buonarroti</a>:
@@ -17,15 +15,11 @@ title: 'Notes'
 
 	- *“I saw the angel in the marble and carved until I set him free.”*
 
----
-
 ## 01. Designing Hope
 
 - If you're looking for more resources on Generalized Anxiety Disorder (GAD) visit <a href="https://www.adaa.org" class="note-highlight">Anxiety and Depression Association of America</a>.
 
 - Both definitions of "Hope" are sourced from Webster's Dictionary 1828.
-
----
 
 ## 03. Impacting Humanity
 
@@ -35,13 +29,9 @@ title: 'Notes'
 
 - *"I recall John Proctor’s famous line from Arthur Miller’s The Crucible..."* <a href="https://www.youtube.com/watch?v=K19FtgBlz2A" class="note-highlight">watch</a> Daniel Day Lewis as John Proctor deliver this line in a way only he can in Nicholas Hytner's 1996 <a href="https://www.imdb.com/title/tt0115988/" class="note-highlight">film adapation</a> of Arthur Miller's <a href="https://en.wikipedia.org/wiki/The_Crucible" class="note-highlight">*The Crucible*</a>.
 
----
-
 ## 04. Tooling Curiosity
 
 - *"I can hear Dieter Rams in the back of my mind repeating..."* <a href="https://en.wikipedia.org/wiki/Dieter_Rams" class="note-highlight">learn more</a>.
-
----
 
 ## 08. Building Community
 
