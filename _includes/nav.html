@@ -5,21 +5,40 @@
   <div class="nav-column nav-left"><a href="/toc" class="home"><img src="/images/logo.svg" class="logo"></a></div>
   {% endif %}
   <div class="nav-column nav-right">
-    <div class="about">
 
+    {% if page.permalink == "/toc" %}
+
+    <div class="about">
+      <a href="/" class="nav-link">Overview</a>
       {% if page.permalink == "/framework" %}
       <span class="active">Framework</span>
       {% else %}
-      <a href="/framework" class="nav">Framework</a>
+      <a href="/framework" class="nav-link">Framework</a>
       {% endif %}
-
        {% if page.permalink == "/download" %}
       <span class="active-download">Download</span>
       {% else %}
       <a href="/download" class="nav-download">Download</a>
       {% endif %}
-
     </div>
+
+    {% else %}
+
+    <div class="about">
+      {% if page.permalink == "/framework" %}
+      <span class="active">Framework</span>
+      {% else %}
+      <a href="/framework" class="nav-link">Framework</a>
+      {% endif %}
+       {% if page.permalink == "/download" %}
+      <span class="active-download">Download</span>
+      {% else %}
+      <a href="/download" class="nav-download">Download</a>
+      {% endif %}
+    </div>
+    
+    {% endif %}
+
   </div>
 </div>
 
