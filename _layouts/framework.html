@@ -5,25 +5,7 @@
   </head>
   <body style="background-color: #121112;">
     <header class="page-header" role="banner">
-      <div class="row">
-        <div class="nav-column nav-left"><a href="/toc" class="home"><img src="/images/icon_white.svg" class="icon"></a></div>
-        <div class="nav-column nav-right">
-          <div class="about">
-            {% if page.permalink == "/framework" %}
-            <span class="active">Framework</span>
-            {% else %}
-            <a href="/about" class="nav-link_framework">Framework</a>
-            {% endif %}
-
-             {% if page.permalink == "/download" %}
-            <span class="active-download">Download</span>
-            {% else %}
-            <a href="/download" class="nav-download_framework">Download</a>
-            {% endif %}
-
-          </div>
-        </div>
-      </div>
+      {% include nav.html %}
     </header>
 
     <main id="content" class="main-content" role="main">

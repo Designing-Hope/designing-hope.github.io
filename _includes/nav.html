@@ -1,42 +1,33 @@
 <div class="row">
-  {% if page.layout == "page" %}
-  <div class="nav-column nav-left"><a href="/toc" class="home"><img src="/images/icon.svg" class="icon"></a></div>
-  {% else %}
-  <div class="nav-column nav-left"><a href="/toc" class="home"><img src="/images/logo.svg" class="logo"></a></div>
-  {% endif %}
-  <div class="nav-column nav-right">
-
     {% if page.permalink == "/toc" %}
 
-    <div class="about">
-      <a href="/" class="nav-link">Overview</a>
-      {% if page.permalink == "/framework" %} 
-      <span class="active">Framework</span>
-      {% else %}
-      <a href="/framework" class="nav-link">Framework</a>
-      {% endif %}
+    <div class="toc-nav">
+      <a href="/" class="nav-link">&lsaquo; Overview</a>
        {% if page.permalink == "/download" %}
       <span class="active-download">Download</span>
       {% else %}
       <a href="/download" class="nav-download">Download</a>
       {% endif %}
     </div>
+
+    {% elsif page.permalink == "/download" %}
+    <div class="toc-nav">
+      <a href="/toc" class="nav-link">&lsaquo; Table of Contents</a>
+       {% if page.permalink == "/download" %}
+      <span class="active-download">Download</span>
+      {% else %}
+      <a href="/download" class="nav-download">Download</a>
+      {% endif %}
+    </div>
+
+    {% elsif page.permalink == "/framework" %}
+
+    <div class="framework-nav"><a href="/toc"><img src="/images/title_white.svg" class="book-title"></a></div>
 
     {% else %}
 
-    <div class="about">
-      {% if page.permalink == "/framework" %}
-      <span class="active">Framework</span>
-      {% else %}
-      <a href="/framework" class="nav-link">Framework</a>
-      {% endif %}
-       {% if page.permalink == "/download" %}
-      <span class="active-download">Download</span>
-      {% else %}
-      <a href="/download" class="nav-download">Download</a>
-      {% endif %}
-    </div>
-    
+    <div class="chapter-nav"><a href="/toc"><img src="/images/title.svg" class="book-title"></a></div>
+  
     {% endif %}
 
   </div>

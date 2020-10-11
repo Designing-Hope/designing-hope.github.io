@@ -8,8 +8,7 @@ title: 'Framework'
 <div class="definition">
 <div class="definition-inner">
 <div class="definition-copy">	
-	<h1>Hopeful<br/> Design</h1>
-	<h4>A design framework that creates hope by practicing in an ecosystem, honoring that community with its solutions, and sharing in the responsibility of its outcomes.</h4>
+	<h1><span class="first-phrase">Hopeful Design</span> is a design framework that creates hope by practicing in an ecosystem, honoring that community with its solutions, and sharing in the responsibility of its outcomes.</h1>
 </div>
 </div>
 </div>
@@ -170,38 +169,5 @@ title: 'Framework'
   </div>	
   </div>
 </div>
-</div>
-</div>
-
-<!-- Resources -->
-
-<div class="resources">
-<div class="resources-inner">
-  <div class="row">
-    <div class="resource-column-third resource-col-third-1">
-      <div class="resources-copy">
-        <img src="/images/book-2.svg" class="resource-glyph"><br/>
-        <h2>Read the book.</h2>
-        <h5><em>Designing Hope</em> explores creating compassionate work for humans. It’s equal parts manifesto and practical guide. It strives to rise above technical theory, seeking out practical compassion.</h5><br/>
-        <a href="/toc" class="btn_resource">Start Reading</a><br/><br/>
-     </div>
-    </div>
-    <div class="resource-column-third resource-col-third-2">
-      <div class="resources-copy">
-      <img src="/images/pdf.svg" class="resource-glyph"><br/>
-      <h2>Print the 1-pager.</h2>
-      <h5>Frameworks take time to inform and mold our work. If you’re anything like me it helps to read and re-read the priciples and practices. Download a one-pager that helps you do just that.</h5><br/>
-      <a href="/downloads/hopefuldesign.pdf" class="btn_resource">Download PDF</a><br/><br/>
-    </div> 
-    </div>
-    <div class="resource-column-third resource-col-third-3">
-      <div class="resources-copy">
-      <img src="/images/posters.svg" class="resource-glyph"><br/>
-      <h2>Hang up the posters.</h2>
-      <h5>Habits take time to form in our work. If you’re anything like me it helps to read and re-read the priciples and practices. Download  printable 8.5x11 posters that help you do just that.</h5><br/>
-      <a href="/downloads/hopefuldesign-posters.zip" class="btn_resource">Download Posters</a><br/><br/>
-    </div> 
-    </div>
-  </div>
 </div>
 </div>

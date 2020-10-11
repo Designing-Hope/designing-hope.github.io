@@ -2,7 +2,7 @@
 layout: page
 permalink: /toc
 title: Table of Contents
-pageclass: 'landing-page'
+pageclass: 'toc-page'
 coverimage: '/images/book-cover.svg'
 ---
 
@@ -31,6 +31,8 @@ coverimage: '/images/book-cover.svg'
 ## 08. <a href="/chapter-8">Building Community</a>
 
 #### <a href="/epilogue">Epilogue</a>
+
+#### <a href="/framework">Framework</a>
 
 #### <a href="/author">About the Author</a>
 
