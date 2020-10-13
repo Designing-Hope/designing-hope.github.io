@@ -9,18 +9,18 @@ title: 'Acknowledgments'
 
 ## An ardent thank you to...
 
-- **You** for reading this book.
+- _You_ for reading this book.
 
-- **Hannah Jordan** and **Abby Farson Pratt** for clarifying this book.
+- _Hannah Jordan_ and _Abby Farson Prat_ for clarifying this book.
 
-- **Z. Bryant** for his faithfulness to this project.
+- _Z. Bryant_ for his faithfulness to this project.
 
-- **Greg Breeding** for blazing this trail before me.
+- _Greg Breeding_ for blazing this trail before me.
 
-- **Josh Bryant** for making this book accessible online.
+- _Josh Bryant_ for making this book accessible online.
 
-- **Journey Group** for championing this book.
+- _Journey Group_ for championing this book.
 
-- **My beautiful family** for supporting this lifelong venture.
+- _My beautiful family_ for supporting this lifelong venture.
 
-- **Jesus** for being the singular source of hope.
+- _Jesus_ for being the singular source of hope.

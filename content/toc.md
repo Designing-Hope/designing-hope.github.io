@@ -8,6 +8,8 @@ coverimage: '/images/book-cover.svg'
 
 <div class="toc" markdown="1">
 
+### Table of Contents
+
 #### <a href="/foreword">Foreword</a> by Z. Bryant
 
 #### <a href="/preface">Preface</a>

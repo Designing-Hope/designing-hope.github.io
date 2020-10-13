@@ -8,10 +8,12 @@ nexttitle: 'Preface'
 ---
 
 # Foreword
+---
 
 #### “Where there is no hope, it is incumbent on us to invent it.”
 ### ― Albert Camus
----
+
+<br/>
 
 <span class="firstcharacter">H</span>opelessness has become quite fashionable, I’m afraid. People who act as if they are excited about the way things are going are not merely uncool. It’s worse than that: they’re naive. As the slogan goes, *if you aren’t angry, you aren’t paying attention*. A generally hopeful disposition, then, becomes a sign of willful ignorance—or, at the very least, of having the wrong priorities. And so we resign our own hopes to a box in the attic with other juvenilia—the stuff of childhood.
 
