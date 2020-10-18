@@ -8,13 +8,13 @@ nextpage: '/introduction'
 nexttitle: 'Introduction'
 ---
 
-# Preface
+### Preface
 
 ---
 
-<span class="firstcharacter">M</span>odernity offered me a choice: become a salty, old designer or offer a solution. I could contribute to the noise or search for clarity amongst the chaos.
+#### Modernity offered me a choice: become a salty, old designer or offer a solution. I could contribute to the noise or search for clarity amongst the chaos.
 
-As someone who’s spent my entire career in digital design, I’ve grown discontent with the direction of the trends. A high emphasis is placed on efficiency, engagement, aesthetics, and profitability, leaving no room for responsibility. The machine stops for no one. We’ve replaced accountability with a funhouse mirror distorting reality enough to lead users to believe they are to blame for their own plight. Addiction, isolation, and depression have all been exacerbated by the products that promise connection and community. This reinforces the lie that something must be wrong with *us*, not the design.
+<span class="firstcharacter">A</span>s someone who’s spent my entire career in digital design, I’ve grown discontent with the direction of the trends. A high emphasis is placed on efficiency, engagement, aesthetics, and profitability, leaving no room for responsibility. The machine stops for no one. We’ve replaced accountability with a funhouse mirror distorting reality enough to lead users to believe they are to blame for their own plight. Addiction, isolation, and depression have all been exacerbated by the products that promise connection and community. This reinforces the lie that something must be wrong with *us*, not the design.
 
 In this bleak future, humans are merely pawns in the capitalist churn of technology. Our attention has become currency, and in this economy competition is inhumane. However, the problem of irresponsible design is so much bigger than the sum of its parts. Data, privacy, and sustainability are critical topics to discuss but the larger, looming issue is much more human. It lies within an outgrowth of industrial apathy.
 

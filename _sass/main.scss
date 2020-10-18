@@ -362,6 +362,23 @@ img.book-title{
   -moz-osx-font-smoothing: grayscale;
 }
 
+.author h3{
+  font-family: "IBM Plex Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  line-height: 1;
+  display: block;
+  margin-block-start: .5em;
+  margin-block-end: 2em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
 .author h4 {
   color: #000;
   font-family: "IBM Plex Sans", sans-serif;
@@ -901,6 +918,14 @@ footer.framework_footer a:hover{
   -moz-osx-font-smoothing: grayscale;
 }
 
+.definition h3 {
+  color: #999;
+  margin-block-start: 0px;
+  margin-block-end: 3em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
 .definition .first-phrase{
   font-weight: 500;
   color: #fff;
@@ -1330,7 +1355,7 @@ footer.framework_footer a:hover{
   .error h5{font-size:16px;}
   .main-framework{max-width: 100%; margin-top: 30px; padding:0;}
   .main-page{margin: 1em auto; max-width: 85%;}
-  .navbar{margin: 0 25px; padding: 30px 0 0}
+  .navbar{margin: 0 25px; padding: 20px 0 0}
   .toc-nav a.nav-link{padding-left: 0;}
   .chapter-nav{padding: 1em 1.25em .5em;}
   .framework-nav{padding: 1em 1.25em .5em;}
@@ -1339,7 +1364,7 @@ footer.framework_footer a:hover{
   .about a{padding-left: 30px;}
   .about .active{padding-left: 30px;}
   .logo{margin-left: 25px;}
-  .landing-page{margin: 2em 0 0; padding-bottom: 1em;}
+  .landing-page{margin: 0; padding-bottom: 1em;}
   .landing{padding: 0; font-size:18px;}
   .landing h1{font-size: 40px; letter-spacing: -0.05em}
   .toc h2{font-size:27px;}
@@ -1351,7 +1376,7 @@ footer.framework_footer a:hover{
   footer{font-size: 12px;}
   .credit{text-align: center; margin: 0 0 10px 0;}
   .license{text-align: center; margin: 0;}
-  img.illustration{width:100%; margin-top: 1em;}
+  img.illustration{width:100%; margin: 1em auto 2em; padding: 0 0 3em;}
   img.book-image{width:100%; margin-bottom: 0.5em}
   h1{font-size:60px; letter-spacing: -0.05em;}
   h2{font-size: 25px;}
@@ -1359,7 +1384,7 @@ footer.framework_footer a:hover{
   h4{font-size: 25px;}
   h5{font-size: 20px;}
   blockquote{font-size: 19px; border-left: #eee 5px solid; padding: 0 0 0 20px; margin-inline-start: 0px; margin-inline-end: 0px;}
-  .next a{font-size: 36px;}
+  .next a{font-size: 36px; padding: 2em 1em;}
   .author{font-size: 18px; padding: 0; margin-bottom: 4em;}
   .about-content{padding: 0;}
   .about-page h1{font-size: 48px; margin-bottom: 0.5em;}

@@ -7,6 +7,8 @@ coverimage: '/images/jeremy-headshot.png'
 ---
 
 <div class="author" markdown="1">
+	
+### About the Author
 
 # Jeremy D. Cherry
 

@@ -1,57 +1,64 @@
-<div class="row">
-    {% if page.layout == "default" %}
-    <div class="navbar">
-      <div class="nav-column left">
-        <a href="/"><img src="/images/icon_designinghope.svg" class="icon"></a>
-      </div> 
-    </div> 
-
-    {% elsif page.permalink == "/toc" %}
-
-    <div class="navbar">
-      <div class="nav-column left">
-        <a href="/"><img src="/images/icon_designinghope.svg" class="icon"></a>
-      </div>
-      <div class="nav-column right">
-        <div class="toc-nav">
-          by <a href="https://www.jeremydcherry.com">Jeremy D. Cherry</a>
-        </div>
-      </div>  
-    </div> 
-
-    {% elsif page.permalink == "/framework" %}
-
-    <div class="navbar">
-      <div class="nav-column left">
-        <a href="/toc"><img src="/images/icon_designinghope_rev.svg" class="icon"></a>
-      </div>
-      <div class="nav-column right">
-        <div class="framework-nav">
-          by <a href="https://www.jeremydcherry.com">Jeremy D. Cherry</a>
-        </div>
-      </div>  
-    </div>
-
-    {% else %}
-
-    <div class="navbar">
-      <div class="nav-column left">
-        <a href="/toc"><img src="/images/title.svg" class="book-title"></a>
-      </div>
-      <div class="nav-column right">
-        <div class="toc-nav">
-          by <a href="https://www.jeremydcherry.com">Jeremy D. Cherry</a>
-        </div>
-      </div>  
-    </div>
-  
-    {% endif %}
-
-  </div>
-</div>
-
 {% if page.headerimage %}
-<div class="art">
-  <img src="{{ page.headerimage }}" class="illustration">
-</div>
+<header class="chapter-header" role="banner">
+{% else %}
+<header class="page-header" role="banner">
 {% endif %}
+  <div class="row">
+      {% if page.layout == "default" %}
+      <div class="navbar">
+        <div class="nav-column left">
+          <a href="/"><img src="/images/icon_designinghope.svg" class="icon"></a>
+        </div> 
+      </div> 
+
+      {% elsif page.permalink == "/toc" %}
+
+      <div class="navbar">
+        <div class="nav-column left">
+          <a href="/"><img src="/images/icon_designinghope.svg" class="icon"></a>
+        </div>
+        <div class="nav-column right">
+          <div class="toc-nav">
+            by <a href="https://www.jeremydcherry.com">Jeremy D. Cherry</a>
+          </div>
+        </div>  
+      </div> 
+
+      {% elsif page.permalink == "/framework" %}
+
+      <div class="navbar">
+        <div class="nav-column left">
+          <a href="/toc"><img src="/images/icon_designinghope_rev.svg" class="icon"></a>
+        </div>
+        <div class="nav-column right">
+          <div class="framework-nav">
+            by <a href="https://www.jeremydcherry.com">Jeremy D. Cherry</a>
+          </div>
+        </div>  
+      </div>
+
+      {% else %}
+
+      <div class="navbar">
+        <div class="nav-column left">
+          <a href="/toc"><img src="/images/title.svg" class="book-title"></a>
+        </div>
+        <div class="nav-column right">
+          <div class="toc-nav">
+            by <a href="https://www.jeremydcherry.com">Jeremy D. Cherry</a>
+          </div>
+        </div>  
+      </div>
+    
+      {% endif %}
+
+    </div>
+  </div>
+
+  {% if page.headerimage %}
+  <div class="art">
+    <img src="{{ page.headerimage }}" class="illustration">
+  </div>
+  {% endif %}
+
+</header>

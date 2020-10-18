@@ -14,6 +14,6 @@ coverimage: '/images/book-cover.svg'
 
 <a class="btn" href="/toc">Start Reading</a>
 
-###### <a href="/download" class="download-link">Download</a> the eBook to read offline
+###### * <a href="/download" class="download-link">Download</a> the eBook to read offline
 
 </div>

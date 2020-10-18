@@ -7,11 +7,12 @@ nextpage: '/preface'
 nexttitle: 'Preface'
 ---
 
-# Foreword
+### Foreword
+
 ---
 
 #### “Where there is no hope, it is incumbent on us to invent it.”
-### ― Albert Camus
+##### **― Albert Camus**
 
 <br/>
 

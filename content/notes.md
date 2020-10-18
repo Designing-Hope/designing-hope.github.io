@@ -7,6 +7,8 @@ title: 'Notes'
 
 ### Notes
 
+---
+
 ## Introduction
 
 - *"...as Michelangelo put it, what’s already living within the marble."* is based on 2 quotes from <a href="https://en.wikipedia.org/wiki/Michelangelo" class="note-highlight">Michelangelo Buonarroti</a>:

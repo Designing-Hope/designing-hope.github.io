@@ -7,11 +7,13 @@ title: 'Acknowledgments'
 
 ### Acknowledgments
 
+---
+
 ## An ardent thank you to...
 
 - _You_ for reading this book.
 
-- _Hannah Jordan_ and _Abby Farson Prat_ for clarifying this book.
+- _Hannah Jordan_ and _Abby Farson Pratt_ for clarifying this book.
 
 - _Z. Bryant_ for his faithfulness to this project.
 
