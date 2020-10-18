@@ -124,14 +124,27 @@ hr {
   margin: 2em 0;
 }
 
+.toc hr {
+  width: 50px;
+  border-width: 1px;
+  border-color: #ddd;
+  border-style: solid;
+  margin: 2em 0;
+}
+
+
 li{
   font-family: "Cardo", serif;
   font-weight: 400;
   font-size: 19px;
 }
 
+.navbar{
+  margin: 0 50px;
+  padding: 30px 0 60px;
+}
+
 .icon{
-  margin-left: 50px;
   width: 36px;
 }
 
@@ -153,13 +166,13 @@ li{
 }
 
 .toc-nav{
-  margin: 3em 4em;
-  text-align: right;
-  color: #000;
+  padding-top: 10px;
+  color: #999;
   font-family: "IBM Plex Sans", sans-serif;
-  font-size: 13px;
-  font-weight: 500;
+  font-size: 14px;
+  font-weight: 400;
   line-height: 1;
+  text-align: right;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -175,109 +188,31 @@ li{
   text-decoration: none;
 }
 
-.toc-nav a.nav-link{
-  color: #000;
-  padding-left: 35px;
-}
-
-.toc-nav a.nav-link:hover{
-  color: #ff0048;
-}
-
-.toc-nav a.nav-download{
-  color: #000;
-  font-family: "IBM Plex Sans", sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  font-weight: 400;
-  border: 1px solid #000;
-  border-radius: 50px;
-  padding: 6px 18px;
-  margin-left: 35px;
-  text-decoration: none;
-
-  &:hover {
-    background-color: #ff0048;
-    border: 1px solid #ff0048;
-    color: #fff;
-  }
-}
-
-.toc-nav a.nav-download_framework{
-  color: #fff;
-  font-family: "IBM Plex Sans", sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  font-weight: 400;
-  border: 1px solid #fff;
-  border-radius: 50px;
-  padding: 6px 18px;
-  margin-left: 35px;
-  text-decoration: none;
-
-  &:hover {
-    background-color: #ff0048;
-    border: 1px solid #ff0048;
-    color: #fff;
-  }
-}
-
-.toc-nav .active{
-  color: #999;
-  font-weight: 400;
-  text-decoration: none;
-  padding-left: 35px;
-}
-
-.toc-nav .active-download{
-  color: #999;
-  background-color: #ddd;
-  font-family: "IBM Plex Sans", sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  border: 1px solid #ddd;
-  border-radius: 50px;
-  padding: 6px 18px;
-  margin-left: 35px;
-  text-decoration: none;
-}
-
-.chapter-nav{
-  margin: 0;
-  padding: 1em 3em .5em;
-  background-color: #f4f4f3;
-  text-align: left;
-}
-
-.chapter-nav img.book-title{
+img.book-title{
   width: 90px;
-}
-
-.chapter-nav a{
-  opacity: 1;
-}
-
-.chapter-nav a:hover{
-  opacity: .5;
 }
 
 .framework-nav{
-  margin: 0;
-  padding: 1em 3em .5em;
-  background-color: #121112;
-  text-align: left;
-}
-
-.framework-nav img.book-title{
-  width: 90px;
+  padding-top: 10px;
+  color: #999;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1;
+  text-align: right;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 .framework-nav a{
-  opacity: 1;
+  color: #fff;
+  font-weight: 400;
+  text-decoration: none;
 }
 
 .framework-nav a:hover{
-  opacity: .5;
+  color: #ff0048;
+  text-decoration: none;
 }
 
 .main-content {
@@ -323,7 +258,7 @@ li{
 }
 
 .landing-page{
-  margin: 4.15em 0 0;
+  margin: 0;
   padding-bottom: 1em;
 }
 
@@ -380,12 +315,17 @@ li{
 }
 
 .landing a.download-link{
-  font-size: 14px;
-  color: #ff0048;
+  color: #000;
+  border-bottom: 1px #ddd solid;
   text-decoration: none;
-  border-bottom: none;
   font-weight: 500;
 }
+
+.landing a.download-link:hover{
+  background-color: #ff0048;
+  color: #fff;
+}
+
 
 .author{
   padding: 0 4em 0 0;
@@ -467,32 +407,17 @@ li{
   text-decoration: none;
 }
 
-.downloads a.resource-link{
-  color: #000;
-  font-family: "IBM Plex Sans", sans-serif;
-  font-size: 14px;
-  font-weight: 500;
-  letter-spacing: -0.03em;
-  line-height: 1;
-  text-align: center;
-  text-decoration: none;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-.downloads a.resource-link:hover{
-  color: #ff0048;
-  text-decoration: none;
-}
-
 .landing a.author-link{
   font-weight: 500;
+  border-bottom: 1px #ddd solid;
   color: #000;
   text-decoration: none;
 }
 
 .landing a.author-link:hover{
-  color: #ff0048;
+  background-color: #ff0048;
+  color: #fff;
+  border-bottom: none;
   text-decoration: none;
 }
 
@@ -559,14 +484,37 @@ li{
   -moz-osx-font-smoothing: grayscale;
 }
 
+.toc h6 {
+  color: #666;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: -0.03em;
+  line-height: 1.5;
+  text-align: left;
+  margin-block-start: 0px;
+  margin-block-end: 0.5em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-top: 8px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.toc a.download-link{
+  font-weight: 500;
+}
+
 .toc a{
   color: #000;
+  border-bottom: 1px #ddd solid;
   text-decoration: none;
 }
 
 .toc a:hover{
   background-color: #ff0048;
   color: #fff;
+  border-bottom: none;
   text-decoration: none;
 }
 
@@ -680,25 +628,6 @@ img.book-cover{
 
 .download-left{
   padding-right: 30px;
-}
-
-a.download-link{
-  color: #ff0048;
-  font-family: "IBM Plex Sans", sans-serif;
-  font-size: 16px;
-  font-weight: 400;
-  letter-spacing: -0.03em;
-  line-height: 1;
-  text-align: center;
-  text-decoration: none;
-  border-bottom: 1px solid #ddd;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-a.download-link:hover{
-  color: #000;
-  text-decoration: none;
 }
 
 img.illustration{
@@ -1401,7 +1330,7 @@ footer.framework_footer a:hover{
   .error h5{font-size:16px;}
   .main-framework{max-width: 100%; margin-top: 30px; padding:0;}
   .main-page{margin: 1em auto; max-width: 85%;}
-  .toc-nav{margin: 3em 0 2.5em; text-align: center;}
+  .navbar{margin: 0 25px; padding: 30px 0 0}
   .toc-nav a.nav-link{padding-left: 0;}
   .chapter-nav{padding: 1em 1.25em .5em;}
   .framework-nav{padding: 1em 1.25em .5em;}
@@ -1409,7 +1338,6 @@ footer.framework_footer a:hover{
   .about{margin-right: 25px;}
   .about a{padding-left: 30px;}
   .about .active{padding-left: 30px;}
-  .icon{margin-left: 25px;}
   .logo{margin-left: 25px;}
   .landing-page{margin: 2em 0 0; padding-bottom: 1em;}
   .landing{padding: 0; font-size:18px;}

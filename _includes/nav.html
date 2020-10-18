@@ -1,22 +1,49 @@
 <div class="row">
-    {% if page.permalink == "/toc" %}
+    {% if page.layout == "default" %}
+    <div class="navbar">
+      <div class="nav-column left">
+        <a href="/"><img src="/images/icon_designinghope.svg" class="icon"></a>
+      </div> 
+    </div> 
 
-    <div class="toc-nav">
-      <a href="/" class="nav-link">&lsaquo; Overview</a>
-       {% if page.permalink == "/download" %}
-      <span class="active-download">Download</span>
-      {% else %}
-      <a href="/download" class="nav-download">Download</a>
-      {% endif %}
-    </div>
+    {% elsif page.permalink == "/toc" %}
+
+    <div class="navbar">
+      <div class="nav-column left">
+        <a href="/"><img src="/images/icon_designinghope.svg" class="icon"></a>
+      </div>
+      <div class="nav-column right">
+        <div class="toc-nav">
+          by <a href="https://www.jeremydcherry.com">Jeremy D. Cherry</a>
+        </div>
+      </div>  
+    </div> 
 
     {% elsif page.permalink == "/framework" %}
 
-    <div class="framework-nav"><a href="/toc"><img src="/images/title_white.svg" class="book-title"></a></div>
+    <div class="navbar">
+      <div class="nav-column left">
+        <a href="/toc"><img src="/images/icon_designinghope_rev.svg" class="icon"></a>
+      </div>
+      <div class="nav-column right">
+        <div class="framework-nav">
+          by <a href="https://www.jeremydcherry.com">Jeremy D. Cherry</a>
+        </div>
+      </div>  
+    </div>
 
     {% else %}
 
-    <div class="chapter-nav"><a href="/toc"><img src="/images/title.svg" class="book-title"></a></div>
+    <div class="navbar">
+      <div class="nav-column left">
+        <a href="/toc"><img src="/images/title.svg" class="book-title"></a>
+      </div>
+      <div class="nav-column right">
+        <div class="toc-nav">
+          by <a href="https://www.jeremydcherry.com">Jeremy D. Cherry</a>
+        </div>
+      </div>  
+    </div>
   
     {% endif %}
 
