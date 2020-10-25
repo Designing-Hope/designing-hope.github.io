@@ -13,7 +13,9 @@ title: 'Acknowledgments'
 
 - _You_ for reading this book.
 
-- _Hannah Jordan_ and _Abby Farson Pratt_ for clarifying this book.
+- _Hannah Jordan_ for clarifying this book.
+
+- _Abby Farson Pratt_ for refining this book.
 
 - _Z. Bryant_ for his faithfulness to this project.
 
