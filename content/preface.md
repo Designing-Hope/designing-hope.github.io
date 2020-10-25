@@ -10,8 +10,6 @@ nexttitle: 'Introduction'
 
 ### Preface
 
----
-
 #### Modernity offered me a choice: become a salty, old designer or offer a solution. I could contribute to the noise or search for clarity amongst the chaos.
 
 <span class="firstcharacter">A</span>s someone who’s spent my entire career in digital design, I’ve grown discontent with the direction of the trends. A high emphasis is placed on efficiency, engagement, aesthetics, and profitability, leaving no room for responsibility. The machine stops for no one. We’ve replaced accountability with a funhouse mirror distorting reality enough to lead users to believe they are to blame for their own plight. Addiction, isolation, and depression have all been exacerbated by the products that promise connection and community. This reinforces the lie that something must be wrong with *us*, not the design.

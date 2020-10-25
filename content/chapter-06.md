@@ -15,7 +15,7 @@ nexttitle: '07. Navigating Complexity'
 
 #### Our attention spans have become the backbone of an economy. Our gaze has never been more valuable. The designed world doesn’t stop simply at rewarding our attention; it demands it.
 
-Design is founded in persuasion. Don’t add any subtext to that statement; its truth lies in its purest form. We are creating things that are engineered to persuade our users to go from point A to point B. Sometimes an easy sell, we start by convincing others that they should consciously choose to leave point A in order to get to point B.
+<span class="firstcharacter">D</span>esign is founded in persuasion. Don’t add any subtext to that statement; its truth lies in its purest form. We are creating things that are engineered to persuade our users to go from point A to point B. Sometimes an easy sell, we start by convincing others that they should consciously choose to leave point A in order to get to point B.
 And we make thousands of decisions informed by designed, persuasive pathways every single day. Though we’ve gotten better at allowing our subconscious to handle these kinds of choices, these neural pathways compete for our limited attention on an infinite loop.
 
 Persuasion in its essence isn’t an evil endeavor. Most often the reason we’re  persuading users is that we believe that whatever lies on the other end of that choice will improve their lives. Persuasion is woven into the fabric of human connection. We are constantly *persuaded by others* to make informed decisions about how to live each day and how to fill our time. All the while, in the inverse of this is also true. We are constantly *persuading others* on how we think they should make their own decisions.

@@ -15,7 +15,7 @@ nexttitle: '06. Honoring Engagement'
 
 #### Integrity is a virtue admired by all and cultivated by few. The harsh reality is that honesty isn’t always rewarded by humans. We have countless success stories that seem to teach us that altering the truth never hurt anyone. We remediate our collective conscience with contagious phrases like, “It’s just business” and “What they don’t know won’t hurt them.”
 
-Few of us were taught these lousy tactics by our loved ones. I’ve never met a grade-school teacher endorsing dishonesty, yet it’s at an early age that we discover that half-truths can be handy shortcuts. To developing minds, often the hardest aspect of honesty to convey is that duplicity wounds others. Deceit isn’t purely an outgrowth of pride; it’s bred in the absence of empathy.
+<span class="firstcharacter">F</span>ew of us were taught these lousy tactics by our loved ones. I’ve never met a grade-school teacher endorsing dishonesty, yet it’s at an early age that we discover that half-truths can be handy shortcuts. To developing minds, often the hardest aspect of honesty to convey is that duplicity wounds others. Deceit isn’t purely an outgrowth of pride; it’s bred in the absence of empathy.
 
 Hopeful design is costly to us because it’s vulnerable work. But we can’t let this risk paralyze us.
 

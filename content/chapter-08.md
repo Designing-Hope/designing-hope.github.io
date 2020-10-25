@@ -15,7 +15,7 @@ nexttitle: 'Epilogue'
 
 #### A wise counselor once reminded me that you never really see your own face. Sure, you can see its reflection, but you never *really* see yourself. The mirror is an approximation. To *truly* see yourself requires the eyes of another.
 
-We’re a social species. And though we pride ourselves on our superior intelligence amongst the animal kingdom, we can’t escape this truth. We need each other. It sounds cliche, but its implications are life altering.
+<span class="firstcharacter">W</span>e’re a social species. And though we pride ourselves on our superior intelligence amongst the animal kingdom, we can’t escape this truth. We need each other. It sounds cliche, but its implications are life altering.
 
 Humans were created for community.
 

@@ -7,8 +7,6 @@ title: 'Acknowledgments'
 
 ### Acknowledgments
 
----
-
 ## An ardent thank you to...
 
 - _You_ for reading this book.

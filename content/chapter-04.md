@@ -15,7 +15,7 @@ nexttitle: '05. Translating Integrity'
 
 #### Tools are vital. Our days are made exponentially easier than every generation before us because of them. Tools power our lives and our professions, and whether analog or digital, tools are how we work.
 
-Designers have dynamic tools at their disposal. Hardware, software, and gadgets of the trade have never been more accessible or easy to use. Even artisanal tools have attainable learning curves, and we have an infinite sea of online tutorials teaching us to make just about anything we have the wherewithal to attempt.
+<span class="firstcharacter">D</span>esigners have dynamic tools at their disposal. Hardware, software, and gadgets of the trade have never been more accessible or easy to use. Even artisanal tools have attainable learning curves, and we have an infinite sea of online tutorials teaching us to make just about anything we have the wherewithal to attempt.
 
 The wide availability of tools, however, can also be distracting. In reality, designers only need to perfect one tool: curiosity. All else is peripheral.
 

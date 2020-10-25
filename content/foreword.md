@@ -9,7 +9,7 @@ nexttitle: 'Preface'
 
 ### Foreword
 
----
+<br/>
 
 #### “Where there is no hope, it is incumbent on us to invent it.”
 ##### **― Albert Camus**

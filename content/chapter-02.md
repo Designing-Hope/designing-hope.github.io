@@ -15,7 +15,7 @@ nexttitle: '03. Impacting Humanity'
 
 #### Refinement is something that all designers do organically. The practice can come so naturally that often the problem isn’t in the iteration itself but in knowing when to stop. For most of us, self-control often looks like knowing when to put down the pen. Many of us can agree that intent is burdensome, yet to think well about intent, we must first think well about  refinement. 
 
-The practice of refinement is an ancient one. You can trace it back to when humans first began making things with their hands. It is laborious and often taxing—on not just our bodies but also our minds. In our modern design practices, refinement has evolved into iterative design. However, the mental image that still captures me most is that of blacksmithing or elemental purification. It takes great friction, force, and elbow grease to work out the imperfections. The toil of refinement is what makes the finished product feel right or complete.
+<span class="firstcharacter">T</span>he practice of refinement is an ancient one. You can trace it back to when humans first began making things with their hands. It is laborious and often taxing—on not just our bodies but also our minds. In our modern design practices, refinement has evolved into iterative design. However, the mental image that still captures me most is that of blacksmithing or elemental purification. It takes great friction, force, and elbow grease to work out the imperfections. The toil of refinement is what makes the finished product feel right or complete.
 
 And so refinement should conjure the same feeling in our work. We should look at our work with pleasure and assurance, knowing that it took valuable energy to mold.
 

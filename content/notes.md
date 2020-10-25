@@ -7,7 +7,9 @@ title: 'Notes'
 
 ### Notes
 
----
+## Foreword
+
+- *"Where there is no hope, it is incumbent on us to invent it."* <a href="https://en.wikipedia.org/wiki/Albert_Camus" class="note-highlight">learn more</a>.
 
 ## Introduction
 
@@ -21,11 +23,11 @@ title: 'Notes'
 
 - If you're looking for more resources on Generalized Anxiety Disorder (GAD) visit <a href="https://www.adaa.org" class="note-highlight">Anxiety and Depression Association of America</a>.
 
-- Both definitions of "Hope" are sourced from Webster's Dictionary 1828.
+- Both definitions of "Hope" are sourced from *Webster's Dictionary 1828*.
 
 ## 03. Impacting Humanity
 
-- *"I immediately think of one of the most famous maps of all time, Maximo Vignelli’s New York City subway map..."* <a href="https://en.wikipedia.org/wiki/Massimo_Vignelli" class="note-highlight">learn more</a>.
+- *"I immediately think of one of the most famous maps of all time, Maximo Vignelli’s New York City subway map..."* <a href="https://artsandculture.google.com/entity/massimo-vignelli/m0c_x5j" class="note-highlight">learn more</a>.
 
 - *"The word “design” derives from designation..."* <a href="https://www.merriam-webster.com/dictionary/design" class="note-highlight">etymology</a>.
 
@@ -33,10 +35,18 @@ title: 'Notes'
 
 ## 04. Tooling Curiosity
 
-- *"I can hear Dieter Rams in the back of my mind repeating..."* <a href="https://en.wikipedia.org/wiki/Dieter_Rams" class="note-highlight">learn more</a>.
+- *"Rembrandt’s lighting..." <a href="https://artsandculture.google.com/entity/rembrandt/m0bskv2?categoryId=artist" class="note-highlight">learn more</a>.
+
+- *"Van Gogh’s impressionistic strokes..." <a href="https://artsandculture.google.com/entity/vincent-van-gogh/m07_m2" class="note-highlight">learn more</a>.
+
+- *"I can hear Dieter Rams in the back of my mind repeating..."* <a href="https://artsandculture.google.com/entity/dieter-rams/m0bp_jq" class="note-highlight">learn more</a>.
 
 ## 08. Building Community
 
 - *"I often treat my role as designer like that of Atlas..."* <a href="https://en.wikipedia.org/wiki/Atlas_(mythology)" class="note-highlight">mythology</a>.
 
 - *The word community comes from the Latin word communis..."* <a href="https://www.merriam-webster.com/dictionary/community" class="note-highlight">etymology</a>.
+
+## Acknowledgments
+
+- Learn more from my incredible colleagues & collaborators at <a href="https://www.journeygroup.com/" class="note-highlight">Journey Group</a>.

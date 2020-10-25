@@ -7,8 +7,6 @@ title: 'Epilogue'
 
 ### Epilogue
 
----
-
 ## A better way is possible.
 
 It will take more effort. It won’t be as efficient. It may even cost you more money. However, it could lead to a healthier society of people who aren’t preyed upon by the designs they interact with.

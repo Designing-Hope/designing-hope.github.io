@@ -10,8 +10,6 @@ nexttitle: '01. Designing Hope'
 
 ### Introduction
 
----
-
 #### Design is so much more than creating pretty things.
 
 <span class="firstcharacter">I</span>t challenges the status quo and creates change: change that can solve some of the world’s toughest problems simply by advocating for the humans impacted by them. Design is not passive, self-serving, abusive, dishonest, or greedy. Design is *hopeful*.

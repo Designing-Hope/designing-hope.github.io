@@ -15,7 +15,7 @@ nexttitle: '08. Building Community'
 
 #### Humans long for simplicity. It’s in our DNA to desire our surroundings to be accessible and understandable. And yet often our own complexities get in the way of this noble aspiration. 
 
-This drive for simplicity also reveals our tendency toward nostalgia. We become sentimental about the past because times seemed simpler “back then.” This can lead us to believe in false memories rather than accepting that our memories are quite malleable. We know, deep down, that times weren’t simpler, like our retelling of them would suggest, and yet we cling to this reassuring sentimentality in our lives.
+<span class="firstcharacter">T</span>his drive for simplicity also reveals our tendency toward nostalgia. We become sentimental about the past because times seemed simpler “back then.” This can lead us to believe in false memories rather than accepting that our memories are quite malleable. We know, deep down, that times weren’t simpler, like our retelling of them would suggest, and yet we cling to this reassuring sentimentality in our lives.
 
 And as designers, we mold this kind of perception. We long to create simplicity out of the confusion that surrounds us. The truth is that many facets of our natural world are quite complex. Our own anatomies illustrate that we are an intricate amalgam of perplexing systems. How do we make sense of it all? 
 
