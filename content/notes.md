@@ -35,9 +35,9 @@ title: 'Notes'
 
 ## 04. Tooling Curiosity
 
-- *"Rembrandt’s lighting..." <a href="https://artsandculture.google.com/entity/rembrandt/m0bskv2?categoryId=artist" class="note-highlight">learn more</a>.
+- *"Rembrandt’s lighting..."* <a href="https://artsandculture.google.com/entity/rembrandt/m0bskv2?categoryId=artist" class="note-highlight">learn more</a>.
 
-- *"Van Gogh’s impressionistic strokes..." <a href="https://artsandculture.google.com/entity/vincent-van-gogh/m07_m2" class="note-highlight">learn more</a>.
+- *"Van Gogh’s impressionistic strokes..."* <a href="https://artsandculture.google.com/entity/vincent-van-gogh/m07_m2" class="note-highlight">learn more</a>.
 
 - *"I can hear Dieter Rams in the back of my mind repeating..."* <a href="https://artsandculture.google.com/entity/dieter-rams/m0bp_jq" class="note-highlight">learn more</a>.
 
