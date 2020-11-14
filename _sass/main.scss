@@ -168,7 +168,7 @@ li{
 .toc-nav{
   padding-top: 10px;
   color: #999;
-  font-family: "Cardo", serif;
+  font-family: "IBM Plex Sans", sans-serif;
   font-size: 15px;
   font-weight: 400;
   line-height: 1;
@@ -284,9 +284,9 @@ img.book-title{
 
 .landing h2 {
   color: #999;
-  font-family: "Cardo", serif;
-  font-size: 17px;
-  font-weight: 500;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
   line-height: 1;
   letter-spacing: -0.03em;
   margin-block-start: 1em;
@@ -323,6 +323,7 @@ img.book-title{
 
 .landing a.download-link:hover{
   background-color: #ff0048;
+  border-bottom: none;
   color: #fff;
 }
 
@@ -426,7 +427,6 @@ img.book-title{
 
 .landing a.author-link{
   font-weight: 400;
-  border-bottom: 1px #ddd solid;
   color: #000;
   text-decoration: none;
 }
@@ -434,7 +434,6 @@ img.book-title{
 .landing a.author-link:hover{
   background-color: #ff0048;
   color: #fff;
-  border-bottom: none;
   text-decoration: none;
 }
 
