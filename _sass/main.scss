@@ -652,6 +652,20 @@ img.book-cover{
   color: #ff0048;
 }
 
+.downloads .active{
+  color: #999;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: -0.03em;
+  line-height: 1;
+  text-align: center;
+  text-decoration: none;
+  margin: 0 25px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
 .download-left{
   padding-right: 30px;
 }
