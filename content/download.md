@@ -4,9 +4,18 @@ permalink: /download
 title: 'Download'
 pageclass: 'download-page'
 ---
+## This book seeks to be accessible by offering content in various formats.
 
-## Let’s be honest, reading offline is better for so many reasons.
+### eBook
 
-If you’d like to have a digital copy of _Designing Hope_ to read offline, download the book below.
+A digital copy for reading offline
 
-<a href="/downloads/designinghope-ebook.zip" class="btn">Download eBook</a>
+<a href="/downloads/designinghope-ebook.zip" class="btn-small">Download</a>
+
+##### *PDF and EPUB formats*
+
+### Audiobook
+
+An audio version for listening
+
+##### *Coming soon in early 2021*

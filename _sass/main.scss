@@ -327,6 +327,17 @@ img.book-title{
   color: #fff;
 }
 
+.landing a.author-link{
+  font-weight: 400;
+  color: #000;
+  text-decoration: none;
+}
+
+.landing a.author-link:hover{
+  background-color: #ff0048;
+  color: #fff;
+  text-decoration: none;
+}
 
 .author{
   padding: 0 4em 0 0;
@@ -422,18 +433,6 @@ img.book-title{
 
 .author a:hover{
   color: #000;
-  text-decoration: none;
-}
-
-.landing a.author-link{
-  font-weight: 400;
-  color: #000;
-  text-decoration: none;
-}
-
-.landing a.author-link:hover{
-  background-color: #ff0048;
-  color: #fff;
   text-decoration: none;
 }
 
@@ -619,14 +618,24 @@ img.book-cover{
 }
 
 .downloads{
-  background-color: #f4f4f3;
+  color: #999;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  letter-spacing: -0.03em;
+  line-height: 1;
   text-align: center;
-  margin-top: 4em;
-  padding: .75em 0;
+  text-decoration: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #e8e8e5;
+  text-align: center;
+  margin-top: 3em;
+  padding: 25px 0;
 }
 
 .downloads a{
-  color: #ff0048;
+  color: #000;
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 14px;
   font-weight: 500;
@@ -634,12 +643,13 @@ img.book-cover{
   line-height: 1;
   text-align: center;
   text-decoration: none;
+  margin: 0 25px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 .downloads a:hover{
-  color: #000;
+  color: #ff0048;
 }
 
 .download-left{
@@ -768,6 +778,25 @@ blockquote {
   border: 0;
   border-radius: 50px;
   padding: 12px 50px;
+  text-decoration: none;
+
+  &:hover {
+    background-color: #000;
+    color: #fff;
+  }
+}
+
+.btn-small{
+  color: #000;
+  background-color: #e8e8e5;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  border: 0;
+  border-radius: 50px;
+  padding: 10px 40px;
   text-decoration: none;
 
   &:hover {
@@ -1231,9 +1260,10 @@ footer.framework_footer a:hover{
 
 .download-page{
   color: #000;
-  font-size: 19px;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 16px;
   font-weight: 400;
-  letter-spacing: -0.01em;
+  letter-spacing: -0.025em;
   line-height: 1.5;
   padding: 0 6em 0 2em;
   margin-block-start: 0px;
@@ -1245,10 +1275,26 @@ footer.framework_footer a:hover{
   margin-top: 4em;
 }
 
+.download-page hr {
+  width: 100%;
+  border-width: 1px;
+  border-color: #ddd;
+  border-style: solid;
+  margin: 2em 0;
+}
+
+.download-page p {
+  display: block;
+  margin-block-start: .5em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
 .download-page h1{
   color: #000;
   font-family: "IBM Plex Sans", sans-serif;
-  font-size: 70px;
+  font-size: 60px;
   font-weight: 500;
   letter-spacing: -0.05em;
   line-height: 1;
@@ -1264,7 +1310,7 @@ footer.framework_footer a:hover{
   color: #000;
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 32px;
-  font-weight: 500;
+  font-weight: 300;
   letter-spacing: -0.03em;
   line-height: 1.25;
   margin-block-start: 0px;
@@ -1275,14 +1321,30 @@ footer.framework_footer a:hover{
   -moz-osx-font-smoothing: grayscale;
 }
 
+.download-page h3{
+  color: #000;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 22px;
+  font-weight: 500;
+  letter-spacing: -0.03em;
+  line-height: 1.25;
+  text-transform: none;
+  margin-block-start: 2em;
+  margin-block-end: 0px;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
 .download-page h5{
   color: #666;
   font-family: "IBM Plex Sans", sans-serif;
-  font-size: 14px;
-  font-weight: 500;
+  font-size: 13px;
+  font-weight: 400;
   letter-spacing: -0.03em;
   line-height: 1;
-  margin-block-start: 0px;
+  margin-block-start: 1.5em;
   margin-block-end: 0px;
   margin-inline-start: 0px;
   margin-inline-end: 0px;

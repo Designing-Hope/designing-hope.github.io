@@ -2,7 +2,7 @@
 layout: chapter
 permalink: /chapter-8
 section: 'Chapter 08.'
-title: '08. Navigating Complexity'
+title: '08. Building Community'
 headerimage: '/images/09.png'
 nextpage: '/epilogue'
 nexttitle: 'Epilogue'

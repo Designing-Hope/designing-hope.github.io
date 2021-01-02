@@ -42,8 +42,4 @@ coverimage: '/images/book-cover.svg'
 
 #### <a href="/notes">Notes</a>
 
-<br/>
-
-###### * <a href="/download" class="download-link">Download</a> the eBook to read offline
-
 </div>
