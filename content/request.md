@@ -12,13 +12,15 @@ There's only a handful of printed copies of *Designing Hope* circulating in comm
 
 <a href="https://forms.gle/MLsNfY6AZ4gTZ9QK7" class="btn-small">Request Info</a>
 
-##### *The inaugural run of books will be printed in early 2021*
-
 ### Want copies for your class or organization?
 
 I offer small print runs for educational purposes at cost, no funny business.
 
 <a href="https://forms.gle/rs3PLcsSvEjo6UwA7" class="btn-small">Request Info</a>
+
+<br/>
+
+##### *The inaugural run of books will be printed in early 2021*
 
 <br/>
 <br/>
