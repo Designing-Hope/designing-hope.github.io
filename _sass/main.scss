@@ -648,6 +648,37 @@ img.book-cover{
   -moz-osx-font-smoothing: grayscale;
 }
 
+.framework_downloads{
+  color: #999;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  letter-spacing: -0.03em;
+  line-height: 1;
+  text-align: center;
+  text-decoration: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #e8e8e5;
+  text-align: center;
+  margin-top: 3em;
+  padding: 25px 0;
+}
+
+.framework_downloads a{
+  color: #fff;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: -0.03em;
+  line-height: 1;
+  text-align: center;
+  text-decoration: none;
+  margin: 0 25px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
 .downloads a:hover{
   color: #ff0048;
 }
@@ -1051,7 +1082,7 @@ footer.framework_footer a:hover{
 
 .practices-inner{
   max-width: 1200px;
-  padding: 4em 0 8em;
+  padding: 4em 0 6em;
   margin: 0 auto;
 }
 
