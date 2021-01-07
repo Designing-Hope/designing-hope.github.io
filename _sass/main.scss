@@ -515,11 +515,6 @@ a.note-highlight{
 // !-- Super Footer //
 
 .downloads{
-  color: #999;
-  font-family: "IBM Plex Sans", sans-serif;
-  font-size: 14px;
-  font-weight: 300;
-  letter-spacing: -0.03em;
   line-height: 1;
   text-align: center;
   text-decoration: none;
@@ -1159,6 +1154,7 @@ footer.framework_footer{
   button{font-size: 14px; width:100%; margin-top:20px; margin-bottom: 15px; margin-right: 0;} 
   button.small{font-size: 14px; width:100%; margin-bottom: 15px; margin-right: 0; padding: 10px 50px;}
   .downloads{margin-top: 2em;}
+  .downloads a{font-size: 13px; margin: 0 15px;}
   footer{font-size: 12px;}
   .credit{text-align: center; margin: 0 0 10px 0;}
   .license{text-align: center; margin: 0;}
