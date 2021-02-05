@@ -29,7 +29,19 @@
 <meta property="og:site_name" content="Hopeful.Design">
 <meta name="twitter:image:alt" content="Designing Hope book cover">
 
+{% if page.permalink == "/toc" %}
+
+<title>{{ site.title }} — Creating compassionate work for humans</title>
+
+{% elsif page.permalink == "/toc" %}
+
+<title>{{ site.title }} — Creating compassionate work for humans</title>
+
+{% else %}
+
 <title>{{ page.title }}{% if page.title %} — {% endif %}{{ site.title }}</title>
+
+{% endif %}
 
 <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
