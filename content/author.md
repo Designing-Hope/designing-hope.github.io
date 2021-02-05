@@ -3,7 +3,7 @@ layout: page
 permalink: /author
 title: 'Author'
 pageclass: 'landing-page'
-coverimage: '/images/jeremy-headshot.png'
+coverimage: '/images/jeremy-headshot.jpg'
 ---
 
 <div class="author" markdown="1">
