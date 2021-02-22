@@ -18,4 +18,4 @@ A digital copy for reading offline
 
 An audio version for listening
 
-##### *Coming soon in early 2021*
+##### *Coming soon in Spring 2021*
