@@ -20,4 +20,4 @@ I offer small print runs for educational purposes at cost, no funny business.
 
 <br/>
 
-##### *The inaugural run of books will be printed in early 2021*
+##### *The inaugural run of books will be printed in Spring 2021*
