@@ -319,6 +319,13 @@ img.book-cover{
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
+  .active{
+    color:#999;
+    font-weight: 400;
+    text-decoration: none;
+    padding-left: 35px;
+  }
+
   a{
   color: #000;
   font-weight: 400;
