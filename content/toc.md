@@ -42,6 +42,4 @@ coverimage: '/images/book-cover.svg'
 
 #### <a href="/notes">Notes</a>
 
-#### <a href="/resources">Resources</a>
-
 </div>
