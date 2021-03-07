@@ -4,7 +4,7 @@ permalink: /request
 title: 'Request'
 pageclass: 'download-page'
 ---
-## This book seeks to be responsible by reducing the number of printed copies and minimizing environmental impact.
+## This book seeks to be responsible by minimizing environmental impact.
 
 ### Want a copy for your community?
 
