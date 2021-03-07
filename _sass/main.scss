@@ -308,6 +308,31 @@ img.book-cover{
 
 }
 
+.landing-nav{
+  padding-top: 10px;
+  color: #999;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1;
+  text-align: right;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  a{
+  color: #000;
+  font-weight: 400;
+  text-decoration: none;
+  padding-left: 35px;
+
+    &:hover{
+    color: #ff0048;
+    text-decoration: none;
+    }
+
+  }
+
+
 img.book-title{
   width: 90px;
 }
