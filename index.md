@@ -14,6 +14,4 @@ coverimage: '/images/book-cover.svg'
 
 <a class="btn" href="/toc">Start Reading</a>
 
-###### <a href="/download" class="download-link">Download</a> to read &amp; listen offline or <a href="/request" class="download-link">request</a> a copy for your community.
-
 </div>
