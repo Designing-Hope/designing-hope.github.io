@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /learn
-title: 'Learn'
+permalink: /resources
+title: 'Resources'
 pageclass: 'download-page'
 ---
 ## This book seeks to be educational by offering practical resources.
