@@ -296,8 +296,8 @@ img.book-cover{
 
 .toc a.resource-link{
   color: #ff0048;
-  border-bottom: 1px #ff0048 solid;
-  text-decoration: none;
+  border-bottom: none;
+  text-decoration: underline;
 
   &:hover{
   background-color: #ff0048;
