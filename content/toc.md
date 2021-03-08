@@ -46,13 +46,13 @@ coverimage: '/images/book-cover.svg'
 
 ### About the Book
 
-_Designing Hope_ is a book that explores creating compassionate work for humans. It defines a design framework that creates hope by practicing in an ecosystem, honoring that community with its solutions, and sharing in the responsibility of its outcomes. It’s equal parts manifesto and practical guide. It strives to rise above technical theory, seeking out practical compassion. In short, if you create things for others (you do), this book is for you.
+_Designing Hope_ is a book that explores creating compassionate work for humans. It defines a design framework that creates hope by practicing in an ecosystem, honoring that community with its solutions, and sharing in the responsibility of its outcomes. It’s equal parts manifesto and practical guide. It strives to rise above technical theory, seeking out practical compassion. In short, if you create things for others _(you do)_, this book is for you.
 
 <br/>
 
 ### About the Author
 
-Jeremy is a designer, writer, and educator. Relentlessly optimistic about the power of design, he lives by the words “A better way is possible.” With over a decade of experience telling stories through brands and screens, he has worked with clients from a wide variety of industries based all over the globe. He works at Journey Group in Charlottesville, VA. He writes and speaks about the intersection of digital design and ethics, seeking to add hope back to the conversation. His work has been featured by Creative Mornings, Communication Arts, Framer, Humane by Design, Modus, UX Collective, Sidebar, Smashing Magazine, Story Matters, and Web Designer News.
+Jeremy D. Cherry is a designer, writer, and educator. For over a decade, he’s told stories through brands and screens. He works at Journey Group in Charlottesville, VA.
 
 <br/>
 
