@@ -42,6 +42,8 @@ coverimage: '/images/book-cover.svg'
 
 #### <a href="/notes">Notes</a>
 
+<br/>
+
 ---
 
 <br/>
@@ -54,6 +56,6 @@ _Designing Hope_ is a book that explores creating compassionate work for humans.
 
 ### Additional Formats
 
-This book seeks to be responsible by minimizing environmental impact and accessible by offering content in various formats. You can <a href="">download the ebook</a> to read offline or you can <a href="">download the audiobook</a> to listen offline. There’s only a handful of printed copies of _Designing Hope_ circulating in communites, and that’s on purpose. This book was created to be shared. If you'd like a printed copy for your community, <a href="">reach out</a> and we will make it happen.
+This book seeks to be responsible by minimizing environmental impact and accessible by offering content in various formats. To read or listen offline, download the <a href="">ebook</a> and <a href="">audiobook</a>. There’s only a handful of printed copies of _Designing Hope_ circulating in communites, and that’s on purpose. This book was created to be shared. If you'd like a printed copy for your community, <a href="">reach out</a> and we will make it happen.
 
 </div>
