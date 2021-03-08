@@ -42,6 +42,8 @@ coverimage: '/images/book-cover.svg'
 
 #### <a href="/notes">Notes</a>
 
+---
+
 <br/>
 
 ### About the Book
