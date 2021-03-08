@@ -53,6 +53,6 @@ This book seeks minimize environmental impact and offer content in accessible fo
 
 <a href="/downloads/designinghope-ebook.zip" class="btn">Download eBook</a>&nbsp;&nbsp;<a href="https://forms.gle/MLsNfY6AZ4gTZ9QK7" class="btn">Request Copy</a>
 
-###### Ignaural print run happening in Spring 2021
+###### * Ignaural print run happening in Spring 2021
 
 </div>
