@@ -50,14 +50,8 @@ _Designing Hope_ is a book that explores creating compassionate work for humans.
 
 <br/>
 
-### About the Author
-
-Jeremy D. Cherry is a designer, writer, and educator. For over a decade, he’s told stories through brands and screens. He works at Journey Group in Charlottesville, VA.
-
-<br/>
-
 ### Additional Formats
 
-This book seeks to be responsible by minimizing environmental impact and accessible by offering content in various formats. You can download the ebook to read offline or you can download the audiobook to listen offline. There’s only a handful of printed copies of _Designing Hope_ circulating in communites, and that’s on purpose. Share this was created to be shared. If you'd like a printed copy for your community, reach out and we will make it happen.
+This book seeks to be responsible by minimizing environmental impact and accessible by offering content in various formats. You can <a href="">download the ebook</a> to read offline or you can <a href="">download the audiobook</a> to listen offline. There’s only a handful of printed copies of _Designing Hope_ circulating in communites, and that’s on purpose. This book was created to be shared. If you'd like a printed copy for your community, <a href="">reach out</a> and we will make it happen.
 
 </div>
