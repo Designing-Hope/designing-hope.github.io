@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: chapter
 permalink: /author
+section: 'Author'
 title: 'Author'
-pageclass: 'landing-page'
-coverimage: '/images/jeremy-headshot.jpg'
 ---
 
 <div class="author" markdown="1">
