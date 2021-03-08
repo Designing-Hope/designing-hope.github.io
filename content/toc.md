@@ -8,8 +8,6 @@ coverimage: '/images/book-cover.svg'
 
 <div class="toc" markdown="1">
 
-### Table of Contents
-
 #### <a href="/foreword">Foreword</a> by Z. Bryant
 
 #### <a href="/preface">Preface</a>
@@ -56,6 +54,6 @@ _Designing Hope_ is a book that explores creating compassionate work for humans.
 
 ### Additional Formats
 
-This book seeks to be responsible by minimizing environmental impact and accessible by offering content in various formats. To read or listen offline, download the <a href="">ebook</a> and <a href="">audiobook</a>. There’s only a handful of printed copies of _Designing Hope_ circulating in communites, and that’s on purpose. This book was created to be shared. If you'd like a printed copy for your community, <a href="">reach out</a> and we will make it happen.
+This book seeks to be responsible by minimizing environmental impact and accessible by offering content in various formats. To read offline, download the <a href="/downloads/designinghope-ebook.zip">ebook</a>. There’s only a handful of printed copies of _Designing Hope_ circulating in communites, and that’s on purpose. This book was created to be shared. If you'd like a printed copy for your community, <a href="https://forms.gle/MLsNfY6AZ4gTZ9QK7">reach out</a> and we will make it happen.
 
 </div>
