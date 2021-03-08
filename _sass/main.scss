@@ -190,6 +190,17 @@ img.book-cover{
   padding-bottom: 1em;
 }
 
+.toc p {
+  font-family: "Cardo", serif;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  line-height: 1.5;
+  min-height: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
 .toc h2 {
   color: #bbb;
   font-family: "IBM Plex Sans", sans-serif;
