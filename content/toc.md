@@ -46,6 +46,18 @@ coverimage: '/images/book-cover.svg'
 
 ### About the Book
 
-Designing Hope is a book that explores creating compassionate work for humans. It defines a design framework that creates hope by practicing in an ecosystem, honoring that community with its solutions, and sharing in the responsibility of its outcomes. It’s equal parts manifesto and practical guide. It strives to rise above technical theory, seeking out practical compassion. In short, if you create things for others (you do), this book is for you.</p>
+_Designing Hope_ is a book that explores creating compassionate work for humans. It defines a design framework that creates hope by practicing in an ecosystem, honoring that community with its solutions, and sharing in the responsibility of its outcomes. It’s equal parts manifesto and practical guide. It strives to rise above technical theory, seeking out practical compassion. In short, if you create things for others (you do), this book is for you.
+
+<br/>
+
+### About the Author
+
+Jeremy is a designer, writer, and educator. Relentlessly optimistic about the power of design, he lives by the words “A better way is possible.” With over a decade of experience telling stories through brands and screens, he has worked with clients from a wide variety of industries based all over the globe. He works at Journey Group in Charlottesville, VA. He writes and speaks about the intersection of digital design and ethics, seeking to add hope back to the conversation. His work has been featured by Creative Mornings, Communication Arts, Framer, Humane by Design, Modus, UX Collective, Sidebar, Smashing Magazine, Story Matters, and Web Designer News.
+
+<br/>
+
+### Additional Formats
+
+This book seeks to be responsible by minimizing environmental impact and accessible by offering content in various formats. You can download the ebook to read offline or you can download the audiobook to listen offline. There’s only a handful of printed copies of _Designing Hope_ circulating in communites, and that’s on purpose. Share this was created to be shared. If you'd like a printed copy for your community, reach out and we will make it happen.
 
 </div>
