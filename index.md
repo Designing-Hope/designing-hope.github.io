@@ -1,17 +1,58 @@
 ---
-layout: default
+layout: page
 title: Designing Hope
-pageclass: 'landing-page'
+pageclass: 'toc-page'
 coverimage: '/images/book-cover.svg'
 ---
 
-<div class="landing" markdown="1">
+<div class="toc" markdown="1">
 
-# Designing Hope
-## by <a href="https://jeremydcherry.com" class="author-link">Jeremy D. Cherry</a>
+#### <a href="/foreword">Foreword</a> by Z. Bryant
 
-<em>Designing Hope</em> is a book that explores creating compassionate work for humans. It defines a design framework that creates hope by practicing in an ecosystem, honoring that community with its solutions, and sharing in the responsibility of its outcomes. It’s equal parts manifesto and practical guide. It strives to rise above technical theory, seeking out practical compassion. In short, if you create things for others <em>(you do)</em>, this book is for you.
+#### <a href="/preface">Preface</a>
 
-<a class="btn" href="/toc">Start Reading</a>
+#### <a href="/introduction">Introduction</a>
+
+## 01. <a href="/chapter-1">Designing Hope</a>
+
+## 02. <a href="/chapter-2">Refining Intent</a>
+
+## 03. <a href="/chapter-3">Impacting Humanity</a>
+
+## 04. <a href="/chapter-4">Tooling Curiosity</a>
+
+## 05. <a href="/chapter-5">Translating Integrity</a>
+
+## 06. <a href="/chapter-6">Honoring Engagement</a>
+
+## 07. <a href="/chapter-7">Navigating Complexity</a>
+
+## 08. <a href="/chapter-8">Building Community</a>
+
+#### <a href="/epilogue">Epilogue</a>
+
+#### <a href="/framework">Framework</a>
+
+#### <a href="/author">About the Author</a>
+
+#### <a href="/acknowledgments">Acknowledgments</a>
+
+#### <a href="/notes">Notes</a>
+
+<br/>
+
+---
+
+<br/>
+
+### About the Book
+
+_Designing Hope_ is a book that explores creating compassionate work for humans. It defines a design framework that creates hope by practicing in an ecosystem, honoring that community with its solutions, and sharing in the responsibility of its outcomes. It’s equal parts manifesto and practical guide. It strives to rise above technical theory, seeking out practical compassion. In short, if you create things for others _(you do)_, this book is for you.
+
+<br/>
+
+### Additional Formats
+
+This book seeks to be responsible by minimizing environmental impact and accessible by offering content in various formats. To read offline, download the <a href="/downloads/designinghope-ebook.zip">ebook</a>. There’s only a handful of printed copies of _Designing Hope_ circulating in communites, and that’s on purpose. This book was created to be shared. If you'd like a printed copy for your community, <a href="https://forms.gle/MLsNfY6AZ4gTZ9QK7">reach out</a> and we will make it happen.
 
 </div>
