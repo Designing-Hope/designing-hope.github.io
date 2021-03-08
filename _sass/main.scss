@@ -294,135 +294,11 @@ img.book-cover{
   }
 }
 
-.toc a.resource-link{
-  color: #ff0048;
-  border-bottom: none;
-  text-decoration: none;
-
-  &:hover{
-  background-color: #ff0048;
-  color: #fff;
-  border-bottom: none;
-  text-decoration: none;
-  }
-}
-
-.toc-nav{
-  padding-top: 10px;
-  color: #999;
-  font-family: "IBM Plex Sans", sans-serif;
-  font-size: 15px;
-  font-weight: 400;
-  line-height: 1;
-  text-align: right;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-
-  a{
-  color: #000;
-  font-weight: 400;
-  text-decoration: none;
-
-    &:hover{
-    color: #ff0048;
-    text-decoration: none;
-    }
-
-  }
-
-}
-
 img.book-title{
   width: 90px;
 }
 
 // !-- Author //
-
-.author{
-  padding: 0;
-  font-size: 19px;
-}
-
-.author h1 {
-  color: #000;
-  font-family: "IBM Plex Sans", sans-serif;
-  font-size: 36px;
-  font-weight: 500;
-  line-height: 1;
-  letter-spacing: -0.05em;
-  margin-block-start: .25em;
-  margin-block-end: .25em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-.author h2 {
-  color: #999;
-  font-family: "IBM Plex Sans", sans-serif;
-  font-size: 16px;
-  font-weight: 500;
-  line-height: 1;
-  letter-spacing: -0.03em;
-  margin-block-start: 1em;
-  margin-block-end: 1em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-.author h3{
-  font-family: "IBM Plex Sans", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-  font-size: 12px;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  line-height: 1;
-  display: block;
-  margin-block-start: .5em;
-  margin-block-end: 2em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-.author h4 {
-  color: #000;
-  font-family: "IBM Plex Sans", sans-serif;
-  font-size: 18px;
-  font-weight: 500;
-  letter-spacing: -0.03em;
-  line-height: 1.5;
-  text-align: left;
-  margin-block-start: 0px;
-  margin-block-end: 0.5em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
-  padding-top: 8px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-.author h6 {
-  color: #666;
-  font-family: "IBM Plex Sans", sans-serif;
-  font-size: 14px;
-  font-weight: 400;
-  letter-spacing: -0.03em;
-  line-height: 1.5;
-  text-align: left;
-  margin-block-start: 0px;
-  margin-block-end: 0.5em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
-  padding-top: 8px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
 
 .author a{
   color: #ff0048;
@@ -458,21 +334,6 @@ img.illustration{
   margin: 0 auto 3em;
   padding: 0 0 4em;
   width: 600px;
-}
-
-.page-title h1{
-  font-family: "IBM Plex Sans", sans-serif;
-  font-size: 70px;
-  font-weight: 500;
-  letter-spacing: -0.03em;
-  line-height: 1;
-  display: block;
-  margin-block-start: .1em;
-  margin-block-end: .5em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
 h1{
@@ -566,24 +427,6 @@ blockquote {
 }
 
 .btn{
-  color: #fff;
-  background-color: #ff0048;
-  font-family: "IBM Plex Sans", sans-serif;
-  font-size: 15px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  border: 0;
-  border-radius: 50px;
-  padding: 12px 50px;
-  text-decoration: none;
-
-  &:hover {
-    background-color: #000;
-    color: #fff;
-  }
-}
-
-.btn-small{
   color: #000;
   background-color: #e8e8e5;
   font-family: "IBM Plex Sans", sans-serif;
@@ -594,24 +437,6 @@ blockquote {
   border: 0;
   border-radius: 50px;
   padding: 10px 40px;
-  text-decoration: none;
-
-  &:hover {
-    background-color: #000;
-    color: #fff;
-  }
-}
-
-.btn-border{
-  color: #000;
-  font-family: "IBM Plex Sans", sans-serif;
-  font-size: 15px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  border: 1px #000 solid;
-  border-radius: 50px;
-  padding: 12px 40px;
-  margin-left: 10px;
   text-decoration: none;
 
   &:hover {
