@@ -32,6 +32,7 @@
 
 .right {
   width: 50%;
+  padding-right: 3em;
 }
 
 .column-third {
@@ -755,6 +756,7 @@ footer.framework_footer{
   body{font-size: 21px;}
   img.book-cover{max-width: 75%; margin-bottom: 2em; box-shadow: 0 0 4px 0 rgba(40,42,47,0.1), -4px 4px 10px 4px rgba(40,42,47,0.05), -12px 18px 12px 0 rgba(40,42,47,0.1), -4px 4px 4px -1px rgba(40,42,47,0.1);}
   .column{width: 100%;}
+  .right{padding-right: 0;}
   .main-toc{margin: 1em auto; max-width: 85%;}
   .main-landing{margin: 1em auto; max-width: 85%;}
   .main-copy{margin: 2em auto 4em; max-width: 85%;}
