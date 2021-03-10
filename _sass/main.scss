@@ -300,9 +300,9 @@ img.book-cover{
   color: #ff0048;
   font-family: "IBM Plex Sans", sans-serif;
   font-weight: 400;
-  font-style: italic;
+  font-size: 16px;
   letter-spacing: -0.03em;
-  line-height: 1.5;
+  line-height: 2;
   border-bottom: none;
   text-decoration: none;
 
@@ -312,6 +312,17 @@ img.book-cover{
   border-bottom: none;
   text-decoration: none;
   }
+}
+
+.toc .coming-soon{
+  color: #999;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: -0.03em;
+  line-height: 2;
+  border-bottom: none;
+  text-decoration: none;
 }
 
 .toc-nav{
