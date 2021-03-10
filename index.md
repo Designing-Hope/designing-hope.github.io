@@ -56,6 +56,6 @@ This book seeks minimize environmental impact and offer content in accessible fo
 <span class="coming-soon">&bull;&nbsp;&nbsp;Audiobook (Coming Soon)</span><br/>
 <a href="https://forms.gle/MLsNfY6AZ4gTZ9QK7" class="resource-link">&bull;&nbsp;&nbsp;Request Copy</a>
 
-###### * Inaugural print run and audiobook happening in Spring 2021
+###### Inaugural print run and audiobook happening in Spring 2021
 
 </div>
