@@ -51,9 +51,9 @@ _Designing Hope_ is a book that explores creating compassionate work for humans.
 
 This book seeks minimize environmental impact and offer content in accessible formats both on and offline. There’s only a handful of printed copies circulating in communites, and that’s on purpose. This book was created to be shared. Want a printed copy for your community? Reach out, and we will make it happen.
 
-<a href="/downloads/designinghope.pdf" download="designinghope.pdf" class="resource-link">Download eBook (PDF)</a><br/>
-<a href="/downloads/designinghope.epub" download="designinghope.epub" class="resource-link">Download eBook (EPUB)</a><br/>
-<span class="coming-soon">Audiobook (Coming Soon)</span><br/>
+<a href="/downloads/designinghope.pdf" download="designinghope.pdf" class="resource-link">&bull;&nbsp;Download eBook (PDF)</a><br/>
+<a href="/downloads/designinghope.epub" download="designinghope.epub" class="resource-link">&bull;&nbsp;Download eBook (EPUB)</a><br/>
+<span class="coming-soon">&bull;&nbsp;Audiobook (Coming Soon)</span><br/>
 <a href="https://forms.gle/MLsNfY6AZ4gTZ9QK7" class="resource-link">Request Copy &rarr;</a>
 
 ###### * Inaugural print run and audiobook happening in Spring 2021
