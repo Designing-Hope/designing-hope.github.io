@@ -217,25 +217,7 @@ img.book-cover{
   -moz-osx-font-smoothing: grayscale;
 }
 
-.toc h3{
-  color: #777;
-  font-family: "IBM Plex Sans", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-  font-size: 12px;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  line-height: 1;
-  display: block;
-  margin-block-start: .5em;
-  margin-block-end: 3em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-.toc h4 {
+.toc h3 {
   color: #999;
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 24px;
@@ -250,18 +232,36 @@ img.book-cover{
   -moz-osx-font-smoothing: grayscale;
 }
 
-.toc h5 {
+.toc h4{
   color: #777;
   font-family: "IBM Plex Sans", sans-serif;
   font-weight: 400;
   font-style: normal;
-  font-size: 10px;
+  font-size: 13px;
   text-transform: uppercase;
   letter-spacing: 1px;
   line-height: 1;
   display: block;
   margin-block-start: .5em;
   margin-block-end: 3em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.toc h5 {
+  color: #777;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  line-height: 1;
+  display: block;
+  margin-block-start: .5em;
+  margin-block-end: 1em;
   margin-inline-start: 0px;
   margin-inline-end: 0px;
   -webkit-font-smoothing: antialiased;
