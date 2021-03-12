@@ -252,13 +252,11 @@ img.book-cover{
 }
 
 .toc h5 {
-  color: #777;
+  color: #000;
   font-family: "IBM Plex Sans", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-  font-size: 11px;
-  text-transform: uppercase;
-  letter-spacing: 1px;
+  font-weight: 500;
+  font-size: 12px;
+ letter-spacing: -0.03em;
   line-height: 1;
   display: block;
   margin-block-start: .5em;
