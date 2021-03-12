@@ -328,13 +328,14 @@ img.book-cover{
 }
 
 .toc a.request-link{
-  color: #ff0048;
+  background-color: #FDFFDC;
+  color: #000;
+  padding: 2px;
   border-bottom: none;
   text-decoration: none;
 
   &:hover{
-  background-color: #ff0048;
-  color: #fff;
+  background-color: #F8FF64;
   border-bottom: none;
   text-decoration: none;
   }
