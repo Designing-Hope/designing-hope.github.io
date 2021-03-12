@@ -55,5 +55,5 @@ This book seeks minimize environmental impact and offer content in accessible fo
 
 ###### &bull;&nbsp;&nbsp;<a href="/downloads/designinghope.pdf" download="designinghope.pdf" class="resource-link">eBook (PDF)</a><br/>
 ###### &bull;&nbsp;&nbsp;<a href="/downloads/designinghope.epub" download="designinghope.epub" class="resource-link">eBook (EPUB)</a><br/>
-###### &bull;&nbsp;&nbsp;<span class="coming-soon">Audiobook (Coming Soon)</span><br/>
+###### &bull;&nbsp;&nbsp;Audiobook (Coming Soon)<br/>
 </div>
