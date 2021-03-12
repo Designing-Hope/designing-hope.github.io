@@ -53,7 +53,7 @@ This book seeks minimize environmental impact and offer content in accessible fo
 
 ##### Downloads:
 
-###### &bull;&nbsp;&nbsp;<a href="/downloads/designinghope.pdf" download="designinghope.pdf" class="resource-link">eBook (PDF)</a><br/>
-###### &bull;&nbsp;&nbsp;<a href="/downloads/designinghope.epub" download="designinghope.epub" class="resource-link">eBook (EPUB)</a><br/>
-###### &bull;&nbsp;&nbsp;Audiobook (Coming Soon)<br/>
+###### &bull;&nbsp;&nbsp;<a href="/downloads/designinghope.pdf" download="designinghope.pdf" class="resource-link">PDF eBook</a> (4.1 MB)<br/>
+###### &bull;&nbsp;&nbsp;<a href="/downloads/designinghope.epub" download="designinghope.epub" class="resource-link">EPUB eBook</a> (1.7 MB)<br/>
+###### &bull;&nbsp;&nbsp;MP3 Audiobook (Coming Soon)<br/>
 </div>
