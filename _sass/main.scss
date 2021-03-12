@@ -318,9 +318,23 @@ img.book-cover{
   font-weight: 400;
   font-size: 16px;
   letter-spacing: -0.03em;
-  line-height: 2.5;
+  line-height: 2;
   border-bottom: none;
   text-decoration: none;
+}
+
+.toc a.request-link{
+  color: #ff0048;
+  font-family: "IBM Plex Sans", sans-serif;
+  border-bottom: none;
+  text-decoration: none;
+
+  &:hover{
+  background-color: #ff0048;
+  color: #fff;
+  border-bottom: none;
+  text-decoration: none;
+  }
 }
 
 .toc-nav{
