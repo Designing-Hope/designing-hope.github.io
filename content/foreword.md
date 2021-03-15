@@ -37,7 +37,9 @@ Do a little time traveling as you enter into any design process. If we approach 
 Get outside yourself. Seek out the weakest creatures and systems and place them at the center of your work. What would it take for them to be whole? Does this project, no matter how small, afford the possibility of change in that direction? 
 
 ## 3. Choose the prerequisites for those conditions.
-Sounds simple enough, but I actually suspect this is the radical part. It is so much easier to describe flourishing than it is to make the decisions that foster it. We must become the holy fools of innovation. So often, hope is hiding in plain sight just waiting for someone to point it out. 
+Sounds simple enough, but I actually suspect this is the radical part. It is so much easier to describe flourishing than it is to make the decisions that foster it. We must become the holy fools of innovation. So often, hope is hiding in plain sight just waiting for someone to point it out.
+
+###### • • •
  
 We are designing the future we will inhabit, and it is in no way fixed. We must become hopeful enough to choose a better way. Adopting this approach is no guarantee of good outcomes, but I view it as the precondition for Jeremy’s assurance that this better way is even possible. His approach might be the first three steps toward some inner alchemy that transforms hope from a noun into a verb. From that quiet thing collecting dust in the attic to the absurd and beautiful shape of our preferred future.
  
