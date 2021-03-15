@@ -31,13 +31,13 @@ Many of us have been trained to think and speak about hope as if it were a genet
 Not because we are unafraid, or selfless, or little gods, but because the work of what he might call hopeful design must be accountable to a future we hold in common. And a significant aspect of the work of a designer is increasing our fidelity to that shared aim. This is the work of imagination and persuasion. And in my time with the author, it has been a great privilege to see him—on projects large and small—take up these two pursuits in what I can only term the discipline of hope. It’s something he conjures that I find simultaneously professional and radical. I see this discipline unfolding in three steps:
 
 ## 1. Situate yourself in the future.
-Do a little time traveling as you enter into any design process. If we approach our work from where we wish to go, we have a much better view of how to get there. This kind of vision requires careful tending or it quickly grows stale. Jeremy lives out of this preferred reality and relishes the toil of its continuing renewal.
+#### Do a little time traveling as you enter into any design process. If we approach our work from where we wish to go, we have a much better view of how to get there. This kind of vision requires careful tending or it quickly grows stale. Jeremy lives out of this preferred reality and relishes the toil of its continuing renewal.
 
 ## 2. Imagine the conditions of flourishing.
-Get outside yourself. Seek out the weakest creatures and systems and place them at the center of your work. What would it take for them to be whole? Does this project, no matter how small, afford the possibility of change in that direction? 
+#### Get outside yourself. Seek out the weakest creatures and systems and place them at the center of your work. What would it take for them to be whole? Does this project, no matter how small, afford the possibility of change in that direction? 
 
 ## 3. Choose the prerequisites for those conditions.
-Sounds simple enough, but I actually suspect this is the radical part. It is so much easier to describe flourishing than it is to make the decisions that foster it. We must become the holy fools of innovation. So often, hope is hiding in plain sight just waiting for someone to point it out.
+#### Sounds simple enough, but I actually suspect this is the radical part. It is so much easier to describe flourishing than it is to make the decisions that foster it. We must become the holy fools of innovation. So often, hope is hiding in plain sight just waiting for someone to point it out.
 
 ###### • • •
  
