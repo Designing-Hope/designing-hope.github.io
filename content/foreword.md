@@ -28,7 +28,7 @@ I suppose I’m saying that the author comes to his subject with admirable serio
  
 Many of us have been trained to think and speak about hope as if it were a genetic trait: either you have it, or you don’t. Still others believe hope is stylistic; the outward trappings of an optimist. Here, Jeremy is proclaiming that hope is something we can—and must—do.
  
-Not because we are unafraid, or selfless, or little gods, but because the work of what he might call hopeful design must be accountable to a future we hold in common. And a significant aspect of the work of a designer is increasing our fidelity to that shared aim. This is the work of imagination and persuasion. And in my time with the author, it has been a great privilege to see him—on projects large and small—take up these two pursuits in what I can only term the discipline of hope. It’s something he conjures that I find simultaneously professional and radical. I see this discipline unfolding in three steps.
+Not because we are unafraid, or selfless, or little gods, but because the work of what he might call hopeful design must be accountable to a future we hold in common. And a significant aspect of the work of a designer is increasing our fidelity to that shared aim. This is the work of imagination and persuasion. And in my time with the author, it has been a great privilege to see him—on projects large and small—take up these two pursuits in what I can only term the discipline of hope. It’s something he conjures that I find simultaneously professional and radical. I see this discipline unfolding in three steps:
 
 >
 **Situate yourself in the future.**
