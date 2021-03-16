@@ -61,6 +61,6 @@ This book seeks to minimize environmental impact and offer content in accessible
 
 Sign up to receive updates on the book. Anytime new content is released you will be the first to know. Don't worry your information is safe, zero funny business. _Zero, I tell you!_
 
-a <a href="http://eepurl.com/hthIUX" class="btn">
+<a href="http://eepurl.com/hthIUX" class="btn">Subsribe</a>
 
 </div>
