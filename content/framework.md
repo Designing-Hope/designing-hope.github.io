@@ -9,7 +9,7 @@ title: 'Framework'
 <div class="definition-inner">
 <div class="definition-copy">
   <h3>Framework</h3>
-	<h1><span class="first-phrase">Hopeful Design</span> is a design framework that creates hope by practicing in an ecosystem, honoring that community with its solutions, and sharing in the responsibility of its outcomes.</h1>
+	<h1><span class="first-phrase">Hopeful Design</span> is a design framework that creates hope by practicing in an ecosystem, honoring that community with its solutions, and sharing in the responsibility of its outcomes.</h1><br/>
   <a href="/" class="btn">Read the Book</a>
 </div>
 </div>
