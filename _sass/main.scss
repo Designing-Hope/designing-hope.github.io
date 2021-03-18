@@ -548,25 +548,6 @@ blockquote {
   max-width: 150ch;
 }
 
-.definition a.btn{
-  color: #fff;
-  background-color: #121212;
-  font-family: "IBM Plex Sans", sans-serif;
-  font-size: 14px;
-  font-weight: 500;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  border: 1px #666 solid;
-  border-radius: 50px;
-  padding: 12px 50px;
-  text-decoration: none;
-
-  &:hover {
-    background-color: #fff;
-    color: #000;
-  }
-}
-
 .definition h1{
   color: #888;
   font-family: "IBM Plex Sans", sans-serif;
@@ -590,9 +571,38 @@ blockquote {
   margin-inline-end: 0px;
 }
 
+.definition h6 {
+    color: #ccc;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
 .definition .first-phrase{
   font-weight: 500;
   color: #fff;
+}
+
+.definition a.btn{
+  color: #fff;
+  background-color: #121212;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  border: 1px #666 solid;
+  border-radius: 50px;
+  padding: 12px 50px;
+  text-decoration: none;
+
+  &:hover {
+    background-color: #fff;
+    color: #000;
+  }
 }
 
 .principles-inner{
