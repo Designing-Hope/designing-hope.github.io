@@ -256,7 +256,7 @@ img.book-cover{
   font-family: "IBM Plex Sans", sans-serif;
   font-weight: 500;
   font-size: 13px;
- letter-spacing: -0.02em;
+  letter-spacing: -0.02em;
   line-height: 1;
   display: block;
   margin-block-start: .5em;
@@ -572,13 +572,23 @@ blockquote {
 }
 
 .definition h6 {
-    color: #ccc;
-    font-family: "IBM Plex Sans", sans-serif;
-    font-size: 20px;
-    font-weight: 400;
-    text-align: center;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+  color: #999;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  text-align: left;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.definition h6 a.pdf-link{
+  color: #fff;
+  text-decoration: underline;
+}
+
+.definition h6 a.pdf-link:hover{
+  color: #ff0048;
+  text-decoration: none;
 }
 
 .definition .first-phrase{
@@ -772,11 +782,11 @@ footer.framework_footer{
 // !-- Medium Screens //
 
 @media screen and (max-width: 1000px) {
-.landing{padding: 20px 40px 0 0;}
+  .landing{padding: 20px 40px 0 0;}
 }
 
 @media screen and (max-width: 900px) {
-.landing{padding: 0 40px 0 0;}
+  .landing{padding: 0 40px 0 0;}
 }
 
 // !-- Small Screens //

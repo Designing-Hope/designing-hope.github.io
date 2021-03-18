@@ -11,7 +11,7 @@ title: 'Framework'
   <h3>Framework</h3>
 	<h1><span class="first-phrase">Hopeful Design</span> is a design framework that creates hope by practicing in an ecosystem, honoring that community with its solutions, and sharing in the responsibility of its outcomes.</h1><br/>
   <a href="/" class="btn">Read the Book</a>
-  <h6> Or if you prefer, <a href="/downloads/hopefuldesign.pdf" download="hopefuldesign.pdf">download a PDF</a> of this framework.</h6>
+  <h6>Or if you prefer, <a href="/downloads/hopefuldesign.pdf" download="hopefuldesign.pdf" class="pdf-link">download a PDF</a> of this framework.</h6>
 </div>
 </div>
 </div>
