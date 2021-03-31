@@ -57,11 +57,15 @@ This book seeks to minimize environmental impact and offer content in accessible
 
 <br/>
 
-#### Community Updates
+#### Email Updates
 
-Sign up to receive publishing updates on the book delivered directly to your inbox. When new content is released you will be the first to know. Don't worry your information is safe, _zero funny business_.
+Sign up to receive publishing updates on the book. When new content is released you will be the first to know. Don't worry your information is safe, _zero funny business_.
 
 <a href="http://eepurl.com/hthIUX" class="btn">Subscribe &rsaquo;</a>
+
+<br/>
+
+#### Community Feedback
 
 This book thrives on community feedback. It's meant to adapt to the ecosystem it serves. I'd love to hear your thoughts.
 
