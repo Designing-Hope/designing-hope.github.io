@@ -57,10 +57,14 @@ This book seeks to minimize environmental impact and offer content in accessible
 
 <br/>
 
-#### Email Updates
+#### Community Updates
 
-Sign up to receive publishing updates on the book. When new content is released you will be the first to know. Don't worry your information is safe, _zero funny business_.
+Sign up to receive publishing updates on the book delivered directly to your inbox. When new content is released you will be the first to know. Don't worry your information is safe, _zero funny business_.
 
 <a href="http://eepurl.com/hthIUX" class="btn">Subscribe &rsaquo;</a>
+
+This book thrives on community feedback. It's meant to adapt to the ecosystem it serves. I'd love to hear your thoughts.
+
+<a href="https://www.goodreads.com/book/show/56139631-designing-hope" class="btn">Review &rsaquo;</a>
 
 </div>
