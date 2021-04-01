@@ -67,7 +67,7 @@ Sign up to receive publishing updates on the book. When new content is released 
 
 #### Community Feedback
 
-This book thrives on community feedback. It's meant to adapt to the ecosystem it serves. I'd love to hear your thoughts.
+This book thrives on feedback. It seeks to reflect to the community it serves. I'd be honored if you gave the book a review _(on Goodreads)_ or <a href="mailto:info@hopeful.design">reach out</a> with your thoughts.
 
 <a href="https://www.goodreads.com/book/show/56139631-designing-hope" class="btn">Review &rsaquo;</a>
 
