@@ -47,7 +47,9 @@ The ever moving and changing current of design can also be hard to navigate. We�
 
 The word “trend” has a couple of definitions. The first commonly used meaning is tied to aesthetics or fashion—something timely that’s in favor. The second definition, however, describes a flow or current. It’s directional and moves forward. We can look back in design’s history to see this trend meandering through new landscapes.
 
-Sometimes this flow is headed in the right direction. It’s easy to identify that it’s progressing toward a desirable outcome. I think of the renewed emphasis on privacy that is taking place in the technology space. Advocating for users’ privacy seems to be a trend headed in the right direction. But this isn’t always the case. There are times when the pushing current has more momentum than substance. It’s like this in our practice: Before we take a blind plunge into the rushing waters, we must evaluate their course.
+Sometimes this flow is headed in the right direction. It’s easy to identify that it’s progressing toward a desirable outcome. I think of the renewed emphasis on privacy that is taking place in the technology space. Advocating for users’ privacy seems to be a trend headed in the right direction. But this isn’t always the case. There are times when the pushing current has more momentum than substance. 
+
+It’s like this in our practice: Before we take a blind plunge into the rushing waters, we must evaluate their course.
 
 We have to remember that only time evaluates trends. Wisdom looks like being able to pull from past experience to determine whether the current is moving toward a collective good. Trends tend to happen in cycles naturally. Once we’ve experienced a cycle or two, we’ll have more confidence which trends we should move with and which ones we should move against.
 
