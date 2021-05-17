@@ -335,8 +335,8 @@ img.book-cover{
 }
 
 .toc a.btn{
-  color: #fff;
-  background-color: #ff0048;
+  color: #000;
+  background-color: #eee;
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 13px;
   font-weight: 500;
@@ -348,7 +348,7 @@ img.book-cover{
   text-decoration: none;
 
   &:hover {
-    background-color: #000;
+    background-color: #ff0048;
     color: #fff;
   }
 }
