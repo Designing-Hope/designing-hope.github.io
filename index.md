@@ -53,7 +53,7 @@ This book seeks to minimize environmental impact and offer content in accessible
 
 ###### &bull;&nbsp;&nbsp;<a href="/downloads/designinghope.pdf" download="designinghope.pdf" class="resource-link">PDF format</a> (4.1 MB)<br/>
 ###### &bull;&nbsp;&nbsp;<a href="/downloads/designinghope.epub" download="designinghope.epub" class="resource-link">EPUB version</a> (1.7 MB)<br/>
-###### &bull;&nbsp;&nbsp;MP3 audiobook (coming later this year)
+###### &bull;&nbsp;&nbsp;MP3 audiobook (Fall 2021)
 
 There’s only a handful of printed copies circulating in communites, and that’s on purpose. This book was created to be shared. Want a copy or copies for your community?
 
