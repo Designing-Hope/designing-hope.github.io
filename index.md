@@ -53,7 +53,9 @@ _Designing Hope_ is a book that explores creating compassionate work for humans.
 
 #### Digital Formats
 
-This book seeks to minimize environmental impact and offer content in accessible formats both on and offline. 
+This book seeks to minimize environmental impact and offer content in accessible formats both on and offline.
+
+##### Help yourself to the downloads below.
 
 ###### &bull;&nbsp;&nbsp;<a href="/downloads/designinghope.pdf" download="designinghope.pdf" class="resource-link">PDF format</a> (4.1 MB)<br/>
 ###### &bull;&nbsp;&nbsp;<a href="/downloads/designinghope.epub" download="designinghope.epub" class="resource-link">EPUB version</a> (1.7 MB)<br/>
