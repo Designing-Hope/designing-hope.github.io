@@ -63,7 +63,9 @@ This book seeks to minimize environmental impact and offer content in accessible
 
 #### Print Format
 
-There’s only a handful of printed copies circulating in communites, and that’s on purpose. This book was created to be shared.
+There’s only a handful of printed copies circulating in communites, and that’s on purpose. This book was created to be shared. 
+
+##### Want a copy for your community?
 
 <a href="https://forms.gle/MLsNfY6AZ4gTZ9QK7" class="btn">Request Book &rsaquo;</a>
 
@@ -71,7 +73,9 @@ There’s only a handful of printed copies circulating in communites, and that�
 
 #### Community Feedback
 
-This book seeks to reflect the community it serves and thrives on feedback. I'd be honored if you reviewed the book _(on Goodreads)_. Also feel free to <a href="mailto:info@hopeful.design">reach out</a> with your thoughts.
+This book seeks to reflect the community it serves and thrives on feedback. Feel free to <a href="mailto:info@hopeful.design">reach out</a> with your thoughts.
+
+##### I'd be honored if you reviewed the book _(on Goodreads)_.
 
 <a href="https://www.goodreads.com/book/show/56139631-designing-hope" class="btn">Review &rsaquo;</a>
 
