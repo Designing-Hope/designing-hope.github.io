@@ -77,6 +77,6 @@ This book seeks to reflect the community it serves and thrives on feedback. Feel
 
 ##### I'd be honored if you reviewed the book _(on Goodreads)_.
 
-<a href="https://www.goodreads.com/book/show/56139631-designing-hope" class="btn">Review &rsaquo;</a>
+<a href="https://www.goodreads.com/book/show/56139631-designing-hope" class="btn">Review Book &rsaquo;</a>
 
 </div>
