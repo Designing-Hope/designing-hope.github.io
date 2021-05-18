@@ -65,7 +65,7 @@ This book seeks to minimize environmental impact and offer content in accessible
 
 There’s only a handful of printed copies circulating in communites, and that’s on purpose. This book was created to be shared. 
 
-##### Want a copy for your community?
+##### Want a physical copy for your community?
 
 <a href="https://forms.gle/MLsNfY6AZ4gTZ9QK7" class="btn">Request Book &rsaquo;</a>
 
