@@ -47,7 +47,7 @@ _Designing Hope_ is a book that explores creating compassionate work for humans.
 
 ##### Sign up to receive publishing updates on the book.
 
-<a href="http://eepurl.com/hthIUX" class="btn">Subscribe &rsaquo;</a>
+<a href="http://eepurl.com/hthIUX" class="btn_subscribe">Subscribe &rsaquo;</a>
 
 <br/>
 
