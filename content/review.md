@@ -9,6 +9,7 @@ title: 'Review'
 
 ## Sit tight...
 
+<br/>
 	
 ###### Follow <a href="https://www.goodreads.com/book/show/56139631-designing-hope">this link</a> if you are not redirected to Goodreads in a few seconds.
 
