@@ -81,9 +81,10 @@ This book seeks to reflect the community it serves and thrives on feedback. Feel
 
 <a href="https://www.goodreads.com/book/show/56139631-designing-hope" class="btn">Review Book &rsaquo;</a>
 
-##### Here's what some kind readers are saying:
+<br/>
 
-"Empathetic, practical, and of course, profoundly hopeful: An accessible manual for designers who want to swim upstream against the tide of cynicism. Warmly recommended!"
-- Abby
+#### Kinds Words
+
+_"Empathetic, practical, and of course, profoundly hopeful: An accessible manual for designers who want to swim upstream against the tide of cynicism. Warmly recommended!"_ ― Abby
 
 </div>
