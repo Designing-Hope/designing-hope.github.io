@@ -73,7 +73,7 @@ There’s only a handful of printed copies circulating in communites, and that�
 
 <br/>
 
-#### Community Feedback
+#### Review the Book
 
 This book seeks to reflect the community it serves and thrives on feedback. Feel free to <a href="mailto:info@hopeful.design">reach out</a> with your thoughts.
 
@@ -83,7 +83,7 @@ This book seeks to reflect the community it serves and thrives on feedback. Feel
 
 <br/>
 
-#### Kinds Words
+#### Community Feedback
 
 > _"Empathetic, practical, and of course, profoundly hopeful: An accessible manual for designers who want to swim upstream against the tide of cynicism."_
 > ― <a href="https://www.goodreads.com/review/show/4114130857">Abby</a>
