@@ -92,4 +92,7 @@ This book seeks to reflect the community it serves and thrives on feedback. Feel
 > _"A thoughtful, hopeful and compassionate book that anyone in design and/or product development should read. At the very least, Jeremy forces you to stop and consider the implications of your work."_  
 > ― <a href="https://www.goodreads.com/review/show/4127252763">Ben</a>
 
+> _"The ad industry is chockful of cynicism and resentment—toward the industry itself, toward clients and, most disappointingly, toward audiences. Jeremy believes in another way. He believes deep down that we can do good with our skillsets. That when viewed through the lens of serving others, this fun and frustrating and furious work can have purpose."_  
+> ― <a href="https://www.goodreads.com/review/show/4119192744">Chris</a>
+
 </div>
