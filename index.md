@@ -86,7 +86,7 @@ This book seeks to reflect the community it serves and thrives on feedback. Feel
 #### Community Feedback
 
 > _"Empathetic, practical, and of course, profoundly hopeful: An accessible manual for designers who want to swim upstream against the tide of cynicism."_  
-> ###### ― <a href="https://www.goodreads.com/review/show/4114130857">Abby</a>
+> ― <a href="https://www.goodreads.com/review/show/4114130857">Abby</a>
 
 
 > _"A thoughtful, hopeful and compassionate book that anyone in design and/or product development should read. At the very least, Jeremy forces you to stop and consider the implications of your work."_  
