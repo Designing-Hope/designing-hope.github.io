@@ -84,13 +84,16 @@ This book seeks to reflect the community it serves and thrives on feedback. Feel
 <br/>
 
 #### Community Feedback
-
+>
 _"Empathetic, practical, and of course, profoundly hopeful: An accessible manual for designers who want to swim upstream against the tide of cynicism."_ &nbsp;&nbsp;― <a href="https://www.goodreads.com/review/show/4114130857">Abby</a>
 
+>
 _"A thoughtful, hopeful and compassionate book that anyone in design and/or product development should read. At the very least, Jeremy forces you to stop and consider the implications of your work."_ &nbsp;&nbsp;― <a href="https://www.goodreads.com/review/show/4127252763">Ben</a>
 
-_"The ad industry is chockful of cynicism and resentment—toward the industry itself, toward clients and, most disappointingly, toward audiences. Jeremy believes in another way. He believes deep down that we can do good with our skillsets. That when viewed through the lens of serving others, this fun and frustrating and furious work can have purpose."_ &nbsp;&nbsp;― <a href="https://www.goodreads.com/review/show/4119192744">Chris</a>
+>
+_"The ad industry is chockful of cynicism and resentment... Jeremy believes in another way. He believes deep down that we can do good with our skillsets. That when viewed through the lens of serving others, this fun and frustrating and furious work can have purpose."_ &nbsp;&nbsp;― <a href="https://www.goodreads.com/review/show/4119192744">Chris</a>
 
+>
 _"I really connected with the spirit of this little book - looking at our platforms and fields of work as chances to practice and display servanthood, stewardship, humility, and integrity."_ &nbsp;&nbsp;― <a href="https://www.goodreads.com/review/show/4136960230">Karl</a>
 
 </div>
