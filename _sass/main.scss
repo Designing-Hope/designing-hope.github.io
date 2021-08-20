@@ -309,6 +309,18 @@ img.book-cover{
   }
 }
 
+.toc blockquote {
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 20px;
+    border-left: #ddd 4px solid;
+    padding: 0 50px 0 30px;
+    letter-spacing: -0.03em;
+    margin-inline-start: 20px;
+    margin-inline-end: 20px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
 .toc-nav{
   padding-top: 10px;
   color: #999;
