@@ -47,7 +47,7 @@ Technology has promised humans a lot of things over the millennia of our existen
 
 Our wired world has given the word “connection” a new meaning. And not just electronically but also socially. We’ve grown to replace real connection with a simulation.
 
-Authentic compliments and conversation have been replaced with gestures upon a cold sheet of glass. Personalities formed by countless experiences have been reduced to avatars within a steady stream curated content. When did we start to lose the humanity in it all? We often exist just inches from one another yet are mentally miles apart.
+Authentic compliments and conversation have been replaced with gestures upon a cold sheet of glass. Personalities formed by countless experiences have been reduced to avatars within a steady stream of curated content. When did we start to lose the humanity in it all? We often exist just inches from one another yet are mentally miles apart.
 
 It’s precisely when we try to eliminate our need for each other that things begin to unravel. It requires tremendous humility to rely on a community. Shared life troubles the pride we hold in our much coveted self-reliance. 
 

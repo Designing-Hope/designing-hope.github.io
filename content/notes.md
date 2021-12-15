@@ -27,7 +27,7 @@ title: 'Notes'
 
 ## 03. Impacting Humanity
 
-- *"I immediately think of one of the most famous maps of all time, Maximo Vignelli’s New York City subway map..."* <a href="https://artsandculture.google.com/entity/massimo-vignelli/m0c_x5j" class="note-highlight">learn more</a>.
+- *"I immediately think of one of the most famous maps of all time, Massimo Vignelli’s New York City subway map..."* <a href="https://artsandculture.google.com/entity/massimo-vignelli/m0c_x5j" class="note-highlight">learn more</a>.
 
 - *"The word “design” derives from designation..."* <a href="https://www.merriam-webster.com/dictionary/design" class="note-highlight">etymology</a>.
 

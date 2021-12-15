@@ -37,7 +37,7 @@ It can be hard to separate ourselves enough from the design process to inhabit t
 
 ## Design as ecology
 
-Design is ecological work. It is only as important as the space in which it lives and breathes. While some of the best design transcends time and place, its genesis existed within an organic system. Its recipients had beating hearts and thinking minds. I immediately think of one of the most famous maps of all time, Maximo Vignelli’s New York City subway map. He knew in embracing that design challenge that there would be real humans clutching that map in their hands. For some it would provide simple, practical navigation, but for others, it would be the only way to journey through an overwhelming metropolis of complexity.
+Design is ecological work. It is only as important as the space in which it lives and breathes. While some of the best design transcends time and place, its genesis existed within an organic system. Its recipients had beating hearts and thinking minds. I immediately think of one of the most famous maps of all time, Massimo Vignelli’s New York City subway map. He knew in embracing that design challenge that there would be real humans clutching that map in their hands. For some it would provide simple, practical navigation, but for others, it would be the only way to journey through an overwhelming metropolis of complexity.
 
 Design impacts humans. And through individuals, design impacts the ecosystems, environments, and cultures that humans inhabit. Design molds and shapes our perception of our lives. And so design’s value completely rests upon its usefulness to living things.
 
