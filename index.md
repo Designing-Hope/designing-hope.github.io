@@ -96,4 +96,7 @@ _"Jeremy believes in another way... That when viewed through the lens of serving
 >
 _"I really connected with the spirit of this little book - looking at our platforms and fields of work as chances to practice and display servanthood, stewardship, humility, and integrity."_ &nbsp;&nbsp;― <a href="https://www.goodreads.com/review/show/4136960230">Karl</a>
 
+>
+_"An incredibly thoughtful and inspiring book about design and the role designers play in the larger context of technology and society as a whole. The book is centralized around a framework that is both clear and concise, making it easy to read."_ &nbsp;&nbsp;― <a href="https://www.goodreads.com/review/show/4389630960">Jon</a>
+
 </div>
