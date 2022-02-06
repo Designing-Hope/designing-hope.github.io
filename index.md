@@ -47,7 +47,7 @@ _Designing Hope_ is a book that explores creating compassionate work for humans.
 
 ##### Sign up to receive publishing updates on the book.
 
-<a href="http://eepurl.com/hthIUX" class="btn_subscribe">Subscribe &rsaquo;</a>
+<a href="http://eepurl.com/hthIUX" class="btn_subscribe">Subscribe &rarr;</a>
 
 <br/>
 
@@ -69,7 +69,7 @@ Thereâ€™s only a handful of printed copies circulating in communites, and thatâ€
 
 ##### Want a physical copy for your community?
 
-<a href="https://forms.gle/MLsNfY6AZ4gTZ9QK7" class="btn">Request Book &rsaquo;</a>
+<a href="https://forms.gle/MLsNfY6AZ4gTZ9QK7" class="btn">Request Book &rarr;</a>
 
 <br/>
 
@@ -79,7 +79,7 @@ This book seeks to reflect the community it serves and thrives on feedback. Feel
 
 ##### I'd be honored if you reviewed the book _(on Goodreads)_.
 
-<a href="https://www.goodreads.com/book/show/56139631-designing-hope" class="btn">Review Book &rsaquo;</a>
+<a href="https://www.goodreads.com/book/show/56139631-designing-hope" class="btn">Review Book &rarr;</a>
 
 <br/>
 
