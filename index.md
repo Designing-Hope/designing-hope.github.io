@@ -41,7 +41,7 @@ coverimage: '/images/book-cover.svg'
 
 <br/>
 
-#### About the Book
+#### [About the Book](#about)
 
 _Designing Hope_ is a book that explores creating compassionate work for humans. It defines a design framework that creates hope by practicing in an ecosystem, honoring that community with its solutions, and sharing in the responsibility of its outcomes. It’s equal parts manifesto and practical guide. It strives to rise above technical theory, seeking out practical compassion. In short, if you create things for others _(you do)_, this book is for you.
 
@@ -51,11 +51,9 @@ _Designing Hope_ is a book that explores creating compassionate work for humans.
 
 <br/>
 
-#### Digital Formats
+#### [Download](#download)
 
 This book seeks to minimize environmental impact and offer content in accessible formats both on and offline.
-
-##### Downloads:
 
 ###### &bull;&nbsp;&nbsp;<a href="/downloads/designinghope.pdf" download="designinghope.pdf" class="resource-link">PDF format</a> (4.1 MB)<br/>
 ###### &bull;&nbsp;&nbsp;<a href="/downloads/designinghope.epub" download="designinghope.epub" class="resource-link">EPUB format</a> (1.7 MB)<br/>
@@ -63,7 +61,7 @@ This book seeks to minimize environmental impact and offer content in accessible
 
 <br/>
 
-#### Print Format
+#### [Print Format](#print)
 
 There’s only a handful of printed copies circulating in communites, and that’s on purpose. This book was created to be shared. 
 
@@ -83,7 +81,7 @@ This book seeks to reflect the community it serves and thrives on feedback. Feel
 
 <br/>
 
-#### Community Feedback
+#### [Community Feedback](#feedback)
 >
 _"Empathetic, practical, and of course, profoundly hopeful: An accessible manual for designers who want to swim upstream against the tide of cynicism."_ &nbsp;&nbsp;― <a href="https://www.goodreads.com/review/show/4114130857">Abby</a>
 
