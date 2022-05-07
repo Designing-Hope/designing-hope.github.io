@@ -51,6 +51,24 @@ _Designing Hope_ is a book that explores creating compassionate work for humans.
 
 <br/>
 
+#### [Reviews](#reviews)
+
+This book seeks to reflect the community it serves and thrives on feedback. I'd be honored if you reviewed the book _(on Goodreads)_, or feel free to <a href="mailto:info@hopeful.design">reach out</a> with your thoughts. 
+
+##### Here's some incredibly kind words from readers:
+>
+_"Empathetic, practical, and of course, profoundly hopeful: An accessible manual for designers who want to swim upstream against the tide of cynicism."_ &nbsp;&nbsp;― <a href="https://www.goodreads.com/review/show/4114130857">Abby</a>
+
+>
+_"I really connected with the spirit of this little book - looking at our platforms and fields of work as chances to practice and display servanthood, stewardship, humility, and integrity."_ &nbsp;&nbsp;― <a href="https://www.goodreads.com/review/show/4136960230">Karl</a>
+
+>
+_"An incredibly thoughtful and inspiring book about design and the role designers play in the larger context of technology and society as a whole."_ &nbsp;&nbsp;― <a href="https://www.goodreads.com/review/show/4389630960">Jon</a>
+
+<a href="https://www.goodreads.com/book/show/56139631-designing-hope" class="btn_subscribe">Review Book &rarr;</a>
+
+<br/>
+
 #### [Download](#download)
 
 This book seeks to minimize environmental impact and offer content in accessible formats both on and offline.
@@ -67,30 +85,6 @@ There’s only a handful of printed copies circulating in communites, and that�
 ##### Want a physical copy for your community?
 
 <a href="https://forms.gle/MLsNfY6AZ4gTZ9QK7" class="btn">Request Book &rarr;</a>
-
-<br/>
-
-#### Review the Book
-
-This book seeks to reflect the community it serves and thrives on feedback. Feel free to <a href="mailto:info@hopeful.design">reach out</a> with your thoughts.
-
-##### I'd be honored if you reviewed the book _(on Goodreads)_.
-
-<a href="https://www.goodreads.com/book/show/56139631-designing-hope" class="btn">Review Book &rarr;</a>
-
-<br/>
-
-#### [Community Feedback](#feedback)
->
-_"Empathetic, practical, and of course, profoundly hopeful: An accessible manual for designers who want to swim upstream against the tide of cynicism."_ &nbsp;&nbsp;― <a href="https://www.goodreads.com/review/show/4114130857">Abby</a>
-
->
-_"I really connected with the spirit of this little book - looking at our platforms and fields of work as chances to practice and display servanthood, stewardship, humility, and integrity."_ &nbsp;&nbsp;― <a href="https://www.goodreads.com/review/show/4136960230">Karl</a>
-
->
-_"An incredibly thoughtful and inspiring book about design and the role designers play in the larger context of technology and society as a whole."_ &nbsp;&nbsp;― <a href="https://www.goodreads.com/review/show/4389630960">Jon</a>
-
-<a href="https://www.goodreads.com/book/show/56139631-designing-hope" class="btn">More Reviews &rarr;</a>
 
 <br/>
 
