@@ -94,6 +94,6 @@ One of my favorite things to do is to speak to organizations about how hopeful d
 
 ##### Would you like to collaborate?
 
-<a href="mailto:speaking@hopeful.design" class="btn">Contact Me &rarr;</a>
+<a href="https://jeremydcherry.com/speaking" class="btn">Learn More &rarr;</a>
 
 </div>
