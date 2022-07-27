@@ -207,6 +207,7 @@ img.book-cover{
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 36px;
   font-weight: 500;
+  font-feature-settings: 'liga', 'clig';
   line-height: 1;
   letter-spacing: -0.03em;
   margin-block-start: 1.25em;
@@ -222,6 +223,7 @@ img.book-cover{
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 24px;
   font-weight: 400;
+  font-feature-settings: 'liga', 'clig';
   line-height: 1;
   text-transform: none;
   letter-spacing: -0.03em;
@@ -239,6 +241,7 @@ img.book-cover{
   font-weight: 400;
   font-style: normal;
   font-size: 13px;
+  font-feature-settings: 'liga', 'clig';
   text-transform: uppercase;
   letter-spacing: 1px;
   line-height: 1;
@@ -256,6 +259,7 @@ img.book-cover{
   font-family: "IBM Plex Sans", sans-serif;
   font-weight: 500;
   font-size: 13px;
+  font-feature-settings: 'liga', 'clig';
   letter-spacing: -0.02em;
   line-height: 1;
   display: block;
@@ -272,6 +276,7 @@ img.book-cover{
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 17px;
   font-weight: 400;
+  font-feature-settings: 'liga', 'clig';
   letter-spacing: -0.03em;
   line-height: 2.25;
   text-align: left;
@@ -476,6 +481,7 @@ h1{
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 90px;
   font-weight: 500;
+  font-feature-settings: 'liga', 'clig';
   letter-spacing: -0.03em;
   line-height: 1;
   display: block;
@@ -491,6 +497,7 @@ h2 {
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 26px;
   font-weight: 500;
+  font-feature-settings: 'liga', 'clig';
   letter-spacing: -0.02em;
   line-height: 1;
   margin-block-start: 2em;
@@ -506,6 +513,7 @@ h3{
   font-weight: 400;
   font-style: normal;
   font-size: 16px;
+  font-feature-settings: 'liga', 'clig';
   text-transform: uppercase;
   letter-spacing: 1px;
   line-height: 1;
@@ -522,6 +530,7 @@ h4 {
     font-family: "IBM Plex Sans", sans-serif;
     font-size: 26px;
     font-weight: 300;
+    font-feature-settings: 'liga', 'clig';
     letter-spacing: -0.02em;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -531,6 +540,7 @@ h5 {
     font-family: "IBM Plex Sans", sans-serif;
     font-size: 20px;
     font-weight: 400;
+    font-feature-settings: 'liga', 'clig';
     letter-spacing: -0.02em;
     margin-block-start: .25em;
     margin-block-end: .25em;
@@ -545,6 +555,7 @@ h6 {
     font-family: "IBM Plex Sans", sans-serif;
     font-size: 20px;
     font-weight: 400;
+    font-feature-settings: 'liga', 'clig';
     text-align: center;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -572,6 +583,7 @@ blockquote {
     font-family: "IBM Plex Sans", sans-serif;
     font-size: 48px;
     font-weight: 500;
+    font-feature-settings: 'liga', 'clig';
     letter-spacing: -.03em;
     line-height: 1;
     display: block;
@@ -630,6 +642,7 @@ blockquote {
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 78px;
   font-weight: 300;
+  font-feature-settings: 'liga', 'clig';
   line-height: 1.15;
   letter-spacing: -0.05em;
   margin-block-start: 0px;
@@ -653,6 +666,7 @@ blockquote {
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 15px;
   font-weight: 400;
+  font-feature-settings: 'liga', 'clig';
   text-align: left;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -710,6 +724,7 @@ blockquote {
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 120px;
   font-weight: 300;
+  font-feature-settings: 'liga', 'clig';
   letter-spacing: -0.03em;
   line-height: .75;
   display: block;
@@ -728,6 +743,7 @@ blockquote {
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 30px;
   font-weight: 500;
+  font-feature-settings: 'liga', 'clig';
   letter-spacing: -0.02em;
   line-height: 1;
   margin-block-start: 0px;
@@ -770,6 +786,7 @@ blockquote {
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 110px;
   font-weight: 100;
+  font-feature-settings: 'liga', 'clig';
   letter-spacing: -0.03em;
   line-height: .75;
   display: block;
@@ -788,6 +805,7 @@ blockquote {
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 30px;
   font-weight: 500;
+  font-feature-settings: 'liga', 'clig';
   letter-spacing: -0.02em;
   line-height: 1;
   margin-block-start: 0px;
