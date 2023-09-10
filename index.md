@@ -45,6 +45,8 @@ coverimage: '/images/book-cover.svg'
 
 _Designing Hope_ is a book that explores creating compassionate work for humans. It defines a design framework that creates hope by practicing in an ecosystem, honoring that community with its solutions, and sharing in the responsibility of its outcomes. It’s equal parts manifesto and practical guide. It strives to rise above technical theory, seeking out practical compassion. In short, if you create things for others _(you do)_, this book is for you.
 
+<br/>
+
 #### [Reviews](#reviews)
 
 This book seeks to reflect the community it serves and thrives on feedback. I'd be honored if you reviewed the book _(on Goodreads)_, or feel free to <a href="mailto:info@hopeful.design">reach out</a> with your thoughts. 
